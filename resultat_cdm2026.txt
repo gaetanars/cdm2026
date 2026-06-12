@@ -1,0 +1,296 @@
+===========================================================================
+COUPE DU MONDE FIFA 2026 — BASE DE DONNÉES RÉSULTATS
+Dernière mise à jour : 2026-06-12T00:00:00Z
+Phase actuelle : Phase de groupes - Journée 1
+Matchs enregistrés : 2
+Sources consultées : FIFA.com, BBC Sport, L'Équipe, Marca, GloboEsporte, ESPN, SofaScore, Transfermarkt, NHK Sport, Al Jazeera Sport (10 sources, 6 langues, 4 continents)
+===========================================================================
+
+[PHASE DE GROUPES - GROUPE A]
+Match 1 : Mexique 2 - 0 Afrique du Sud (2026-06-11, Estadio Azteca, Mexico City)
+  Buteurs : Julián Quiñones (9'), Raúl Jiménez (67' tête)
+  Cartons jaunes : Brian Gutiérrez (23', MEX)
+  Cartons rouges : Sphephelo Sithole (49', AFS, DOGSO), Themba Zwane (84', AFS, violent conduct - VAR), César Montes (90'+2, MEX, DOGSO)
+  Affluence : 80 824 | Notes : Match inaugural. AFS réduite à 9 joueurs. Premier match d'ouverture CDM avec 3 cartons rouges. Gilberto Mora (17 ans, 240 jours) plus jeune Mexicain en CDM. César Montes suspendu prochain match.
+Match 2 : Corée du Sud 2 - 1 Tchéquie (2026-06-11, Estadio Akron, Zapopan/Guadalajara)
+  Buteurs : Ladislav Krejčí (59', TCH), Hwang In-beom (67', KOR), Oh Hyeon-gyu (80', KOR)
+  Cartons jaunes : Lee Gi-hyuk (90'+6, KOR)
+  Cartons rouges : aucun
+  Affluence : 44 985 | Notes : Corée du Sud a renversé le score après être menée 0-1. Possession KOR 62%-TCH 38%, xG KOR 2.30-TCH 0.82.
+Classement Groupe A : 1. Mexique (3pt, +2), 2. Corée du Sud (3pt, +1), 3. Tchéquie (0pt, -1), 4. Afrique du Sud (0pt, -2)
+
+[PHASE DE GROUPES - GROUPE B]
+Aucun match joué
+Classement Groupe B : 1. Canada (0pt, 0), 2. Bosnie-Herzégovine (0pt, 0), 3. Qatar (0pt, 0), 4. Suisse (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE C]
+Aucun match joué
+Classement Groupe C : 1. Brésil (0pt, 0), 2. Maroc (0pt, 0), 3. Haïti (0pt, 0), 4. Écosse (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE D]
+Aucun match joué
+Classement Groupe D : 1. États-Unis (0pt, 0), 2. Paraguay (0pt, 0), 3. Australie (0pt, 0), 4. Turquie (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE E]
+Aucun match joué
+Classement Groupe E : 1. Allemagne (0pt, 0), 2. Équateur (0pt, 0), 3. Côte d'Ivoire (0pt, 0), 4. Curaçao (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE F]
+Aucun match joué
+Classement Groupe F : 1. Pays-Bas (0pt, 0), 2. Japon (0pt, 0), 3. Suède (0pt, 0), 4. Tunisie (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE G]
+Aucun match joué
+Classement Groupe G : 1. Belgique (0pt, 0), 2. Égypte (0pt, 0), 3. Iran (0pt, 0), 4. Nouvelle-Zélande (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE H]
+Aucun match joué
+Classement Groupe H : 1. Espagne (0pt, 0), 2. Uruguay (0pt, 0), 3. Arabie Saoudite (0pt, 0), 4. Cap-Vert (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE I]
+Aucun match joué
+Classement Groupe I : 1. France (0pt, 0), 2. Sénégal (0pt, 0), 3. Norvège (0pt, 0), 4. Irak (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE J]
+Aucun match joué
+Classement Groupe J : 1. Argentine (0pt, 0), 2. Algérie (0pt, 0), 3. Autriche (0pt, 0), 4. Jordanie (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE K]
+Aucun match joué
+Classement Groupe K : 1. Portugal (0pt, 0), 2. Colombie (0pt, 0), 3. RD Congo (0pt, 0), 4. Ouzbékistan (0pt, 0)
+
+[PHASE DE GROUPES - GROUPE L]
+Aucun match joué
+Classement Groupe L : 1. Angleterre (0pt, 0), 2. Croatie (0pt, 0), 3. Ghana (0pt, 0), 4. Panama (0pt, 0)
+
+[PHASE ÉLIMINATOIRE - HUITIÈMES DE FINALE]
+Aucun match joué
+
+[PHASE ÉLIMINATOIRE - QUARTS DE FINALE]
+Aucun match joué
+
+[PHASE ÉLIMINATOIRE - DEMI-FINALES]
+Aucun match joué
+
+[FINALE]
+Aucun match joué
+Champion du Monde 2026 : N/D
+
+[CLASSEMENT BUTEURS]
+1. Julián Quiñones (Mexique) — 1 but
+1. Raúl Jiménez (Mexique) — 1 but
+1. Hwang In-beom (Corée du Sud) — 1 but
+1. Oh Hyeon-gyu (Corée du Sud) — 1 but
+1. Ladislav Krejčí (Tchéquie) — 1 but
+
+[STATISTIQUES PAR ÉQUIPE]
+
+=== MEXIQUE ===
+Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 2 pour, 0 contre
+Buts : Julián Quiñones (1), Raúl Jiménez (1) | Total équipe : 2
+Cartons jaunes : Brian Gutiérrez (1, vs Afrique du Sud) | Total : 1
+Cartons rouges : César Montes (vs Afrique du Sud, 90'+2, DOGSO — suspendu prochain match) | Total : 1
+Blessures : aucune signalée | Total joueurs blessés : 0
+Compositions alignées :
+  2026-06-11 vs Afrique du Sud : 4-3-3 — Raúl Rangel; Israel Reyes, César Montes, Johan Vásquez, Jesús Gallardo; Erik Lira, Álvaro Fidalgo, Brian Gutiérrez; Roberto Alvarado, Raúl Jiménez, Julián Quiñones | Coach: Javier Aguirre
+Composition la plus fréquente : 4-3-3
+Remplaçants utilisés fréquemment : N/D
+
+=== AFRIQUE DU SUD ===
+Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 2 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : Sphephelo Sithole (vs Mexique, 49', DOGSO), Themba Zwane (vs Mexique, 84', violent conduct - frappé Roberto Alvarado au visage, VAR) | Total : 2
+Blessures : aucune signalée | Total joueurs blessés : 0
+Compositions alignées :
+  2026-06-11 vs Mexique : 5-3-2 — Ronwen Williams; Khuliso Mudau, Ime Okon, Nkosinathi Sibisi, Mbekezeli Mbokazi, Aubrey Modiba; Teboho Mokoena, Sphephelo Sithole, Jayden Adams; Lyle Foster, Iqraam Rayners | Coach: Hugo Broos
+Composition la plus fréquente : 5-3-2
+Remplaçants utilisés fréquemment : N/D
+
+=== CORÉE DU SUD ===
+Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 2 pour, 1 contre
+Buts : Hwang In-beom (1), Oh Hyeon-gyu (1) | Total équipe : 2
+Cartons jaunes : Lee Gi-hyuk (1, vs Tchéquie) | Total : 1
+Cartons rouges : aucun | Total : 0
+Blessures : aucune signalée | Total joueurs blessés : 0
+Compositions alignées :
+  2026-06-11 vs Tchéquie : 3-4-2-1 — Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min | Coach: Hong Myung-bo
+Composition la plus fréquente : 3-4-2-1
+Remplaçants utilisés fréquemment : N/D
+
+=== TCHÉQUIE ===
+Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 2 contre
+Buts : Ladislav Krejčí (1) | Total équipe : 1
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : aucune signalée | Total joueurs blessés : 0
+Compositions alignées :
+  2026-06-11 vs Corée du Sud : 3-4-2-1 — Matej Kovar; Stepan Chaloupek, Robin Hranac, Ladislav Krejci; Vladimir Coufal, Tomas Soucek, Alexandr Sojka, Jaroslav Zeleny; Lukas Provod, Pavel Sulc; Patrik Schick | Coach: Miroslav Koubek
+Composition la plus fréquente : 3-4-2-1
+Remplaçants utilisés fréquemment : N/D
+
+=== BRÉSIL ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Rodrygo (rupture ligaments croisés + ménisque, severité:severe, forfait:Tous), Estêvão (rupture ischio-jambiers, severité:severe, forfait:Tous), Éder Militão (rupture ischio-jambiers, severité:severe, forfait:Tous), Neymar (élongation mollet droit, severité:moderate, forfait:TBD — doubtful jusqu'à 3 semaines) | Total joueurs blessés : 4
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ALLEMAGNE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Serge Gnabry (rupture adducteur jambe droite, severité:severe, forfait:Tous), Lennart Karl (rupture muscle cuisse, severité:severe, forfait:Tous), Marc-André ter Stegen (rupture muscle cuisse, severité:severe, forfait:Tous) | Total joueurs blessés : 3
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== PAYS-BAS ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Jurriën Timber (élongation à l'aine, severité:severe, forfait:Tous), Xavi Simons (rupture LCA genou droit, severité:severe, forfait:Tous), Jerdy Schouten (rupture LCA, severité:severe, forfait:Tous), Matthijs de Ligt (blessure au dos, severité:severe, forfait:Tous) | Total joueurs blessés : 4
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== JAPON ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Kaoru Mitoma (rupture ischio-jambiers, severité:severe, forfait:Tous), Takumi Minamino (rupture LCA, severité:severe, forfait:Tous) | Total joueurs blessés : 2
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== FRANCE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Hugo Ekitiké (rupture tendon d'Achille, severité:severe, forfait:Tous) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ESPAGNE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Fermín López (fracture métatarse, severité:severe, forfait:Tous), Mikel Merino (fracture de stress pied, severité:moderate, forfait:TBD — doubtful) | Total joueurs blessés : 2
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ÉTATS-UNIS ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Patrick Agyemang (rupture tendon d'Achille, severité:severe, forfait:Tous), Johnny Cardoso (entorse cheville grade élevé, severité:severe, forfait:Tous) | Total joueurs blessés : 2
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== AUSTRALIE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Lewis Miller (rupture tendon d'Achille, severité:severe, forfait:Tous) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== CANADA ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Marcelo Flores (rupture LCA, severité:severe, forfait:Tous) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ÉCOSSE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Billy Gilmour (blessure au genou, severité:severe, forfait:Tous) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ARGENTINE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Cristian Romero (rupture partielle LLI, severité:moderate, forfait:TBD — disponibilité incertaine), Nahuel Molina (blessure cuisse, severité:moderate, forfait:TBD — 2 à 3 semaines) | Total joueurs blessés : 2
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== GHANA ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Mohammed Kudus (rechute ischio-jambiers, severité:moderate, forfait:TBD — doubtful) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== URUGUAY ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Jose Giménez (entorse cheville sévère, severité:moderate, forfait:TBD — rôle majeur incertain) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== ANGLETERRE ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Tino Livramento (blessure cuisse, severité:severe, forfait:Tous) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+=== PARAGUAY ===
+Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Buts : aucun | Total équipe : 0
+Cartons jaunes : aucun | Total : 0
+Cartons rouges : aucun | Total : 0
+Blessures : Julio Enciso (blessure cuisse, severité:minor, forfait:TBD — doubtful vs USA 12/06) | Total joueurs blessés : 1
+Compositions alignées : aucune
+Composition la plus fréquente : N/D
+Remplaçants utilisés fréquemment : N/D
+
+[ANALYSE PRONOSTIC]
+Données valides au : 2026-06-12T00:00:00Z
+— Équipes invaincues : Mexique (1V), Corée du Sud (1V)
+— Équipes sans victoire : Afrique du Sud (0pt, 1 défaite), Tchéquie (0pt, 1 défaite) — groupes B à L : toutes à 0 match joué
+— Meilleure attaque (buts/match) : Mexique (2 buts en 1 match = 2.00/match), Corée du Sud (2 buts en 1 match = 2.00/match)
+— Meilleure défense (buts concédés/match) : Mexique (0 but en 1 match)
+— Équipes avec blessures critiques (joueurs clés absents) : Brésil: Rodrygo, Estêvão, Éder Militão (tous forfaits, Neymar doubtful) | Pays-Bas: Timber, Xavi Simons, Schouten, De Ligt (tous forfaits) | Allemagne: Gnabry, Ter Stegen (tous forfaits) | Japon: Mitoma, Minamino (tous forfaits) | Argentine: Romero (doubtful), Molina (doubtful) | États-Unis: Agyemang, Cardoso (tous forfaits)
+— Suspensions potentielles (2 cartons jaunes) : Lee Gi-hyuk (Corée du Sud): 1 carton — aucune suspension imminente
+— Équipes avec cartons rouges (joueur suspendu prochain match) : Mexique — César Montes suspendu (DOGSO, 90'+2 vs Afrique du Sud)
+— Tendance domicile/neutre (équipes des pays hôtes) : Mexique (pays hôte) : 1V en 1 match à domicile (Estadio Azteca) | États-Unis et Canada : pas encore joué
+— Forme récente (3 derniers matchs) : Mexique: V | Corée du Sud: V | Tchéquie: D | Afrique du Sud: D | Autres équipes: pas encore joué
+
+===========================================================================
+FIN DU FICHIER — 2 matchs | 48 équipes (4 avec résultats) | Dernière MAJ : 2026-06-12T00:00:00Z
+===========================================================================

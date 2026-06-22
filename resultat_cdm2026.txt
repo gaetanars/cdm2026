@@ -1,8 +1,8 @@
 ===========================================================================
 COUPE DU MONDE FIFA 2026 — BASE DE DONNÉES RÉSULTATS
-Dernière mise à jour : 2026-06-17
-Phase actuelle : Phase de groupes - Journée 1 (Groupes A-J terminés; Groupes K-L à jouer le 2026-06-17)
-Matchs enregistrés (joués) : 20
+Dernière mise à jour : 2026-06-22
+Phase actuelle : Phase de groupes (journées 1 et 2 terminées, journée 3 en cours)
+Matchs enregistrés (joués) : 40
 Sources consultées : FIFA.com, Wikipédia, BBC Sport, ESPN
 ===========================================================================
 
@@ -17,11 +17,19 @@ Match 2 : Corée du Sud 2 - 1 Tchéquie (2026-06-11, Estadio Akron, Zapopan/Guad
   Cartons jaunes : Lee Gi-hyuk (90'+6, KOR)
   Cartons rouges : aucun
   Affluence : 44 985 | Notes : Corée du Sud a renversé le score après être menée 0-1.
-Match 3 : Tchéquie - Afrique du Sud (2026-06-18, TBD) — à venir
-Match 4 : Mexique - Corée du Sud (2026-06-18, TBD) — à venir
-Match 5 : Tchéquie - Mexique (2026-06-24, TBD) — à venir
-Match 6 : Afrique du Sud - Corée du Sud (2026-06-24, TBD) — à venir
-Classement Groupe A : 1. Mexique (3pt, +2), 2. Corée du Sud (3pt, +1), 3. Tchéquie (0pt, -1), 4. Afrique du Sud (0pt, -2)
+Match 3 : Tchéquie 1 - 1 Afrique du Sud (2026-06-18, Mercedes-Benz Stadium, Atlanta)
+  Buteurs : Michal Sadílek (6', TCH), Teboho Mokoena (83', AFS, pen.)
+  Cartons jaunes : Teboho Mokoena (33', AFS), Thalente Mbatha (40', AFS), Ladislav Krejčí (75', TCH)
+  Cartons rouges : aucun
+  Affluence : 67 442
+Match 4 : Mexique 1 - 0 Corée du Sud (2026-06-18, Estadio Akron, Zapopan)
+  Buteurs : Luis Romo (50', MEX)
+  Cartons jaunes : Lee Kang-in (4', KOR), Paik Seung-ho (58', KOR)
+  Cartons rouges : aucun
+  Affluence : 45 522
+Match 5 : Tchéquie - Mexique (2026-06-24, Estadio Azteca, Mexico City) — à venir
+Match 6 : Afrique du Sud - Corée du Sud (2026-06-24, Estadio BBVA, Guadalupe) — à venir
+Classement Groupe A : 1. Mexique (6pt, +3), 2. Corée du Sud (3pt, 0), 3. Tchéquie (1pt, -1), 4. Afrique du Sud (1pt, -2)
 
 [PHASE DE GROUPES - GROUPE B]
 Match 1 : Canada 1 - 1 Bosnie-Herzégovine (2026-06-12, BMO Field, Toronto)
@@ -34,11 +42,19 @@ Match 2 : Qatar 1 - 1 Suisse (2026-06-13, Levi's Stadium, Santa Clara)
   Cartons jaunes : Mahmoud Abunada (QAT), Jassem Gaber (QAT), Denis Zakaria (SUI)
   Cartons rouges : aucun
   Affluence : 67 966
-Match 3 : Suisse - Bosnie-Herzégovine (2026-06-18, SoFi Stadium, Inglewood) — à venir
-Match 4 : Canada - Qatar (2026-06-18, BC Place, Vancouver) — à venir
+Match 3 : Suisse 4 - 1 Bosnie-Herzégovine (2026-06-18, SoFi Stadium, Inglewood)
+  Buteurs : Felix Manzambi (74', SUI), Rubén Vargas (84', SUI), Felix Manzambi (90', SUI), Mahmić (90'+3, BIH), Granit Xhaka (90'+7, SUI, pen.)
+  Cartons jaunes : Dedić (59', BIH), Edin Džeko (61', BIH), Nico Elvedi (65', SUI)
+  Cartons rouges : Muharemović (80', BIH, deuxième carton jaune / faute)
+  Affluence : 70 026
+Match 4 : Canada 6 - 0 Qatar (2026-06-18, BC Place, Vancouver)
+  Buteurs : Cyle Larin (16', CAN), Jonathan David (29', CAN), Jonathan David (45'+3, CAN), Saliba (64', CAN), Manai (75', CAN, c.s.c.), Jonathan David (90'+2, CAN)
+  Cartons jaunes : Cornelius (9', CAN), Ahmed Fathy (62', QAT)
+  Cartons rouges : Homam Ahmed (33', QAT, expulsion directe), Assim Madibo (51', QAT, expulsion directe)
+  Affluence : 52 497
 Match 5 : Suisse - Canada (2026-06-24, BC Place, Vancouver) — à venir
 Match 6 : Bosnie-Herzégovine - Qatar (2026-06-24, Lumen Field, Seattle) — à venir
-Classement Groupe B : 1. Canada (1pt, 0), 2. Bosnie-Herzégovine (1pt, 0), 3. Qatar (1pt, 0), 4. Suisse (1pt, 0)
+Classement Groupe B : 1. Canada (4pt, +6), 2. Suisse (4pt, +3), 3. Bosnie-Herzégovine (1pt, -3), 4. Qatar (1pt, -6)
 
 [PHASE DE GROUPES - GROUPE C]
 Match 1 : Brésil 1 - 1 Maroc (2026-06-13, MetLife Stadium, East Rutherford)
@@ -51,11 +67,19 @@ Match 2 : Haïti 0 - 1 Écosse (2026-06-13, Gillette Stadium, Foxborough)
   Cartons jaunes : Kenny McLean (SCO), Findlay Curtis (SCO)
   Cartons rouges : aucun
   Affluence : 64 146
-Match 3 : Écosse - Maroc (2026-06-19, Gillette Stadium, Foxborough) — à venir
-Match 4 : Brésil - Haïti (2026-06-19, Lincoln Financial Field, Philadelphia) — à venir
+Match 3 : Écosse 0 - 1 Maroc (2026-06-19, Gillette Stadium, Foxborough)
+  Buteurs : Ismael Saibari (2', MAR)
+  Cartons jaunes : Issa Diop (23', MAR), Andy Robertson (65', SCO)
+  Cartons rouges : aucun
+  Affluence : 64 146
+Match 4 : Brésil 3 - 0 Haïti (2026-06-19, Lincoln Financial Field, Philadelphia)
+  Buteurs : Matheus Cunha (23', BRA), Matheus Cunha (36', BRA), Vinícius Júnior (45'+3, BRA)
+  Cartons jaunes : Carlens Arcus (4', HAI), Frantzdy Pierrot (45'+4, HAI), Douglas Santos (65', BRA), Danley Jean Jacques (72', HAI)
+  Cartons rouges : aucun
+  Affluence : 68 324
 Match 5 : Écosse - Brésil (2026-06-24, Hard Rock Stadium, Miami Gardens) — à venir
 Match 6 : Maroc - Haïti (2026-06-24, Mercedes-Benz Stadium, Atlanta) — à venir
-Classement Groupe C : 1. Écosse (3pt, +1), 2. Maroc (1pt, 0), 3. Brésil (1pt, 0), 4. Haïti (0pt, -1)
+Classement Groupe C : 1. Brésil (4pt, +3), 2. Maroc (4pt, +1), 3. Écosse (3pt, 0), 4. Haïti (0pt, -4)
 
 [PHASE DE GROUPES - GROUPE D]
 Match 1 : États-Unis 4 - 1 Paraguay (2026-06-12, SoFi Stadium, Inglewood)
@@ -68,11 +92,19 @@ Match 2 : Australie 2 - 0 Turquie (2026-06-13, BC Place, Vancouver)
   Cartons jaunes : Yunus Akgun (TUR)
   Cartons rouges : aucun
   Affluence : 52 497
-Match 3 : États-Unis - Australie (2026-06-18, TBD) — à venir
-Match 4 : Turquie - Paraguay (2026-06-18, TBD) — à venir
-Match 5 : Australie - Paraguay (2026-06-24, TBD) — à venir
-Match 6 : Turquie - États-Unis (2026-06-24, TBD) — à venir
-Classement Groupe D : 1. États-Unis (3pt, +3), 2. Australie (3pt, +2), 3. Turquie (0pt, -2), 4. Paraguay (0pt, -3)
+Match 3 : États-Unis 2 - 0 Australie (2026-06-19, Lumen Field, Seattle)
+  Buteurs : Cameron Burgess (11', AUS, c.s.c.), Alex Freeman (43', USA)
+  Cartons jaunes : Jordan Bos (16', AUS), Alessandro Circati (32', AUS), Antonee Robinson (56', USA), Folarin Balogun (89', USA), Harry Souttar (89', AUS), Jacob Italiano (89', AUS), Chris Richards (90'+3, USA)
+  Cartons rouges : aucun
+  Affluence : 66 925
+Match 4 : Turquie 0 - 1 Paraguay (2026-06-19, Levi's Stadium, Santa Clara)
+  Buteurs : Matías Galarza (2', PAR)
+  Cartons jaunes : Matías Galarza (4', PAR), Júnior Alonso (90'+3, PAR)
+  Cartons rouges : Miguel Almirón (45'+3, PAR, expulsion directe pour avoir couvert sa bouche lors d'une confrontation avec un adversaire (nouvelle règle))
+  Affluence : 68 827
+Match 5 : Turquie - États-Unis (2026-06-25, SoFi Stadium, Inglewood) — à venir
+Match 6 : Paraguay - Australie (2026-06-25, Levi's Stadium, Santa Clara) — à venir
+Classement Groupe D : 1. États-Unis (6pt, +5), 2. Australie (3pt, 0), 3. Paraguay (3pt, -2), 4. Turquie (0pt, -3)
 
 [PHASE DE GROUPES - GROUPE E]
 Match 1 : Allemagne 7 - 1 Curaçao (2026-06-14, NRG Stadium, Houston)
@@ -85,11 +117,18 @@ Match 2 : Côte d'Ivoire 1 - 0 Équateur (2026-06-14, Lincoln Financial Field, P
   Cartons jaunes : Seko Fofana (CIV)
   Cartons rouges : aucun
   Affluence : 68 274
-Match 3 : Allemagne - Côte d'Ivoire (2026-06-20, TBD) — à venir
-Match 4 : Équateur - Curaçao (2026-06-20, TBD) — à venir
-Match 5 : Curaçao - Côte d'Ivoire (2026-06-25, TBD) — à venir
-Match 6 : Équateur - Allemagne (2026-06-25, TBD) — à venir
-Classement Groupe E : 1. Allemagne (3pt, +6), 2. Côte d'Ivoire (3pt, +1), 3. Équateur (0pt, -1), 4. Curaçao (0pt, -6)
+Match 3 : Allemagne 2 - 1 Côte d'Ivoire (2026-06-20, BMO Field, Toronto)
+  Buteurs : Franck Kessié (30', CIV), Deniz Undav (68', GER), Deniz Undav (90'+4, GER)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+  Affluence : 43 036
+Match 4 : Équateur 0 - 0 Curaçao (2026-06-20, Arrowhead Stadium, Kansas City)
+  Cartons jaunes : Jordy Alcívar (38', ECU), Leandro Bacuna (39', CUR), Juninho Bacuna (53', CUR), Livano Comenencia (56', CUR), Jackson Porozo (73', ECU), Juriën Gaari (75', CUR), Gervane Kastaneer (90'+1, CUR)
+  Cartons rouges : aucun
+  Affluence : 68 598
+Match 5 : Curaçao - Côte d'Ivoire (2026-06-25, Lincoln Financial Field, Philadelphia) — à venir
+Match 6 : Équateur - Allemagne (2026-06-25, MetLife Stadium, East Rutherford) — à venir
+Classement Groupe E : 1. Allemagne (6pt, +7), 2. Côte d'Ivoire (3pt, 0), 3. Équateur (1pt, -1), 4. Curaçao (1pt, -6)
 
 [PHASE DE GROUPES - GROUPE F]
 Match 1 : Pays-Bas 2 - 2 Japon (2026-06-14, AT&T Stadium, Arlington)
@@ -102,11 +141,19 @@ Match 2 : Suède 5 - 1 Tunisie (2026-06-14, Estadio BBVA, Guadalupe/Monterrey)
   Cartons jaunes : aucun
   Cartons rouges : aucun
   Affluence : 50 987
-Match 3 : Pays-Bas - Suède (2026-06-20, NRG Stadium, Houston) — à venir
-Match 4 : Tunisie - Japon (2026-06-20, Estadio BBVA, Guadalupe) — à venir
+Match 3 : Pays-Bas 5 - 1 Suède (2026-06-20, NRG Stadium, Houston)
+  Buteurs : Brian Brobbey (5', NED), Brian Brobbey (17', NED), Cody Gakpo (47', NED), Cody Gakpo (54', NED), Anthony Elanga (59', SWE), Crysencio Summerville (89', NED)
+  Cartons jaunes : Gudmundsson (53', SWE), Yasin Ayari (75', SWE), Lucas Bergvall (80', SWE)
+  Cartons rouges : aucun
+  Affluence : 68 777
+Match 4 : Tunisie 0 - 4 Japon (2026-06-20, Estadio BBVA, Guadalupe)
+  Buteurs : Daichi Kamada (4', JPN), Ayase Ueda (31', JPN), Junya Itō (69', JPN), Ayase Ueda (83', JPN)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+  Affluence : 51 243
 Match 5 : Japon - Suède (2026-06-25, AT&T Stadium, Arlington) — à venir
 Match 6 : Tunisie - Pays-Bas (2026-06-25, Arrowhead Stadium, Kansas City) — à venir
-Classement Groupe F : 1. Suède (3pt, +4), 2. Japon (1pt, 0), 3. Pays-Bas (1pt, 0), 4. Tunisie (0pt, -4)
+Classement Groupe F : 1. Pays-Bas (4pt, +4), 2. Japon (4pt, +4), 3. Suède (3pt, 0), 4. Tunisie (0pt, -8)
 
 [PHASE DE GROUPES - GROUPE G]
 Match 1 : Belgique 1 - 1 Égypte (2026-06-15, Lumen Field, Seattle)
@@ -117,11 +164,18 @@ Match 2 : Iran 2 - 2 Nouvelle-Zélande (2026-06-15, SoFi Stadium, Inglewood)
   Cartons jaunes : aucun
   Cartons rouges : aucun
   Affluence : 70 108
-Match 3 : Belgique - Iran (2026-06-21, SoFi Stadium, Inglewood) — à venir
-Match 4 : Nouvelle-Zélande - Égypte (2026-06-21, BC Place, Vancouver) — à venir
+Match 3 : Belgique 0 - 0 Iran (2026-06-21, SoFi Stadium, Inglewood)
+  Cartons jaunes : Romelu Lukaku (3', BEL), Saeid Ezatolahi (33', IRN)
+  Cartons rouges : Nathan Ngoy (66', BEL, expulsion directe)
+  Affluence : 70 317
+Match 4 : Nouvelle-Zélande 1 - 3 Égypte (2026-06-21, BC Place, Vancouver)
+  Buteurs : Finn Surman (15', NZL), Mostafa Ziko (58', EGY), Mohamed Salah (67', EGY), Trézéguet (82', EGY)
+  Cartons jaunes : Mohanad Lasheen (17', EGY), Sarpreet Singh (20', NZL), Callum McCowatt (34', NZL)
+  Cartons rouges : aucun
+  Affluence : 52 497
 Match 5 : Égypte - Iran (2026-06-26, Lumen Field, Seattle) — à venir
 Match 6 : Nouvelle-Zélande - Belgique (2026-06-26, BC Place, Vancouver) — à venir
-Classement Groupe G : 1. Iran (1pt, 0), 2. Nouvelle-Zélande (1pt, 0), 3. Belgique (1pt, 0), 4. Égypte (1pt, 0)
+Classement Groupe G : 1. Égypte (4pt, +2), 2. Iran (2pt, 0), 3. Belgique (2pt, 0), 4. Nouvelle-Zélande (1pt, -2)
 
 [PHASE DE GROUPES - GROUPE H]
 Match 1 : Espagne 0 - 0 Cap-Vert (2026-06-15, Mercedes-Benz Stadium, Atlanta)
@@ -132,11 +186,19 @@ Match 2 : Arabie Saoudite 1 - 1 Uruguay (2026-06-15, Hard Rock Stadium, Miami Ga
   Cartons jaunes : aucun
   Cartons rouges : aucun
   Affluence : 62 764
-Match 3 : Espagne - Arabie Saoudite (2026-06-21, Mercedes-Benz Stadium, Atlanta) — à venir
-Match 4 : Uruguay - Cap-Vert (2026-06-21, Hard Rock Stadium, Miami Gardens) — à venir
+Match 3 : Espagne 4 - 0 Arabie Saoudite (2026-06-21, Mercedes-Benz Stadium, Atlanta)
+  Buteurs : Lamine Yamal (10', ESP), Mikel Oyarzabal (21', ESP), Mikel Oyarzabal (24', ESP), Hassan Al-Tambakti (49', KSA, c.s.c.)
+  Cartons jaunes : Salem Al-Dawsari (30', KSA), Mohamed Kanno (60', KSA)
+  Cartons rouges : aucun
+  Affluence : 68 239
+Match 4 : Uruguay 2 - 2 Cap-Vert (2026-06-21, Hard Rock Stadium, Miami Gardens)
+  Buteurs : Kevin Pina (21', CPV), Maximiliano Araújo (44', URU), Agustín Canobbio (45'+6, URU), Hélio Varela (61', CPV)
+  Cartons jaunes : Sidny Lopes Cabral (5', CPV), Rodrigo Bentancur (20', URU), Mathías Olivera (58', URU), Diney (90'+3, CPV)
+  Cartons rouges : aucun
+  Affluence : 64 003
 Match 5 : Cap-Vert - Arabie Saoudite (2026-06-26, NRG Stadium, Houston) — à venir
 Match 6 : Uruguay - Espagne (2026-06-26, Estadio Akron, Zapopan) — à venir
-Classement Groupe H : 1. Uruguay (1pt, 0), 2. Arabie Saoudite (1pt, 0), 3. Espagne (1pt, 0), 4. Cap-Vert (1pt, 0)
+Classement Groupe H : 1. Espagne (4pt, +4), 2. Uruguay (2pt, 0), 3. Cap-Vert (2pt, 0), 4. Arabie Saoudite (1pt, -4)
 
 [PHASE DE GROUPES - GROUPE I]
 Match 1 : France 3 - 1 Sénégal (2026-06-16, MetLife Stadium, East Rutherford)
@@ -169,22 +231,38 @@ Match 6 : Jordanie - Argentine (2026-06-27, AT&T Stadium, Arlington) — à veni
 Classement Groupe J : 1. Argentine (3pt, +3), 2. Autriche (3pt, +2), 3. Jordanie (0pt, -2), 4. Algérie (0pt, -3)
 
 [PHASE DE GROUPES - GROUPE K]
-Match 1 : Portugal - RD Congo (2026-06-17, NRG Stadium, Houston) — à venir
-Match 2 : Ouzbékistan - Colombie (2026-06-17, Estadio Azteca, Mexico City) — à venir
+Match 1 : Portugal 1 - 1 RD Congo (2026-06-17, NRG Stadium, Houston)
+  Buteurs : João Neves (6', POR), Yoane Wissa (45'+5, COD)
+  Cartons jaunes : Bernardo Silva (13', POR), Chancel Mbemba (32', COD), Nélson Semedo (88', POR), Tomás Araújo (90'+2, POR)
+  Cartons rouges : aucun
+  Affluence : 68 777
+Match 2 : Ouzbékistan 1 - 3 Colombie (2026-06-17, Estadio Azteca, Mexico City)
+  Buteurs : Abbosbek Fayzullaev (60', UZB), Daniel Muñoz (40', COL), Luis Díaz (65', COL), Jaminton Campaz (90'+9, COL)
+  Cartons jaunes : Johan Mojica (7', COL), Abdukodir Khusanov (34', UZB)
+  Cartons rouges : aucun
+  Affluence : 80 824
 Match 3 : Portugal - Ouzbékistan (2026-06-23, NRG Stadium, Houston) — à venir
 Match 4 : Colombie - RD Congo (2026-06-23, Estadio Akron, Zapopan) — à venir
 Match 5 : Colombie - Portugal (2026-06-27, Hard Rock Stadium, Miami Gardens) — à venir
 Match 6 : RD Congo - Ouzbékistan (2026-06-27, Mercedes-Benz Stadium, Atlanta) — à venir
-Classement Groupe K : 1. Portugal (0pt, 0), 2. Colombie (0pt, 0), 3. RD Congo (0pt, 0), 4. Ouzbékistan (0pt, 0)
+Classement Groupe K : 1. Colombie (3pt, +2), 2. Portugal (1pt, 0), 3. RD Congo (1pt, 0), 4. Ouzbékistan (0pt, -2)
 
 [PHASE DE GROUPES - GROUPE L]
-Match 1 : Angleterre - Croatie (2026-06-17, AT&T Stadium, Arlington) — à venir
-Match 2 : Ghana - Panama (2026-06-17, BMO Field, Toronto) — à venir
+Match 1 : Angleterre 4 - 2 Croatie (2026-06-17, AT&T Stadium, Arlington)
+  Buteurs : Harry Kane (12', ENG, pen.), Martin Baturina (36', CRO), Harry Kane (42', ENG), Petar Musa (45'+5, CRO), Jude Bellingham (47', ENG), Marcus Rashford (85', ENG)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+  Affluence : 70 389
+Match 2 : Ghana 1 - 0 Panama (2026-06-17, BMO Field, Toronto)
+  Buteurs : Caleb Yirenkyi (90'+5, GHA)
+  Cartons jaunes : Caleb Yirenkyi (16', GHA), César Blackman (72', PAN), Carlos Harvey (90'+9, PAN)
+  Cartons rouges : aucun
+  Affluence : 42 942
 Match 3 : Angleterre - Ghana (2026-06-23, Gillette Stadium, Foxborough) — à venir
 Match 4 : Panama - Croatie (2026-06-23, BMO Field, Toronto) — à venir
 Match 5 : Panama - Angleterre (2026-06-27, MetLife Stadium, East Rutherford) — à venir
 Match 6 : Croatie - Ghana (2026-06-27, Lincoln Financial Field, Philadelphia) — à venir
-Classement Groupe L : 1. Angleterre (0pt, 0), 2. Croatie (0pt, 0), 3. Ghana (0pt, 0), 4. Panama (0pt, 0)
+Classement Groupe L : 1. Angleterre (3pt, +2), 2. Ghana (3pt, +1), 3. Panama (0pt, -1), 4. Croatie (0pt, -2)
 
 [PHASE ÉLIMINATOIRE - HUITIÈMES DE FINALE]
 Aucun match joué (début prévu le 2026-06-28)
@@ -201,341 +279,431 @@ Date : 2026-07-19 | Lieu : MetLife Stadium, East Rutherford, New Jersey
 Champion du Monde 2026 : N/D
 
 [CLASSEMENT BUTEURS]
+1. Deniz Undav (Allemagne) — 3 buts
+1. Jonathan David (Canada) — 3 buts
 1. Lionel Messi (Argentine) — 3 buts
-2. Elijah Just (Nouvelle-Zélande) — 2 buts
-2. Erling Haaland (Norvège) — 2 buts
-2. Folarin Balogun (États-Unis) — 2 buts
-2. Kai Havertz (Allemagne) — 2 buts
-2. Kylian Mbappé (France) — 2 buts
-2. Yasin Ayari (Suède) — 2 buts
-8. Abdulelah Al-Amri (Arabie Saoudite) — 1 but
-8. Alexander Isak (Suède) — 1 but
-8. Ali Olwan (Jordanie) — 1 but
-8. Amad Diallo (Côte d'Ivoire) — 1 but
-8. Aymen Hussein (Irak) — 1 but
-8. Boualem Khoukhi (Qatar) — 1 but
-8. Bradley Barcola (France) — 1 but
-8. Breel Embolo (Suisse) — 1 but
-8. Connor Metcalfe (Australie) — 1 but
-8. Crysencio Summerville (Pays-Bas) — 1 but
-8. Cyle Larin (Canada) — 1 but
-8. Daichi Kamada (Japon) — 1 but
-8. Deniz Undav (Allemagne) — 1 but
-8. Emam Ashour (Égypte) — 1 but
-8. Felix Nmecha (Allemagne) — 1 but
-8. Gio Reyna (États-Unis) — 1 but
-8. Hwang In-beom (Corée du Sud) — 1 but
-8. Ibrahim Mbaye (Sénégal) — 1 but
-8. Ismael Saibari (Maroc) — 1 but
-8. Jamal Musiala (Allemagne) — 1 but
-8. John McGinn (Écosse) — 1 but
-8. Jovo Lukić (Bosnie-Herzégovine) — 1 but
-8. Julián Quiñones (Mexique) — 1 but
-8. Keito Nakamura (Japon) — 1 but
-8. Ladislav Krejčí (Tchéquie) — 1 but
-8. Leo Østigård (Norvège) — 1 but
-8. Livano Comenencia (Curaçao) — 1 but
-8. Marko Arnautović (Autriche) — 1 but
-8. Mattias Svanberg (Suède) — 1 but
-8. Maurício (Paraguay) — 1 but
-8. Maxi Araújo (Uruguay) — 1 but
-8. Mohammad Mohebbi (Iran) — 1 but
-8. Nathaniel Brown (Allemagne) — 1 but
-8. Nestory Irankunda (Australie) — 1 but
-8. Nico Schlotterbeck (Allemagne) — 1 but
-8. Oh Hyeon-gyu (Corée du Sud) — 1 but
-8. Omar Rekik (Tunisie) — 1 but
-8. Ramin Rezaeian (Iran) — 1 but
-8. Raúl Jiménez (Mexique) — 1 but
-8. Romano Schmid (Autriche) — 1 but
-8. Viktor Gyökeres (Suède) — 1 but
-8. Vinícius Jr (Brésil) — 1 but
-8. Virgil van Dijk (Pays-Bas) — 1 but
+4. Ayase Ueda (Japon) — 2 buts
+4. Brian Brobbey (Pays-Bas) — 2 buts
+4. Cody Gakpo (Pays-Bas) — 2 buts
+4. Crysencio Summerville (Pays-Bas) — 2 buts
+4. Cyle Larin (Canada) — 2 buts
+4. Daichi Kamada (Japon) — 2 buts
+4. Elijah Just (Nouvelle-Zélande) — 2 buts
+4. Erling Haaland (Norvège) — 2 buts
+4. Felix Manzambi (Suisse) — 2 buts
+4. Folarin Balogun (États-Unis) — 2 buts
+4. Harry Kane (Angleterre) — 2 buts
+4. Ismael Saibari (Maroc) — 2 buts
+4. Kai Havertz (Allemagne) — 2 buts
+4. Kylian Mbappé (France) — 2 buts
+4. Matheus Cunha (Brésil) — 2 buts
+4. Mikel Oyarzabal (Espagne) — 2 buts
+4. Yasin Ayari (Suède) — 2 buts
+21. Abbosbek Fayzullaev (Ouzbékistan) — 1 but
+21. Abdulelah Al-Amri (Arabie Saoudite) — 1 but
+21. Agustín Canobbio (Uruguay) — 1 but
+21. Alex Freeman (États-Unis) — 1 but
+21. Alexander Isak (Suède) — 1 but
+21. Ali Olwan (Jordanie) — 1 but
+21. Amad Diallo (Côte d'Ivoire) — 1 but
+21. Anthony Elanga (Suède) — 1 but
+21. Aymen Hussein (Irak) — 1 but
+21. Boualem Khoukhi (Qatar) — 1 but
+21. Bradley Barcola (France) — 1 but
+21. Breel Embolo (Suisse) — 1 but
+21. Caleb Yirenkyi (Ghana) — 1 but
+21. Connor Metcalfe (Australie) — 1 but
+21. Daniel Muñoz (Colombie) — 1 but
+21. Emam Ashour (Égypte) — 1 but
+21. Felix Nmecha (Allemagne) — 1 but
+21. Finn Surman (Nouvelle-Zélande) — 1 but
+21. Franck Kessié (Côte d'Ivoire) — 1 but
+21. Gio Reyna (États-Unis) — 1 but
+21. Granit Xhaka (Suisse) — 1 but
+21. Hwang In-beom (Corée du Sud) — 1 but
+21. Hélio Varela (Cap-Vert) — 1 but
+21. Ibrahim Mbaye (Sénégal) — 1 but
+21. Jamal Musiala (Allemagne) — 1 but
+21. Jaminton Campaz (Colombie) — 1 but
+21. John McGinn (Écosse) — 1 but
+21. Jovo Lukić (Bosnie-Herzégovine) — 1 but
+21. João Neves (Portugal) — 1 but
+21. Jude Bellingham (Angleterre) — 1 but
+21. Julián Quiñones (Mexique) — 1 but
+21. Junya Itō (Japon) — 1 but
+21. Keito Nakamura (Japon) — 1 but
+21. Kevin Pina (Cap-Vert) — 1 but
+21. Ladislav Krejčí (Tchéquie) — 1 but
+21. Lamine Yamal (Espagne) — 1 but
+21. Leo Østigård (Norvège) — 1 but
+21. Livano Comenencia (Curaçao) — 1 but
+21. Luis Díaz (Colombie) — 1 but
+21. Luis Romo (Mexique) — 1 but
+21. Mahmić (Bosnie-Herzégovine) — 1 but
+21. Marcus Rashford (Angleterre) — 1 but
+21. Marko Arnautović (Autriche) — 1 but
+21. Martin Baturina (Croatie) — 1 but
+21. Mattias Svanberg (Suède) — 1 but
+21. Matías Galarza (Paraguay) — 1 but
+21. Maurício (Paraguay) — 1 but
+21. Maxi Araújo (Uruguay) — 1 but
+21. Maximiliano Araújo (Uruguay) — 1 but
+21. Michal Sadílek (Tchéquie) — 1 but
+21. Mohamed Salah (Égypte) — 1 but
+21. Mohammad Mohebbi (Iran) — 1 but
+21. Mostafa Ziko (Égypte) — 1 but
+21. Nathaniel Brown (Allemagne) — 1 but
+21. Nestory Irankunda (Australie) — 1 but
+21. Nico Schlotterbeck (Allemagne) — 1 but
+21. Oh Hyeon-gyu (Corée du Sud) — 1 but
+21. Omar Rekik (Tunisie) — 1 but
+21. Petar Musa (Croatie) — 1 but
+21. Ramin Rezaeian (Iran) — 1 but
+21. Raúl Jiménez (Mexique) — 1 but
+21. Romano Schmid (Autriche) — 1 but
+21. Rubén Vargas (Suisse) — 1 but
+21. Saliba (Canada) — 1 but
+21. Teboho Mokoena (Afrique du Sud) — 1 but
+21. Trézéguet (Égypte) — 1 but
+21. Viktor Gyökeres (Suède) — 1 but
+21. Vinícius Jr (Brésil) — 1 but
+21. Vinícius Júnior (Brésil) — 1 but
+21. Virgil van Dijk (Pays-Bas) — 1 but
+21. Yoane Wissa (RD Congo) — 1 but
 - Damián Bobadilla c.s.c. (Paraguay, contre son camp) — 1 but
 - Mohamed Hany c.s.c. (Égypte, contre son camp) — 1 but
 - Aymen Hussein c.s.c. (Irak, contre son camp) — 1 but
 - Yazan Al-Arab c.s.c. (Jordanie, contre son camp) — 1 but
+- Manai c.s.c. (Canada, contre son camp) — 1 but
+- Cameron Burgess c.s.c. (Australie, contre son camp) — 1 but
+- Hassan Al-Tambakti c.s.c. (Arabie Saoudite, contre son camp) — 1 but
 
 [STATISTIQUES PAR ÉQUIPE]
 
 === MEXIQUE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 2 pour, 0 contre
-Buts : Julián Quiñones (1), Raúl Jiménez (1) | Total équipe : 2
+Matchs joués : 2 | Bilan : 2V-0N-0D | Buts : 3 pour, 0 contre
+Buts : Julián Quiñones (1), Raúl Jiménez (1), Luis Romo (1) | Total équipe : 3
 Cartons jaunes : Brian Gutiérrez (1, vs Afrique du Sud) | Total : 1
 Cartons rouges : César Montes (vs Afrique du Sud, 90'+2, DOGSO) | Total : 1
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Afrique du Sud (2026-06-11) : 4-3-3 — Raúl Rangel; Israel Reyes, César Montes, Johan Vásquez, Jesús Gallardo; Erik Lira, Álvaro Fidalgo, Brian Gutiérrez; Roberto Alvarado, Raúl Jiménez, Julián Quiñones
   Remplaçants disponibles : Santiago Giménez, Hirving Lozano, Henry Martín, Edson Álvarez, Uriel Antuna | Coach: Javier Aguirre
+  Match 2 vs Corée du Sud (2026-06-18) : 4-2-3-1 — Raúl Rangel; Jorge Sánchez, Edson Álvarez, Johan Vásquez, Jesús Gallardo; Erik Lira, Luis Romo; Roberto Alvarado, Erick Gutiérrez, Jesús Quiñones; Raúl Jiménez
+  Remplaçants disponibles : Orbelín Pineda, Hirving Lozano, Santiago Giménez, Israel Reyes, César Huerta | Coach: Javier Aguirre
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Julián Quiñones (ATT) — buteur j1, Raúl Jiménez (ATT) — buteur j1
 
 === CORÉE DU SUD ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 2 pour, 1 contre
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 2 pour, 2 contre
 Buts : Hwang In-beom (1), Oh Hyeon-gyu (1) | Total équipe : 2
-Cartons jaunes : Lee Gi-hyuk (1, vs Tchéquie) | Total : 1
+Cartons jaunes : Lee Gi-hyuk (1, vs Tchéquie), Lee Kang-in (1, vs Mexique), Paik Seung-ho (1, vs Mexique) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Tchéquie (2026-06-11) : 3-4-2-1 — Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min
   Remplaçants disponibles : Oh Hyeon-gyu, Hwang Hee-chan, Cho Gue-sung, Jung Woo-young, Na Sang-ho | Coach: Hong Myung-bo
+  Match 2 vs Mexique (2026-06-18) : 4-3-3 — Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk, Kim Moon-hwan; Paik Seung-ho, Hwang In-beom, Seol Young-woo; Lee Kang-in, Son Heung-min, Lee Jae-sung
+  Remplaçants disponibles : Hwang Hee-chan, Oh Hyeon-gyu, Eom Ji-sung, Yang Hyun-jun, Cho Gue-sung | Coach: Hong Myung-bo
 Composition la plus fréquente : 3-4-2-1
 Joueurs clés : Son Heung-min (ATT), Kim Min-jae (DEF), Lee Kang-in (MIL)
 
 === TCHÉQUIE ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 2 contre
-Buts : Ladislav Krejčí (1) | Total équipe : 1
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 2 pour, 3 contre
+Buts : Ladislav Krejčí (1), Michal Sadílek (1) | Total équipe : 2
+Cartons jaunes : Ladislav Krejčí (1, vs Afrique du Sud) | Total : 1
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Corée du Sud (2026-06-11) : 3-4-2-1 — Matěj Kovář; Štěpán Chaloupek, Robin Hranáč, Ladislav Krejčí; Vladimír Coufal, Tomáš Souček, Alexandr Sojka, Jaroslav Zelený; Lukáš Provod, Pavel Šulc; Patrik Schick
   Remplaçants disponibles : Jiří Pavlenka, David Jurásek, Tomáš Holes, Michal Sadílek, Adam Hložek | Coach: Miroslav Koubek
+  Match 2 vs Afrique du Sud (2026-06-18) : 4-3-3 — Matěj Kovář; Tomáš Holeš, Robin Hranáč, Ladislav Krejčí, Vladimír Coufal; Michal Sadílek, Lukáš Červ, Vladimír Darida; Pavel Šulc, Patrik Schick, Adam Hložek
+  Remplaçants disponibles : Jaroslav Zelený, Tomáš Souček, Lukáš Provod, David Zima | Coach: Miroslav Koubek
 Composition la plus fréquente : 3-4-2-1
 Joueurs clés : Patrik Schick (ATT), Tomáš Souček (MIL)
 
 === AFRIQUE DU SUD ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 2 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 1 pour, 3 contre
+Buts : Teboho Mokoena (1) | Total équipe : 1
+Cartons jaunes : Teboho Mokoena (1, vs Tchéquie), Thalente Mbatha (1, vs Tchéquie) | Total : 2
 Cartons rouges : Sphephelo Sithole (vs Mexique, 49', DOGSO), Themba Zwane (vs Mexique, 84', violent conduct - VAR) | Total : 2
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Mexique (2026-06-11) : 5-3-2 — Ronwen Williams; Khuliso Mudau, Nkosinathi Sibisi, Ime Okon, Mbekezeli Mbokazi, Aubrey Modiba; Teboho Mokoena, Sphephelo Sithole, Jayden Adams; Lyle Foster, Iqraam Rayners
   Remplaçants disponibles : Grant Kekana, Evidence Makgopa, Oswin Appollis, Thalente Mbatha, Tshepang Moremi | Coach: Hugo Broos
+  Match 2 vs Tchéquie (2026-06-18) : 4-2-3-1 — Ronwen Williams; Khuliso Mudau, Nkosinathi Sibisi, Mbekezeli Mbokazi, Aubrey Modiba; Teboho Mokoena, Sphephelo Sithole; Mihlali Maseko, Thalente Mbatha, Oswin Appollis; Iqraam Rayners
+  Remplaçants disponibles : Relebohile Mofokeng, Tshegofatso Mabasa, Thabang Sebelebele | Coach: Hugo Broos
 Composition la plus fréquente : 5-3-2
 Joueurs clés : Ronwen Williams (GK), Lyle Foster (ATT)
 
 === CANADA ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Cyle Larin (1) | Total équipe : 1
-Cartons jaunes : Alistair Johnston (1, vs Bosnie-Herzégovine) | Total : 1
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 7 pour, 1 contre
+Buts : Cyle Larin (2), Jonathan David (3), Saliba (1), Manai c.s.c. (1, par Canada) | Total équipe : 7
+Cartons jaunes : Alistair Johnston (1, vs Bosnie-Herzégovine), Cornelius (1, vs Qatar) | Total : 2
 Cartons rouges : aucun | Total : 0
-Blessures : Marcelo Flores (rupture LCA, sévérité:severe, statut:out), Alphonso Davies (ischio-jambiers (suite LCA), sévérité:moderate, statut:doubtful, MODIFIÉ : évalué 'au jour le jour' avant Canada-Qatar (18/06).) | Joueurs indisponibles : 1
+Blessures : Marcelo Flores (rupture LCA, sévérité:severe, statut:out), Alphonso Davies (ischio (post-LCA), sévérité:moderate, statut:returning, Poursuit sa rééducation au jour le jour.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs Bosnie-Herzégovine (2026-06-12) : 4-3-3 — Maxime Crépeau; Alistair Johnston, Derek Cornelius, Luc De Fougerolles, Richie Laryea; Stephen Eustáquio, Ismaël Koné, Liam Millar; Tajon Buchanan, Jonathan David, Tani Oluwaseyi
   Remplaçants disponibles : Dayne St. Clair, Kamal Miller, Alphonso Davies, Charles-Andreas Brym, Jacob Shaffelburg, Cyle Larin, Éder Delgado, Jayden Nelson | Coach: Jesse Marsch
+  Match 2 vs Qatar (2026-06-18) : 4-3-3 — Maxime Crépeau; Alistair Johnston, Luc de Fougerolles, Derek Cornelius, Richie Laryea; Tajon Buchanan, Ismaël Koné, Stephen Eustáquio; Ali Ahmed, Jonathan David, Cyle Larin
+  Remplaçants disponibles : Moïse Bombito, Nathan Saliba, Jacob Shaffelburg, Tani Oluwaseyi, Niko Sigur | Coach: Jesse Marsch
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Jonathan David (ATT), Alphonso Davies (DEF/MIL)
 
 === BOSNIE-HERZÉGOVINE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Jovo Lukić (1) | Total équipe : 1
-Cartons jaunes : Nikola Katić (1, vs Canada) | Total : 1
-Cartons rouges : aucun | Total : 0
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 2 pour, 5 contre
+Buts : Jovo Lukić (1), Mahmić (1) | Total équipe : 2
+Cartons jaunes : Nikola Katić (1, vs Canada), Dedić (1, vs Suisse), Edin Džeko (1, vs Suisse) | Total : 3
+Cartons rouges : Muharemović (vs Suisse, 80', deuxième carton jaune / faute) | Total : 1
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Canada (2026-06-12) : 4-3-3 — Ibrahim Šehić; Sead Kolašinac, Tarik Muharemović, Anel Ahmedhodžić, Elvis Sarić; Ermedin Demirović, Zajko Tahirović, Amir Memić; Josip Brekalo, Armin Hodžić, Jasmin Mujezinović
   Remplaçants disponibles : Nikola Katić, Džeko, Bajraktarević, Dedić, Burić | Coach: Sergej Barbarez
+  Match 2 vs Suisse (2026-06-18) : 4-3-3 — Nikola Vasilj; Amar Dedić, Nikola Katić, Tarik Muharemović, Sead Kolašinac; Amar Memić, Ivan Šunjić, Benjamin Tahirović; Kerim Alajbegović, Ermedin Demirović, Edin Džeko
+  Remplaçants disponibles : Ivan Bašić, Esmir Bajraktarević, Jovo Lukić, Amir Hadžiahmetović, Ermin Mahmić | Coach: Sergej Barbarez
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Ermedin Demirović (ATT/MIL), Sead Kolašinac (DEF)
 
 === QATAR ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 1 pour, 7 contre
 Buts : Boualem Khoukhi (1) | Total équipe : 1
-Cartons jaunes : Mahmoud Abunada (1, vs Suisse), Jassem Gaber (1, vs Suisse) | Total : 2
-Cartons rouges : aucun | Total : 0
+Cartons jaunes : Mahmoud Abunada (1, vs Suisse), Jassem Gaber (1, vs Suisse), Ahmed Fathy (1, vs Canada) | Total : 3
+Cartons rouges : Homam Ahmed (vs Canada, 33', expulsion directe), Assim Madibo (vs Canada, 51', expulsion directe) | Total : 2
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Suisse (2026-06-13) : 4-3-3 — Meshaal Barsham; Homam Al-Amin, Ayoub Al-Oui, Boualem Khoukhi, Pedro Miguel; Jassem Gaber, Ahmed Fatehi, Karim Boudiaf; Yusuf Abdurisag, Akram Afif, Edmilson Júnior
   Remplaçants disponibles : Saad Al-Sheeb, Almoez Ali, Hassan Al-Haydos, Mohammed Muntari, Assim Madibo | Coach: Marquez Lopez
+  Match 2 vs Canada (2026-06-18) : 4-2-3-1 — Mahmoud Abu Nada; Ayoub Al-Oui, Pedro Miguel, Boualem Khoukhi, Homam Ahmed; Jassem Gaber, Assim Madibo; Edmilson Junior, Yusuf Abdurisag, Issa Laye; Akram Afif
+  Remplaçants disponibles : Sultan Al-Brake, Mohamed Manai, Ahmed Fathy, Al-Hashmi Al-Hussain, Lucas Mendes | Coach: Julen Lopetegui
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Akram Afif (ATT), Almoez Ali (ATT) — remplaçant
 
 === SUISSE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Breel Embolo (1) | Total équipe : 1
-Cartons jaunes : Denis Zakaria (1, vs Qatar) | Total : 1
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 5 pour, 2 contre
+Buts : Breel Embolo (1), Felix Manzambi (2), Rubén Vargas (1), Granit Xhaka (1) | Total équipe : 5
+Cartons jaunes : Denis Zakaria (1, vs Qatar), Nico Elvedi (1, vs Bosnie-Herzégovine) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Qatar (2026-06-13) : 4-2-3-1 — Gregor Kobel; Fabian Aebischer, Manuel Akanji, Nico Elvedi, Ricardo Rodríguez; Denis Zakaria, Remo Freuler; Dan Ndoye, Granit Xhaka, Ruben Vargas; Breel Embolo
   Remplaçants disponibles : Yann Sommer, Silvan Widmer, Leonidas Stergiou, Xherdan Shaqiri, Michel Aebischer, Noah Okafor, Zeki Amdouni | Coach: Murat Yakin
+  Match 2 vs Bosnie-Herzégovine (2026-06-18) : 4-3-3 — Gregor Kobel; Silvan Widmer, Nico Elvedi, Manuel Akanji, Ricardo Rodríguez; Michel Aebischer, Granit Xhaka, Remo Freuler; Dan Ndoye, Breel Embolo, Fabian Rieder
+  Remplaçants disponibles : Djibril Sow, Rubén Vargas, Johan Manzambi, Luca Jaquez, Cedric Itten | Coach: Murat Yakin
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Granit Xhaka (MIL), Breel Embolo (ATT)
 
 === ÉCOSSE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 1 pour, 0 contre
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 1 pour, 1 contre
 Buts : John McGinn (1) | Total équipe : 1
-Cartons jaunes : Kenny McLean (1, vs Haïti), Findlay Curtis (1, vs Haïti) | Total : 2
+Cartons jaunes : Kenny McLean (1, vs Haïti), Findlay Curtis (1, vs Haïti), Andy Robertson (1, vs Maroc) | Total : 3
 Cartons rouges : aucun | Total : 0
-Blessures : Billy Gilmour (blessure au genou, sévérité:severe, statut:out) | Joueurs indisponibles : 1
+Blessures : Billy Gilmour (genou, sévérité:severe, statut:out, Forfait.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs Haïti (2026-06-13) : 4-4-2 — Angus Gunn; Aaron Hickey, Grant Hanley, Jack Hendry, Andy Robertson; Ben Gannon-Doak, Scott McTominay, Lewis Ferguson, John McGinn; Lawrence Shankland, Che Adams
   Remplaçants disponibles : Craig Gordon, Ryan Christie, Findlay Curtis, Lyndon Dykes, George Hirst, Scott McKenna, Kenny McLean, Nathan Patterson, Ross Stewart, Kieran Tierney | Coach: Steve Clarke
+  Match 2 vs Maroc (2026-06-19) : 4-3-3 — Angus Gunn; Nathan Patterson, Grant Hanley, Jack Hendry, Andy Robertson; Lewis Ferguson, Ryan Christie, John McGinn; Kieran Tierney, Scott McTominay, Che Adams
+  Remplaçants disponibles : Ben Gannon-Doak, Lyndon Dykes, Kenny McLean, Robert Stewart, Anthony Ralston | Coach: Steve Clarke
 Composition la plus fréquente : 4-4-2
 Joueurs clés : Scott McTominay (MIL), Andy Robertson (DEF), John McGinn (MIL/ATT)
 
 === MAROC ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Ismael Saibari (1) | Total équipe : 1
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 2 pour, 1 contre
+Buts : Ismael Saibari (2) | Total équipe : 2
+Cartons jaunes : Issa Diop (1, vs Écosse) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Abde Ezzalzouli (blessure au genou, sévérité:moderate, statut:doubtful), Achraf Hakimi (ischio-jambiers, sévérité:minor, statut:returning, MODIFIÉ : a joué vs Brésil ; attendu rétabli pour Écosse-Maroc (19/06).) | Joueurs indisponibles : 0
+Blessures : Abde Ezzalzouli (blessure au genou, sévérité:moderate, statut:doubtful), Achraf Hakimi (ischio, sévérité:minor, statut:returning, Récupération attendue, en course pour le tournoi.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Brésil (2026-06-13) : 4-2-3-1 — Yassine Bounou; Achraf Hakimi, Issa Diop, Chadi Riad, Anass Salah-Eddine; Ayyoub Bouaddi, Neil El Aynaoui; Chemsdine Talbi, Samir El Mourabet, Ismael Saibari; Soufiane Rahimi
   Remplaçants disponibles : Munir Mohamedi, Azzedine Ounahi, Brahim Díaz, Sofiane Boufal, Youssef En-Nesyri, Hakim Ziyech, Bilal El Khannouss | Coach: Mohamed Ouahbi
+  Match 2 vs Écosse (2026-06-19) : 4-3-3 — Yassine Bounou; Achraf Hakimi, Nayef Aguerd, Chadi Riad, Noussair Mazraoui; Azzedine Ounahi, Neil El Aynaoui, Bilal El Khannouss; Brahim Díaz, Eliesse Ben Seghir, Abde Ezzalzouli
+  Remplaçants disponibles : Soufiane Rahimi, Oussama Targhalline, Hamza Igamane, Youssef En-Nesyri | Coach: Walid Regragui
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Achraf Hakimi (DEF/MIL), Ismael Saibari (MIL/ATT)
 
 === BRÉSIL ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Vinícius Jr (1) | Total équipe : 1
-Cartons jaunes : Casemiro (1, vs Maroc) | Total : 1
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 4 pour, 1 contre
+Buts : Vinícius Jr (1), Matheus Cunha (2), Vinícius Júnior (1) | Total équipe : 4
+Cartons jaunes : Casemiro (1, vs Maroc), Douglas Santos (1, vs Haïti) | Total : 2
 Cartons rouges : aucun | Total : 0
-Blessures : Rodrygo (rupture LCA + ménisque genou droit, sévérité:severe, statut:out), Estêvão (rupture ischio-jambiers, sévérité:severe, statut:out), Éder Militão (rupture ischio-jambiers biceps fémoral gauche, sévérité:severe, statut:out), Wesley (blessure à l'aine, sévérité:severe, statut:out), Neymar (élongation mollet droit, sévérité:moderate, statut:doubtful, disponibilité incertaine) | Joueurs indisponibles : 4
+Blessures : Rodrygo (rupture LCA + ménisque genou droit, sévérité:severe, statut:out), Estêvão (rupture ischio-jambiers, sévérité:severe, statut:out), Éder Militão (rupture ischio-jambiers biceps fémoral gauche, sévérité:severe, statut:out), Wesley (blessure à l'aine, sévérité:severe, statut:out), Neymar (calf strain (lésion mollet), sévérité:moderate, statut:doubtful, Touché au mollet, écarté jusqu'à ~3 semaines selon le staff médical; incertain pour la fin de la phase de groupes.) | Joueurs indisponibles : 4
 Compositions alignées :
   Match 1 vs Maroc (2026-06-13) : 4-2-3-1 — Alisson Becker; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Fabinho, Danilo Santos; Raphinha, Matheus Cunha, Vinícius Júnior; Luiz Henrique
   Remplaçants disponibles : Ederson, Weverton, Casemiro, Gerson, Endrick, Gabriel Martinelli, Igor Thiago | Coach: Carlo Ancelotti
+  Match 2 vs Haïti (2026-06-19) : 4-3-3 — Alisson; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Bruno Guimarães, Casemiro, Lucas Paquetá; Vinícius Júnior, Matheus Cunha, Raphinha
+  Remplaçants disponibles : Rayan, Gabriel Martinelli, Endrick, Éderson | Coach: Carlo Ancelotti
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Vinícius Jr (ATT), Raphinha (ATT), Marquinhos (DEF)
 
 === HAÏTI ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 1 contre
+Matchs joués : 2 | Bilan : 0V-0N-2D | Buts : 0 pour, 4 contre
 Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Cartons jaunes : Carlens Arcus (1, vs Brésil), Frantzdy Pierrot (1, vs Brésil), Danley Jean Jacques (1, vs Brésil) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Écosse (2026-06-13) : 4-4-2 — Johny Placide; Carlens Arcus, Ricardo Adé, Hannes Delcroix, Martin Expérience; Ruben Providence, Danley Jean Jacques, Jean-Ricner Bellegarde, Louicius Deedson; Wilson Isidor, Frantzdy Pierrot
   Remplaçants disponibles : Josue Duverger, Mechack Jerome, Joel Sonora, Steeven Saba, Duckens Nazon, Wilde-Donald Guerrier, Herve Bazile | Coach: Sebastien Migne
+  Match 2 vs Brésil (2026-06-19) : 3-5-2 — Johny Placide; Ricardo Adé, Carlens Arcus, Andrew Jean-Baptiste; Christopher Attinès, Danley Jean Jacques, Jean-Kévin Duverne, Jems Geffrard, Garvenst Casimir; Frantzdy Pierrot, Duckens Nazon
+  Remplaçants disponibles : Josué Casimir, Bryan Etienne, Deedson Louicius, Mondy Prunier | Coach: Sébastien Migné
 Composition la plus fréquente : 4-4-2
 Joueurs clés : Wilson Isidor (ATT), Jean-Ricner Bellegarde (MIL)
 
 === ÉTATS-UNIS ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 4 pour, 1 contre
-Buts : Folarin Balogun (2), Gio Reyna (1), Damián Bobadilla c.s.c. (1, par Paraguay) | Total équipe : 4
-Cartons jaunes : Tyler Adams (1, vs Paraguay) | Total : 1
+Matchs joués : 2 | Bilan : 2V-0N-0D | Buts : 6 pour, 1 contre
+Buts : Folarin Balogun (2), Gio Reyna (1), Alex Freeman (1), Damián Bobadilla c.s.c. (1, par Paraguay), Cameron Burgess c.s.c. (1, par Australie) | Total équipe : 6
+Cartons jaunes : Tyler Adams (1, vs Paraguay), Antonee Robinson (1, vs Australie), Folarin Balogun (1, vs Australie), Chris Richards (1, vs Australie) | Total : 4
 Cartons rouges : aucun | Total : 0
-Blessures : Patrick Agyemang (rupture tendon d'Achille, sévérité:severe, statut:out), Johnny Cardoso (entorse cheville grade élevé chirurgie, sévérité:severe, statut:out), Chris Richards (ligaments cheville, sévérité:moderate, statut:returning, MODIFIÉ : a joué vs Paraguay, attendu apte rapidement ; revient de blessure.) | Joueurs indisponibles : 2
+Blessures : Patrick Agyemang (rupture tendon d'Achille, sévérité:severe, statut:out), Johnny Cardoso (entorse cheville haute, sévérité:severe, statut:out, Forfait.), Chris Richards (ligaments cheville, sévérité:moderate, statut:returning, Se dit prêt à jouer après avoir manqué les amicaux.) | Joueurs indisponibles : 2
 Compositions alignées :
   Match 1 vs Paraguay (2026-06-12) : 5-3-2 — Matt Freese; Sergiño Dest, Chris Richards, Tim Ream, Alex Freeman, Antonee Robinson; Tyler Adams, Weston McKennie, Malik Tillman; Christian Pulisic, Folarin Balogun
   Remplaçants disponibles : Matt Turner, Chris Brady, Auston Trusty, Gio Reyna, Ricardo Pepi, Brenden Aaronson, Miles Robinson, Tim Weah, Joe Scally | Coach: Mauricio Pochettino
+  Match 2 vs Australie (2026-06-19) : 3-4-3 — Matt Freese; Alex Freeman, Chris Richards, Tim Ream; Sergiño Dest, Tyler Adams, Weston McKennie, Antonee Robinson; Malik Tillman, Folarin Balogun, Christian Pulisic
+  Remplaçants disponibles : Sebastian Berhalter, Auston Trusty, Joe Scally, Giovanni Reyna | Coach: Mauricio Pochettino
 Composition la plus fréquente : 5-3-2
 Joueurs clés : Christian Pulisic (ATT/MIL), Folarin Balogun (ATT), Weston McKennie (MIL)
 
 === AUSTRALIE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 2 pour, 0 contre
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 2 pour, 2 contre
 Buts : Nestory Irankunda (1), Connor Metcalfe (1) | Total équipe : 2
-Cartons jaunes : aucun | Total : 0
+Cartons jaunes : Jordan Bos (1, vs États-Unis), Alessandro Circati (1, vs États-Unis), Harry Souttar (1, vs États-Unis), Jacob Italiano (1, vs États-Unis) | Total : 4
 Cartons rouges : aucun | Total : 0
 Blessures : Lewis Miller (rupture tendon d'Achille, sévérité:severe, statut:out), Aiden O'Neill (cheville, sévérité:minor, statut:doubtful, NOUVEAU : doute avant États-Unis-Australie (18/06).), Patrick Yazbek (quadriceps (à l'échauffement), sévérité:minor, statut:doubtful, NOUVEAU.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs Turquie (2026-06-13) : 5-4-1 — Patrick Beach; Alessandro Circati, Jacob Italiano, Harry Souttar, Cameron Burgess, Jordan Bos; Connor Metcalfe, Aiden O'Neill, Paul Okon-Engstler, Nestory Irankunda; Mohamed Touré
   Remplaçants disponibles : Mat Ryan, Jason Geria, Miloš Degenek, Aziz Behich, Cameron Devlin, Jackson Irvine, Mathew Leckie, Ajdin Hrustic, Awer Mabil, Cristian Volpato, Tete Yengi | Coach: Tony Popovic
+  Match 2 vs États-Unis (2026-06-19) : 3-5-2 — Patrick Beach; Alessandro Circati, Harry Souttar, Cameron Burgess; Jacob Italiano, Connor Metcalfe, Paul Okon-Engstler, Aiden O'Neill, Jordan Bos; Nestory Irankunda, Mohamed Touré
+  Remplaçants disponibles : Jason Geria, Cristian Volpato, Jackson Irvine | Coach: Tony Popovic
 Composition la plus fréquente : 5-4-1
 Joueurs clés : Nestory Irankunda (ATT), Harry Souttar (DEF), Connor Metcalfe (MIL)
 
 === TURQUIE ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 2 contre
+Matchs joués : 2 | Bilan : 0V-0N-2D | Buts : 0 pour, 3 contre
 Buts : aucun | Total équipe : 0
 Cartons jaunes : Yunus Akgun (1, vs Australie) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Arda Güler (ischio-jambiers, sévérité:minor, statut:returning, MODIFIÉ : sur la bonne voie pour la récupération avant Turquie-Paraguay (18/06).) | Joueurs indisponibles : 0
+Blessures : Arda Güler (ischio, sévérité:minor, statut:returning, Sur la bonne voie.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Australie (2026-06-13) : 4-3-3 — Uğurcan Çakır; Zeki Çelik, Merih Demiral, Abdülkerim Bardakcı, Ferdi Kadıoğlu; Orkun Kökçü, Hakan Çalhanoğlu, İsmail Yüksek; Kerem Aktürkoğlu, Arda Güler, Baris Yilmaz
   Remplaçants disponibles : Mert Günok, Altay Bayındır, Çağlar Söyüncü, İrfan Kahveci, Can Uzun, Kenan Yıldız | Coach: Vincenzo Montella
+  Match 2 vs Paraguay (2026-06-19) : 4-2-3-1 — Uğurcan Çakır; Zeki Çelik, Merih Demiral, Abdülkerim Bardakcı, Ferdi Kadıoğlu; İsmail Yüksek, Hakan Çalhanoğlu; Yunus Akgün, Arda Güler, Kenan Yıldız; Kerem Aktürkoğlu
+  Remplaçants disponibles : Barış Yılmaz, Can Uzun, Deniz Gül, Eren Elmalı, Orkun Kökçü | Coach: Vincenzo Montella
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Arda Güler (MIL/ATT), Hakan Çalhanoğlu (MIL)
 
 === PARAGUAY ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 4 contre
-Buts : Maurício (1) | Total équipe : 1
-Cartons jaunes : Alex Arce (1, vs États-Unis), Junior Alonso (1, vs États-Unis) | Total : 2
-Cartons rouges : aucun | Total : 0
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 2 pour, 4 contre
+Buts : Maurício (1), Matías Galarza (1) | Total équipe : 2
+Cartons jaunes : Alex Arce (1, vs États-Unis), Junior Alonso (1, vs États-Unis), Matías Galarza (1, vs Turquie), Júnior Alonso (1, vs Turquie) | Total : 4
+Cartons rouges : Miguel Almirón (vs Turquie, 45'+3, expulsion directe pour avoir couvert sa bouche lors d'une confrontation avec un adversaire (nouvelle règle)) | Total : 1
 Blessures : Julio Enciso (blessure à la cuisse, sévérité:minor, statut:doubtful) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs États-Unis (2026-06-12) : 4-2-3-1 — Orlando Gill; Juan José Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Andrés Cubas, Damián Bobadilla; Julio Enciso, Diego Gómez, Miguel Almirón; Antonio Sanabria
   Remplaçants disponibles : Roberto Fernández, Antony Silva, Blas Riveros, Fabián Balbuena, Mathías Villasanti, Ramón Sosa, Fernando Cardozo, Carlos González | Coach: Gustavo Alfaro
+  Match 2 vs Turquie (2026-06-19) : 4-2-3-1 — Orlando Gill; Juan José Cáceres, Gustavo Gómez, Omar Alderete, Júnior Alonso; Andrés Cubas, Diego Gómez; Miguel Almirón, Julio Enciso, Matías Galarza; Isidro Pitta
+  Remplaçants disponibles : Damián Bobadilla, Gustavo Velázquez, Alexandro Maidana, Gabriel Ávalos, José Canale | Coach: Gustavo Alfaro
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Miguel Almirón (MIL/ATT), Gustavo Gómez (DEF)
 
 === ALLEMAGNE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 7 pour, 1 contre
-Buts : Felix Nmecha (1), Nico Schlotterbeck (1), Kai Havertz (2), Jamal Musiala (1), Nathaniel Brown (1), Deniz Undav (1) | Total équipe : 7
+Matchs joués : 2 | Bilan : 2V-0N-0D | Buts : 9 pour, 2 contre
+Buts : Felix Nmecha (1), Nico Schlotterbeck (1), Kai Havertz (2), Jamal Musiala (1), Nathaniel Brown (1), Deniz Undav (3) | Total équipe : 9
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
-Blessures : Serge Gnabry (rupture adducteur, sévérité:severe, statut:out), Lennart Karl (rupture muscle cuisse, sévérité:severe, statut:out), Marc-André ter Stegen (rupture muscle cuisse, sévérité:severe, statut:out) | Joueurs indisponibles : 3
+Blessures : Serge Gnabry (déchirure adducteur, sévérité:severe, statut:out, Forfait.), Lennart Karl (rupture muscle cuisse, sévérité:severe, statut:out), Marc-André ter Stegen (déchirure cuisse, sévérité:severe, statut:out, Forfait.) | Joueurs indisponibles : 3
 Compositions alignées :
   Match 1 vs Curaçao (2026-06-14) : 4-2-3-1 — Manuel Neuer; Joshua Kimmich, Jonathan Tah, Nico Schlotterbeck, Nathaniel Brown; Aleksandar Pavlović, Felix Nmecha; Leroy Sané, Jamal Musiala, Florian Wirtz; Kai Havertz
   Remplaçants disponibles : Oliver Baumann, Alexander Nübel, Waldemar Anton, Pascal Groß, David Raum, Antonio Rüdiger, Malick Thiaw, Nadiem Amiri, Leon Goretzka, Assan Ouédraogo, Angelo Stiller, Maximilian Beier, Deniz Undav, Jamie Leweling, Nick Woltemade | Coach: Julian Nagelsmann
+  Match 2 vs Côte d'Ivoire (2026-06-20) : 4-3-3 — Manuel Neuer; Joshua Kimmich, Jonathan Tah, Nico Schlotterbeck, Nathaniel Brown; Felix Nmecha, Aleksandar Pavlović, Jamal Musiala; Leroy Sané, Kai Havertz, Florian Wirtz
+  Remplaçants disponibles : Antonio Rüdiger, Jamie Leweling, Nadiem Amiri, Deniz Undav, Leon Goretzka | Coach: Julian Nagelsmann
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Kai Havertz (ATT), Jamal Musiala (MIL/ATT), Florian Wirtz (MIL/ATT)
 
 === CÔTE D'IVOIRE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 1 pour, 0 contre
-Buts : Amad Diallo (1) | Total équipe : 1
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 2 pour, 2 contre
+Buts : Amad Diallo (1), Franck Kessié (1) | Total équipe : 2
 Cartons jaunes : Seko Fofana (1, vs Équateur) | Total : 1
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Équateur (2026-06-14) : 4-4-2 — Yahia Fofana; Guela Doue, Wilfried Singo, Emmanuel Agbadou, Ghislain Konan; Yan Diomande, Seko Fofana, Franck Kessié, Bazoumana Touré; Nicolas Pépé, Elye Wahi
   Remplaçants disponibles : Mohamed Koné, Odilon Kossounou, Evan Ndicka, Ousmane Diomande, Jean-Michael Séri, Simon Adingra, Ange-Yoan Bonny, Amad Diallo, Evan Guessand, Ibrahim Sangaré | Coach: Emerse Faé
+  Match 2 vs Allemagne (2026-06-20) : 4-3-3 — Yahia Fofana; Wilfried Singo, Odilon Kossounou, Emmanuel Agbadou, Ghislain Konan; Ibrahim Sangaré, Franck Kessié, Christ Inao Oulaï; Amad Diallo, Ange-Yoan Bonny, Yan Diomande
+  Remplaçants disponibles : Seko Fofana, Simon Adingra, Evann Guessand, Guéla Doué, Nicolas Pépé | Coach: Emerse Faé
 Composition la plus fréquente : 4-4-2
 Joueurs clés : Amad Diallo (ATT), Franck Kessié (MIL)
 
 === ÉQUATEUR ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 1 contre
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 0 pour, 1 contre
 Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Cartons jaunes : Jordy Alcívar (1, vs Curaçao), Jackson Porozo (1, vs Curaçao) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Côte d'Ivoire (2026-06-14) : 3-4-3 — Hernán Galíndez; Joel Ordóñez, William Pacho, Piero Hincapié; Alan Minda, Alan Franco, Moisés Caicedo, Pedro Vite; Gonzalo Plata, Enner Valencia, John Yeboah
   Remplaçants disponibles : Moisés Ramírez, Félix Torres, Ángelo Preciado, Jackson Porozo, Jordy Alcívar, Kevin Rodríguez, Anthony Valencia, Jordy Caicedo, Pervis Estupiñán | Coach: Sebastián Beccacece
+  Match 2 vs Curaçao (2026-06-20) : 3-4-3 — Hernán Galíndez; Alan Franco, Willian Pacho, Piero Hincapié; John Yeboah, Moisés Caicedo, Jordy Alcívar, Pedro Vite; Gonzalo Plata, Enner Valencia, Kendry Páez
+  Remplaçants disponibles : Kevin Rodríguez, Nilson Angulo, Ángelo Preciado, Jordy Caicedo | Coach: Sebastián Beccacece
 Composition la plus fréquente : 3-4-3
 Joueurs clés : Moisés Caicedo (MIL), Enner Valencia (ATT)
 
 === CURAÇAO ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 7 contre
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 1 pour, 7 contre
 Buts : Livano Comenencia (1) | Total équipe : 1
-Cartons jaunes : aucun | Total : 0
+Cartons jaunes : Leandro Bacuna (1, vs Équateur), Juninho Bacuna (1, vs Équateur), Livano Comenencia (1, vs Équateur), Juriën Gaari (1, vs Équateur), Gervane Kastaneer (1, vs Équateur) | Total : 5
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Allemagne (2026-06-14) : 4-2-3-1 — Eloy Room; Deveron Fonville, Armando Obispo, Riechedly Bazoer, Sherel Floranus; Livano Comenencia, Leandro Bacuna; Sontje Hansen, Tahith Chong, Juninho Bacuna; Jürgen Locadia
   Remplaçants disponibles : Tyrick Bodak, Trevor Doornbusch, Juriën Gaari, Shurandy Sambo, Roshon van Eijma, Ar'jany Martha, Kevin Felida, Tyrese Noslin, Jeremy Antonisse, Gervane Kastaneer, Brandley Kuwas | Coach: Dick Advocaat
+  Match 2 vs Équateur (2026-06-20) : 3-5-2 — Eloy Room; Juriën Gaari, Armando Obispo, Sherel Floranus; Joshua Brenet, Livano Comenencia, Leandro Bacuna, Tahith Chong, Deveron Fonville; Jürgen Locadia, Juninho Bacuna
+  Remplaçants disponibles : Roshon van Eijma, Jearl Margaritha, Kenji Gorré, Godfried Roemeratoe, Gervane Kastaneer | Coach: Dick Advocaat
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Tahith Chong (MIL/ATT), Riechedly Bazoer (MIL)
 
 === SUÈDE ===
-Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 5 pour, 1 contre
-Buts : Yasin Ayari (2), Alexander Isak (1), Viktor Gyökeres (1), Mattias Svanberg (1) | Total équipe : 5
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 1V-0N-1D | Buts : 6 pour, 6 contre
+Buts : Yasin Ayari (2), Alexander Isak (1), Viktor Gyökeres (1), Mattias Svanberg (1), Anthony Elanga (1) | Total équipe : 6
+Cartons jaunes : Gudmundsson (1, vs Pays-Bas), Yasin Ayari (1, vs Pays-Bas), Lucas Bergvall (1, vs Pays-Bas) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Tunisie (2026-06-14) : 3-4-1-2 — Kristoffer Nordfeldt; Gustaf Lagerbielke, Victor Lindelöf, Isak Hien; Gabriel Gudmundsson, Jesper Karlström, Yasin Ayari, Anton Bernhardsson; Benjamin Nygren; Alexander Isak, Viktor Gyökeres
   Remplaçants disponibles : Robin Olsen, Karl-Johan Johnsson, Joakim Nilsson, Emil Krafth, Filip Helander, Mikael Lustig, Mattias Svanberg, Dejan Kulusevski, Emil Forsberg, Jordan Larsson, Samuel Gustafson | Coach: Jon Dahl Tomasson
+  Match 2 vs Pays-Bas (2026-06-20) : 3-5-2 — Kristoffer Nordfeldt; Gabriel Gudmundsson, Isak Hien, Victor Lindelöf; Jesper Karlström, Yasin Ayari, Anton Salétros, Lucas Bergvall, Hugo Bolin; Viktor Gyökeres, Alexander Isak
+  Remplaçants disponibles : Anthony Elanga, Roony Bardghji, Benjamin Nygren, Yankuba Minteh | Coach: Graham Potter
 Composition la plus fréquente : 3-4-1-2
 Joueurs clés : Alexander Isak (ATT), Viktor Gyökeres (ATT), Yasin Ayari (MIL)
 
 === JAPON ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 2 pour, 2 contre
-Buts : Keito Nakamura (1), Daichi Kamada (1) | Total équipe : 2
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 6 pour, 2 contre
+Buts : Keito Nakamura (1), Daichi Kamada (2), Ayase Ueda (2), Junya Itō (1) | Total équipe : 6
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
-Blessures : Kaoru Mitoma (rupture ischio-jambiers, sévérité:severe, statut:out), Takumi Minamino (rupture LCA, sévérité:severe, statut:out), Wataru Endo (rupture ligaments cheville, sévérité:moderate, statut:returning, NOUVEAU : retour à l'entraînement sur gazon ; pourrait revenir pour Tunisie-Japon (20/06).) | Joueurs indisponibles : 2
+Blessures : Kaoru Mitoma (déchirure ischio, sévérité:severe, statut:out, Non retenu dans la liste finale, forfait.), Takumi Minamino (rupture LCA, sévérité:severe, statut:out), Wataru Endo (ligaments cheville, sévérité:moderate, statut:returning, De retour sur le terrain, en réathlétisation.) | Joueurs indisponibles : 2
 Compositions alignées :
   Match 1 vs Pays-Bas (2026-06-14) : 4-2-3-1 — Zion Suzuki; Keito Nakamura, Tsuyoshi Watanabe, Shogo Taniguchi, Hiroki Ito; Kaishu Sano, Daichi Kamada; Takefusa Kubo, Ritsu Doan, Daizen Maeda; Ayase Ueda
   Remplaçants disponibles : Ao Tanaka, Koki Ogawa, Yukinari Sugawara, Tomoki Hayakawa, Takehiro Tomiyasu, Shuto Machino, Junya Ito, Yuto Nagatomo, Kento Shiogai, Ko Itakura | Coach: Hajime Moriyasu
+  Match 2 vs Tunisie (2026-06-20) : 3-5-2 — Zion Suzuki; Hiroki Itō, Ko Itakura, Takehiro Tomiyasu; Junya Itō, Hidemasa Morita, Wataru Endō, Daichi Kamada, Kaoru Mitoma; Ayase Ueda, Takefusa Kubo
+  Remplaçants disponibles : Takumi Minamino, Daizen Maeda, Reo Hatate, Koki Ogawa | Coach: Hajime Moriyasu
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Takefusa Kubo (ATT/MIL), Daichi Kamada (MIL)
 
 === PAYS-BAS ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 2 pour, 2 contre
-Buts : Virgil van Dijk (1), Crysencio Summerville (1) | Total équipe : 2
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 7 pour, 3 contre
+Buts : Virgil van Dijk (1), Crysencio Summerville (2), Brian Brobbey (2), Cody Gakpo (2) | Total équipe : 7
 Cartons jaunes : Crysencio Summerville (1, vs Japon) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Jurriën Timber (élongation à l'aine, sévérité:severe, statut:out), Xavi Simons (rupture LCA genou droit, sévérité:severe, statut:out), Jerdy Schouten (rupture LCA, sévérité:severe, statut:out), Matthijs de Ligt (blessure au dos chirurgie, sévérité:severe, statut:out) | Joueurs indisponibles : 4
+Blessures : Jurriën Timber (pubalgie/aine, sévérité:moderate, statut:out, A quitté le groupe néerlandais après le dernier amical, pas suffisamment rétabli.), Xavi Simons (rupture LCA, sévérité:severe, statut:out, Forfait.), Jerdy Schouten (rupture LCA, sévérité:severe, statut:out), Matthijs de Ligt (chirurgie du dos, sévérité:severe, statut:out, Forfait.) | Joueurs indisponibles : 4
 Compositions alignées :
   Match 1 vs Japon (2026-06-14) : 4-3-3 — Bart Verbruggen; Denzel Dumfries, Jan Paul van Hecke, Virgil van Dijk, Micky van de Ven; Ryan Gravenberch, Frenkie de Jong, Tijjani Reijnders; Crysencio Summerville, Cody Gakpo, Donyell Malen
   Remplaçants disponibles : Guus Til, Wout Weghorst, Justin Kluivert, Teun Koopmeiners, Marten de Roon, Noa Lang, Jorrel Hato, Lutsharel Geertruida, Mark Flekken, Robin Roefs, Quinten Timber, Memphis Depay, Nathan Aké, Mats Wieffer, Brian Brobbey | Coach: Ronald Koeman
+  Match 2 vs Suède (2026-06-20) : 4-2-3-1 — Bart Verbruggen; Denzel Dumfries, Lutsharel Geertruida, Virgil van Dijk, Micky van de Ven; Ryan Gravenberch, Frenkie de Jong; Tijjani Reijnders, Donyell Malen, Cody Gakpo; Brian Brobbey
+  Remplaçants disponibles : Crysencio Summerville, Teun Koopmeiners, Guus Til, Memphis Depay, Noa Lang | Coach: Ronald Koeman
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Virgil van Dijk (DEF), Frenkie de Jong (MIL), Cody Gakpo (ATT)
 
 === TUNISIE ===
-Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 5 contre
+Matchs joués : 2 | Bilan : 0V-0N-2D | Buts : 1 pour, 9 contre
 Buts : Omar Rekik (1) | Total équipe : 1
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
@@ -543,27 +711,31 @@ Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Suède (2026-06-14) : 4-2-3-1 — Aymen Dahmen; Yan Valery, Montassar Talbi, Omar Rekik, Mohamed Ben Hamida; Ellyes Skhiri, Rani Khedira; Ali Abdi, Hannibal Mejbri, Anis Ben Slimane; Elias Saad
   Remplaçants disponibles : Moez Ben Cherifia, Dylan Bronn, Wajdi Kechrida, Ali Maaloul, Ghailane Chaâlali, Mohamed Drager, Seifeddine Jaziri, Taha Yassine Khenissi, Sayfallah Ltaief | Coach: Jalel Kadri
+  Match 2 vs Japon (2026-06-20) : 3-5-2 — Aymen Dahmen; Dylan Bronn, Montassar Talbi, Yassine Meriah; Wajdi Kechrida, Aïssa Laïdouni, Ellyes Skhiri, Hannibal Mejbri, Mortadha Ben Ouanes; Elias Saad, Hazem Mastouri
+  Remplaçants disponibles : Naïm Sliti, Firas Chaouat, Seifeddine Jaziri, Mohamed Ali Ben Romdhane | Coach: Sami Trabelsi
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Hannibal Mejbri (MIL), Ellyes Skhiri (MIL)
 
 === BELGIQUE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
+Matchs joués : 2 | Bilan : 0V-2N-0D | Buts : 1 pour, 1 contre
 Buts : Mohamed Hany c.s.c. (1, par Égypte) | Total équipe : 1
-Cartons jaunes : Timothy Castagne (1, vs ?), Maxim De Cuyper (1, vs ?) | Total : 2
-Cartons rouges : aucun | Total : 0
+Cartons jaunes : Timothy Castagne (1, vs ?), Maxim De Cuyper (1, vs ?), Romelu Lukaku (1, vs Iran) | Total : 3
+Cartons rouges : Nathan Ngoy (vs Iran, 66', expulsion directe) | Total : 1
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs ? (?) : 4-2-3-1 — Thibaut Courtois; Thomas Meunier, Brandon Mechele, Ngoy, Timothy Castagne; Youri Tielemans (c), Amadou Onana; Jérémy Doku, Kevin De Bruyne, Leandro Trossard; Charles De Ketelaere
   Remplaçants disponibles :  | Coach: Domenico Tedesco
   Match 1 vs Égypte (2026-06-15) : 4-2-3-1 — Thibaut Courtois; Timothy Castagne, Wout Faes, Zeno Debast, Maxim De Cuyper; Amadou Onana, Youri Tielemans; Jérémy Doku, Kevin De Bruyne, Leandro Trossard; Romelu Lukaku
   Remplaçants disponibles : Koen Casteels, Thomas Kaminski, Jan Vertonghen, Thomas Meunier, Arthur Theate, Axel Witsel, Arthur Vermeeren, Hans Vanaken, Alexis Saelemaekers, Loïs Openda, Johan Bakayoko | Coach: Domenico Tedesco
+  Match 2 vs Iran (2026-06-21) : 4-2-3-1 — Thibaut Courtois; Thomas Meunier, Koni De Winter, Brandon Mechele, Maxim De Cuyper; Nicolas Raskin, Youri Tielemans; Alexis Saelemaekers, Kevin De Bruyne, Leandro Trossard; Romelu Lukaku
+  Remplaçants disponibles : Timothy Castagne, Hans Vanaken, Dodi Lukébakio, Arthur Theate, Mario Stroeykens | Coach: Rudi Garcia
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Kevin De Bruyne (MIL), Romelu Lukaku (ATT), Thibaut Courtois (GK)
 
 === ÉGYPTE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Emam Ashour (1) | Total équipe : 1
-Cartons jaunes : Marwan Attia (1, vs ?), Ahmed Fatouh (1, vs ?) | Total : 2
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 4 pour, 2 contre
+Buts : Emam Ashour (1), Mostafa Ziko (1), Mohamed Salah (1), Trézéguet (1) | Total équipe : 4
+Cartons jaunes : Marwan Attia (1, vs ?), Ahmed Fatouh (1, vs ?), Mohanad Lasheen (1, vs Nouvelle-Zélande) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -571,69 +743,79 @@ Compositions alignées :
   Remplaçants disponibles :  | Coach: Hossam Hassan
   Match 1 vs Belgique (2026-06-15) : 4-3-3 — Mohamed El-Shenawy; Ahmed Hany, Ahmed Abdelmonem, Mohamed Rabia, Omar Kamal; Mahmoud Hamdy El-Wensh, Emam Ashour, Hamdy Fathy; Mohamed Salah, Omar Marmoush, Zizo
   Remplaçants disponibles : Ahmed El-Shenawy, Ramadan Sobhi, Akram Tawfik, Karim El Debes, Mostafa Fathi, Trezeguet, Kahraba, Mostafa Mohamed | Coach: Hossam Hassan
+  Match 2 vs Nouvelle-Zélande (2026-06-21) : 4-2-3-1 — Mohamed El Shenawy; Mohamed Hany, Mohamed Abdelmoneim, Ahmed Fattouh, Ahmed Hegazi; Mohamed Elneny, Hamdi Fathy; Mohamed Salah, Mahmoud Hassan Trézéguet, Omar Marmoush; Mostafa Mohamed
+  Remplaçants disponibles : Emam Ashour, Mahmoud Saber, Ahmed Sayed Zizo, Ibrahim Adel | Coach: Hossam Hassan
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Mohamed Salah (ATT), Omar Marmoush (ATT)
 
 === IRAN ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 2 pour, 2 contre
+Matchs joués : 2 | Bilan : 0V-2N-0D | Buts : 2 pour, 2 contre
 Buts : Ramin Rezaeian (1), Mohammad Mohebbi (1) | Total équipe : 2
-Cartons jaunes : Ehsan Hajsafi (1, vs ?) | Total : 1
+Cartons jaunes : Ehsan Hajsafi (1, vs ?), Saeid Ezatolahi (1, vs Belgique) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Nouvelle-Zélande (2026-06-15) : 4-3-3 — Alireza Beiranvand; Sadegh Moharrami, Majid Hosseini, Milad Mohammadi, Ehsan Hajsafi; Ali Gholizadeh, Saeid Ezatolahi, Ahmad Nourollahi; Alireza Jahanbakhsh, Mehdi Taremi, Sardar Azmoun
   Remplaçants disponibles : Hossein Hosseini, Payam Niazmand, Ramin Rezaeian, Shoja Khalilzadeh, Omid Ebrahimi, Karim Ansarifard, Vahid Amiri, Allahyar Sayyadmanesh, Saman Ghoddos | Coach: Amir Ghalenoei
+  Match 2 vs Belgique (2026-06-21) : 3-5-2 — Alireza Beiranvand; Shojae Khalilzadeh, Aria Yousefi, Hossein Kanaanizadegan; Sadegh Moharrami, Saeid Ezatolahi, Saman Ghoddos, Ehsan Hajsafi, Ramin Rezaeian; Mehdi Taremi, Mehdi Ghayedi
+  Remplaçants disponibles : Alireza Jahanbakhsh, Mehdi Torabi, Milad Mohammadi, Shahriyar Moghanlou, Mohammad Mohebi | Coach: Amir Ghalenoei
   Match 1 vs ? (?) : 4-4-2 — Alireza Beiranvand; Ramin Rezaeian, Shoja Khalilzadeh, Ali Nemati, Milad Mohammadi; Mohammad Mohebbi, Saeid Ezatolahi, Ehsan Hajsafi, Mehdi Ghayedi; Ali Alipour, Amirhossein Hosseinzadeh
   Remplaçants disponibles : Mehdi Taremi, Saman Ghoddos, Shahriyar Moghanloo, Arya Yousefi | Coach: Amir Ghalenoei
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Mehdi Taremi (ATT), Sardar Azmoun (ATT), Alireza Jahanbakhsh (MIL/ATT)
 
 === NOUVELLE-ZÉLANDE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 2 pour, 2 contre
-Buts : Elijah Just (2) | Total équipe : 2
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 3 pour, 5 contre
+Buts : Elijah Just (2), Finn Surman (1) | Total équipe : 3
+Cartons jaunes : Sarpreet Singh (1, vs Égypte), Callum McCowatt (1, vs Égypte) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Iran (2026-06-15) : 4-2-3-1 — Max Crocombe; Paymaan Payne, Michael Boxall, Winston Reid, Liberato Cacace; Marko Stamenić, Clayton Lewis; Callum McCowatt, Elijah Just, Ben Waine; Chris Wood
   Remplaçants disponibles : Oliver Sail, James Surman, Tim Payne, Nando Bell-Bagshaw, Ryan Thomas, Stefan Marinovic, Matthew Garbett, Sarpreet Singh, Reon Edwards, Marco Rojas | Coach: Darren Bazeley
+  Match 2 vs Égypte (2026-06-21) : 4-3-3 — Max Crocombe; Tyler Bindon, Finn Surman, Michael Boxall, Liberato Cacace; Marko Stamenić, Joe Bell, Matthew Garbett; Ben Old, Chris Wood, Eli Just
+  Remplaçants disponibles : Kosta Barbarouses, Alex Paulsen, Sarpreet Singh, Matthew McCowatt | Coach: Darren Bazeley
   Match 1 vs ? (?) : 4-2-3-1 — Max Crocombe; Joe Bell, Finn Surman, Michael Boxall, Callan Elliot; Tyler Bindon, Ryan Thomas; Ben Old, Jesse Randall, Elijah Just; Chris Wood
   Remplaçants disponibles : Liberato Cacace, Callum McCowatt, Tim Payne, Sarpreet Singh, Marko Stamenić | Coach: Darren Bazeley
 Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Chris Wood (ATT), Liberato Cacace (DEF)
 
 === ESPAGNE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
+Matchs joués : 2 | Bilan : 1V-1N-0D | Buts : 4 pour, 0 contre
+Buts : Lamine Yamal (1), Mikel Oyarzabal (2), Hassan Al-Tambakti c.s.c. (1, par Arabie Saoudite) | Total équipe : 4
 Cartons jaunes : Pedri (1, vs ?) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Fermín López (fracture métatarse 5e pied droit, sévérité:severe, statut:out), Lamine Yamal (déchirure partielle ischio-jambiers, sévérité:moderate, statut:returning, MODIFIÉ : a joué vs Cap-Vert (15/06) avec minutes gérées ; revient de blessure. Plus 'out'.), Mikel Merino (fracture de fatigue au pied, sévérité:moderate, statut:doubtful, NOUVEAU depuis dernière MAJ : indisponibilité possible pour Espagne-Arabie Saoudite (21/06).) | Joueurs indisponibles : 1
+Blessures : Fermín López (fracture métatarse, sévérité:severe, statut:out, Forfait pour le tournoi.), Mikel Merino (fracture de fatigue (pied), sévérité:moderate, statut:doubtful, Incertain.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs ? (?) : 4-3-3 — Unai Simón; Marcos Llorente, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Fabián Ruiz, Rodri, Pedri; Ferran Torres, Mikel Oyarzabal, Gavi
   Remplaçants disponibles : Mikel Merino, Lamine Yamal, Dani Olmo, Nico Williams | Coach: Luis de la Fuente
   Match 1 vs Cap-Vert (2026-06-15) : 4-3-3 — Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Fabián Ruiz, Rodri, Pedri; Ferran Torres, Mikel Oyarzabal, Álex Baena
   Remplaçants disponibles : David Raya, Álvaro Morata, Lamine Yamal, Nico Williams, Dani Olmo, Mikel Merino, Carvajal, Le Normand, Joselu, Alejandro Grimaldo | Coach: Luis de la Fuente
+  Match 2 vs Arabie Saoudite (2026-06-21) : 4-3-3 — Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Pedri, Rodri, Dani Olmo; Lamine Yamal, Mikel Oyarzabal, Álex Baena
+  Remplaçants disponibles : Ferran Torres, Yéremy Pino, Mikel Merino, Nico Williams, Fabián Ruiz | Coach: Luis de la Fuente
 Composition la plus fréquente : 4-3-3
 Joueurs clés : Rodri (MIL), Pedri (MIL), Lamine Yamal (ATT) — doubtful
 
 === URUGUAY ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
-Buts : Maxi Araújo (1) | Total équipe : 1
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 2 | Bilan : 0V-2N-0D | Buts : 3 pour, 3 contre
+Buts : Maxi Araújo (1), Maximiliano Araújo (1), Agustín Canobbio (1) | Total équipe : 3
+Cartons jaunes : Rodrigo Bentancur (1, vs Cap-Vert), Mathías Olivera (1, vs Cap-Vert) | Total : 2
 Cartons rouges : aucun | Total : 0
-Blessures : José María Giménez (entorse cheville sévère, sévérité:moderate, statut:doubtful, rôle majeur incertain) | Joueurs indisponibles : 0
+Blessures : José María Giménez (entorse cheville sévère, sévérité:moderate, statut:doubtful, rôle majeur incertain), José Giménez (entorse cheville sévère, sévérité:moderate, statut:doubtful, Incertain.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs ? (?) : 4-4-2 — Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Matías Viña; Federico Valverde, Manuel Ugarte, Rodrigo Bentancur, Maximiliano Araújo; Federico Viñas, Darwin Núñez
   Remplaçants disponibles : Maxi Araújo | Coach: Marcelo Bielsa
   Match 1 vs Arabie Saoudite (2026-06-15) : 4-3-3 — Fernando Muslera; Guillermo Varela, José María Giménez, Sebastián Cáceres, Mathías Olivera; Federico Valverde, Manuel Ugarte, Rodrigo Bentancur; Matías Arezo, Darwin Núñez, Agustín Canobbio
   Remplaçants disponibles : Sergio Rochet, Ignacio De Arruabarrena, Diego Godín, Nicolás Marichal, Nahitan Nández, Lucas Torreira, Giorgian De Arrascaeta, Facundo Pellistri, Luis Suárez, Edinson Cavani, Maxi Gómez | Coach: Marcelo Bielsa
+  Match 2 vs Cap-Vert (2026-06-21) : 4-2-3-1 — Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Juan Manuel Sanabria; Manuel Ugarte, Rodrigo Bentancur; Agustín Canobbio, Federico Valverde, Maximiliano Araújo; Federico Viñas
+  Remplaçants disponibles : Nicolás de la Cruz, Darwin Núñez, Brian Rodríguez | Coach: Marcelo Bielsa
 Composition la plus fréquente : 4-4-2
 Joueurs clés : Darwin Núñez (ATT), Federico Valverde (MIL), Luis Suárez (ATT) — remplaçant
 
 === ARABIE SAOUDITE ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
+Matchs joués : 2 | Bilan : 0V-1N-1D | Buts : 1 pour, 5 contre
 Buts : Abdulelah Al-Amri (1) | Total équipe : 1
-Cartons jaunes : Abdulelah Al-Amri (1, vs ?) | Total : 1
+Cartons jaunes : Abdulelah Al-Amri (1, vs ?), Salem Al-Dawsari (1, vs Espagne), Mohamed Kanno (1, vs Espagne) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -641,13 +823,15 @@ Compositions alignées :
   Remplaçants disponibles :  | Coach: Georgios Donis
   Match 1 vs Uruguay (2026-06-15) : 4-2-3-1 — Mohammed Al-Owais; Saud Abdulhamid, Hassan Al-Tambakti, Ali Al-Lajami, Yasser Al-Shahrani; Mohamed Kanno, Abdulelah Al-Malki; Nasser Al-Dawsari, Sami Al-Najei, Salem Al-Dawsari; Firas Al-Buraikan
   Remplaçants disponibles : Nawaf Al-Aqidi, Mohammed Al-Rubaie, Abdullah Madu, Ali Al-Hassan, Saleh Al-Shehri, Hattan Bahebri | Coach: Georgios Donis
+  Match 2 vs Espagne (2026-06-21) : 5-3-2 — Mohammed Al-Owais; Saud Abdulhamid, Abdulelah Al-Amri, Ali Lajami, Hassan Al-Tambakti, Moteb Al-Harbi; Musab Al-Juwayr, Abdullah Al-Khaibari, Nasser Al-Dawsari; Salem Al-Dawsari, Firas Al-Buraikan
+  Remplaçants disponibles : Mohamed Kanno, Abdullah Al-Hamdan, Mohammed Abu Al-Shamat, Alaa Al-Hejji, Khalid Al-Ghannam | Coach: Georgios Donis
 Composition la plus fréquente : 4-4-2
 Joueurs clés : Salem Al-Dawsari (ATT), Nasser Al-Dawsari (MIL/ATT)
 
 === CAP-VERT ===
-Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : Sidny Lopes Cabral (1, vs ?) | Total : 1
+Matchs joués : 2 | Bilan : 0V-2N-0D | Buts : 2 pour, 2 contre
+Buts : Kevin Pina (1), Hélio Varela (1) | Total équipe : 2
+Cartons jaunes : Sidny Lopes Cabral (2, vs ?), Diney (1, vs Uruguay) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -655,6 +839,8 @@ Compositions alignées :
   Remplaçants disponibles : Willy Semedo, Deroy Duarte, Nuno da Costa, João Paulo, Telmo Arcanjo | Coach: Bubista
   Match 1 vs Espagne (2026-06-15) : 4-2-3-1 — Vozinha; Steven Moreira, Roberto Lopes, Logan Costa, João Paulo; Yannick Semedo, Wagner Pina; Ryan Mendes, Jamiro Monteiro, Jovane Cabral; Dailon Livramento
   Remplaçants disponibles : Carlos Ponck, Kevin Pina, Stopira, Patrick Andrade, Garry Rodrigues, Kenny Rocha, Willy Semedo, Djaniny | Coach: Pedro Brito
+  Match 2 vs Uruguay (2026-06-21) : 4-3-3 — Vozinha; Steven Moreira, Pico Lopes, Diney, Sidny Lopes Cabral; Kevin Pina, Ryan Mendes, Jamiro Monteiro; Telmo Arcanjo, Gilson Benchimol, Garry Rodrigues
+  Remplaçants disponibles : Deroy Duarte, Hélio Varela, Nuno da Costa, Laros Duarte, Yannick Semedo | Coach: Bubista
 Composition la plus fréquente : 4-1-4-1
 Joueurs clés : Jovane Cabral (ATT), Ryan Mendes (MIL/ATT)
 
@@ -663,7 +849,7 @@ Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 3 pour, 1 contre
 Buts : Kylian Mbappé (2), Bradley Barcola (1) | Total équipe : 3
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
-Blessures : Hugo Ekitiké (rupture tendon d'Achille, sévérité:severe, statut:out) | Joueurs indisponibles : 1
+Blessures : Hugo Ekitiké (rupture tendon d'Achille, sévérité:severe, statut:out, Forfait pour le tournoi.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs ? (?) : 4-2-3-1 — Mike Maignan; Jules Koundé, William Saliba, Dayot Upamecano, Théo Hernández; Aurélien Tchouaméni, Adrien Rabiot; Michael Olise, Désiré Doué, Ousmane Dembélé; Kylian Mbappé (c)
   Remplaçants disponibles : Bradley Barcola | Coach: Didier Deschamps
@@ -711,7 +897,7 @@ Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 3 pour, 0 contre
 Buts : Lionel Messi (3) | Total équipe : 3
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
-Blessures : Cristian Romero (entorse/déchirure partielle LCM, sévérité:moderate, statut:doubtful, NOUVEAU : sorti en larmes, LCM partiellement déchiré. Incertain pour la suite du groupe J. Argentine a néanmoins gagné 3-0 vs Algérie le 16/06.), Nahuel Molina (blessure à la cuisse, sévérité:moderate, statut:doubtful, NOUVEAU : estimé 2-3 semaines d'absence ; douteux pour Argentine-Autriche (22/06).) | Joueurs indisponibles : 0
+Blessures : Cristian Romero (MCL partiel (genou), sévérité:moderate, statut:doubtful, Déchirure partielle du ligament latéral interne; incertain.), Nahuel Molina (thigh (cuisse), sévérité:minor, statut:doubtful, Gêne à la cuisse, incertain.), Lionel Messi (hamstring overload (surcharge ischio), sévérité:minor, statut:returning, A repris une partie des entraînements et joué ~20 min vs Islande en amical; en course pour Argentine-Autriche (22/06), peut battre le record de buts en CDM.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs ? (?) : 4-4-2 — Emiliano Martínez; Nahuel Molina, Nicolás Otamendi, Lisandro Martínez, Facundo Medina; Rodrigo De Paul, Enzo Fernández, Alexis Mac Allister, Nicolás González; Nico Paz, Julián Álvarez
   Remplaçants disponibles : Lautaro Martínez, Thiago Almada, Lionel Messi | Coach: Lionel Scaloni
@@ -755,136 +941,184 @@ Composition la plus fréquente : 3-4-2-1
 Joueurs clés : N/D
 
 === PORTUGAL ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
+Buts : João Neves (1) | Total équipe : 1
+Cartons jaunes : Bernardo Silva (1, vs RD Congo), Nélson Semedo (1, vs RD Congo), Tomás Araújo (1, vs RD Congo) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs RD Congo (2026-06-17) : 4-3-3 — Diogo Costa; João Cancelo, Tomás Araújo, Renato Veiga, Nuno Mendes; João Neves, Vitinha, Bernardo Silva; Bruno Fernandes, Cristiano Ronaldo, Pedro Neto
+  Remplaçants disponibles : Francisco Conceição, Rafael Leão, Nélson Semedo, Gonçalo Ramos | Coach: Roberto Martínez
+Composition la plus fréquente : 4-3-3
 Joueurs clés : Cristiano Ronaldo (ATT), Bruno Fernandes (MIL)
 
 === COLOMBIE ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 3 pour, 1 contre
+Buts : Daniel Muñoz (1), Luis Díaz (1), Jaminton Campaz (1) | Total équipe : 3
+Cartons jaunes : Johan Mojica (1, vs Ouzbékistan) | Total : 1
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs Ouzbékistan (2026-06-17) : 4-3-3 — Camilo Vargas; Daniel Muñoz, Davinson Sánchez, Jhon Lucumí, Johan Mojica; Jefferson Lerma, Gustavo Puerta, James Rodríguez; Jhon Arias, Luis Suárez, Luis Díaz
+  Remplaçants disponibles : Jaminton Campaz, Cucho Hernández, Richard Ríos, Andrés Gómez, Kevin Castaño | Coach: Néstor Lorenzo
+Composition la plus fréquente : 4-3-3
 Joueurs clés : N/D
 
 === RD CONGO ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 1 | Bilan : 0V-1N-0D | Buts : 1 pour, 1 contre
+Buts : Yoane Wissa (1) | Total équipe : 1
+Cartons jaunes : Chancel Mbemba (1, vs Portugal) | Total : 1
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs Portugal (2026-06-17) : 5-3-2 — Lionel Mpasi; Aaron Wan-Bissaka, Chancel Mbemba, Axel Tuanzebe, Steve Kapuadi, Arthur Masuaku; Ngal'ayel Mukau, Samuel Moutoussamy, Edo Kayembe; Cédric Bakambu, Yoane Wissa
+  Remplaçants disponibles : Noah Sadiki, Charles Pickel, Joris Kayembe, Gédéon Kalulu, Simon Banza | Coach: Sébastien Desabre
+Composition la plus fréquente : 5-3-2
 Joueurs clés : N/D
 
 === OUZBÉKISTAN ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 1 pour, 3 contre
+Buts : Abbosbek Fayzullaev (1) | Total équipe : 1
+Cartons jaunes : Abdukodir Khusanov (1, vs Colombie) | Total : 1
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs Colombie (2026-06-17) : 5-3-2 — Utkir Yusupov; Abdukodir Khusanov, Abdulla Abdullaev, Rustam Ashurmatov, Bekhruz Karimov; Otabek Shukurov, Akmal Mozgovoy, Sherzod Nasrullaev; Abbosbek Fayzullaev, Eldor Shomurodov, Oston Urunov
+  Remplaçants disponibles : Farrukh Sayfiev, Dostonbek Khamdamov, Jakhongir Urozov, Azizbek Amonov, Igor Sergeev | Coach: Fabio Cannavaro
+Composition la plus fréquente : 5-3-2
 Joueurs clés : N/D
 
 === ANGLETERRE ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
+Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 4 pour, 2 contre
+Buts : Harry Kane (2), Jude Bellingham (1), Marcus Rashford (1) | Total équipe : 4
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
 Blessures : Tino Livramento (blessure à la cuisse (fin de saison), sévérité:severe, statut:out, NOUVEAU : indisponible avant Angleterre-Croatie (17/06).), Bukayo Saka (problème au tendon d'Achille, sévérité:minor, statut:doubtful, charge de travail surveillée), Reece James (ischio-jambiers, sévérité:minor, statut:returning, NOUVEAU : récemment de retour, apte ; léger doute levé.) | Joueurs indisponibles : 1
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs Croatie (2026-06-17) : 4-2-3-1 — Jordan Pickford; Reece James, John Stones, Ezri Konsa, Nico O'Reilly; Declan Rice, Elliot Anderson; Noni Madueke, Jude Bellingham, Anthony Gordon; Harry Kane
+  Remplaçants disponibles : Morgan Rogers, Bukayo Saka, Marcus Rashford, Djed Spence, Marc Guéhi | Coach: Thomas Tuchel
+Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Jude Bellingham (MIL/ATT), Harry Kane (ATT), Bukayo Saka (ATT) — doubtful
 
 === CROATIE ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
+Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 2 pour, 4 contre
+Buts : Martin Baturina (1), Petar Musa (1) | Total équipe : 2
 Cartons jaunes : aucun | Total : 0
 Cartons rouges : aucun | Total : 0
-Blessures : Luka Modrić (fracture de la pommette, sévérité:moderate, statut:returning, MODIFIÉ : attendu apte/disponible pour Angleterre-Croatie (17/06) malgré fracture, confiance d'une récupération complète.) | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Blessures : Luka Modrić (fracture pommette, sévérité:moderate, statut:returning, Confiance pour la guérison, en course.) | Joueurs indisponibles : 0
+Compositions alignées :
+  Match 1 vs Angleterre (2026-06-17) : 4-2-3-1 — Dominik Livaković; Josip Stanišić, Josip Šutalo, Luka Vušković, Joško Gvardiol; Luka Modrić, Mario Pašalić; Petar Sučić, Martin Baturina, Ivan Perišić; Petar Musa
+  Remplaçants disponibles : Mateo Kovačić, Marco Pašalić, Igor Matanović, Andrej Kramarić, Nikola Vlašić | Coach: Zlatko Dalić
+Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Luka Modrić (MIL), Ivan Perišić (MIL/ATT)
 
 === GHANA ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
-Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Matchs joués : 1 | Bilan : 1V-0N-0D | Buts : 1 pour, 0 contre
+Buts : Caleb Yirenkyi (1) | Total équipe : 1
+Cartons jaunes : Caleb Yirenkyi (1, vs Panama) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Mohammed Kudus (rechute ischio-jambiers (après pépin quadriceps), sévérité:moderate, statut:doubtful, NOUVEAU : doute avant Ghana-Panama (17/06).) | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Blessures : Mohammed Kudus (ischio, sévérité:moderate, statut:doubtful, Rechute musculaire; incertain avant Angleterre-Ghana (Groupe L, 23/06).) | Joueurs indisponibles : 0
+Compositions alignées :
+  Match 1 vs Panama (2026-06-17) : 4-3-3 — Lawrence Ati-Zigi; Marvin Senaya, Jonas Adjetey, Jerome Opoku, Gideon Mensah; Elisha Owusu, Caleb Yirenkyi, Kamaldeen Sulemana; Ernest Nuamah, Jordan Ayew, Antoine Semenyo
+  Remplaçants disponibles : Benjamin Asare, Abdul Fatawu, Brandon Thomas-Asante, Kwasi Sibo, Prince Kwabena Adu | Coach: Carlos Queiroz
+Composition la plus fréquente : 4-3-3
 Joueurs clés : Mohammed Kudus (MIL/ATT) — doubtful, Jordan Ayew (ATT)
 
 === PANAMA ===
-Matchs joués : 0 | Bilan : 0V-0N-0D | Buts : 0 pour, 0 contre
+Matchs joués : 1 | Bilan : 0V-0N-1D | Buts : 0 pour, 1 contre
 Buts : aucun | Total équipe : 0
-Cartons jaunes : aucun | Total : 0
+Cartons jaunes : César Blackman (1, vs Ghana), Carlos Harvey (1, vs Ghana) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
-Compositions alignées : aucune
-Composition la plus fréquente : N/D
+Compositions alignées :
+  Match 1 vs Ghana (2026-06-17) : 3-4-3 — Orlando Mosquera; Jiovany Ramos, José Córdoba, Andrés Andrade; Michael Amir Murillo, Carlos Harvey, Yoel Bárcenas, César Blackman; Cristian Martínez, Cecilio Waterman, José Luis Rodríguez
+  Remplaçants disponibles : José Fajardo, Azarias Londoño, Ismael Díaz, Aníbal Godoy | Coach: Thomas Christiansen
+Composition la plus fréquente : 3-4-3
 Joueurs clés : N/D
 
 [FORME ET DYNAMIQUE]
-— France ↑ : Victoire 3-1 vs Sénégal (16/06) ; entame solide, contrôle en 2e mi-temps. Favorite du tournoi après J1.
-— Argentine ↑ : Démarrage parfait : 3-0 vs Algérie (16/06), triplé de Messi. Championne en titre lancée.
 — Norvège ↑ : Retour réussi en Coupe du Monde : 4-1 vs Irak (16/06), doublé Haaland.
-— Espagne ↓ : Faux départ : 0-0 vs Cap-Vert (15/06) malgré 74% possession et 27 tirs (xG 2.29). Doit réagir vs Arabie Saoudite (21/06).
 — Cap-Vert ↑ : Exploit pour ses débuts : 0-0 héroïque vs Espagne (bloc 5-4-1, gardien Vozinha 40 ans décisif).
-— Belgique ↓ : Décevante : seulement 1-1 vs Égypte (15/06), CSC tardif après entrée de Lukaku. Toujours 1 point.
-— Égypte → : Solide 1-1 vs Belgique (Ashour buteur, Salah meneur). Invaincue mais toujours sans victoire en CdM.
-— Uruguay ↓ : 1-1 accroché par l'Arabie Saoudite (15/06) ; sursaut en 2e période (20 tirs). Doit faire mieux vs Cap-Vert (21/06).
 — Arabie Saoudite ↑ : Bon point 1-1 vs Uruguay (Al-Amri buteur, Al-Owais décisif).
 — Iran → : 2-2 vs Nouvelle-Zélande (15/06) ; premier point mais a concédé deux fois.
 — Nouvelle-Zélande ↑ : 2-2 vs Iran (doublé d'Elijah Just) ; premier point, belle combativité.
 — Angleterre ↑ : Favorite J1 vs Croatie (17/06) : 6 victoires sur les 6 derniers matchs. Revanche de la demi-2018.
 — Croatie ↑ : Bonne dynamique avant Angleterre (17/06) : 5 victoires sur 6.
 — Sénégal ↓ : Défaite 1-3 vs France malgré le but d'Ibrahim Mbaye ; doit se relancer vs Norvège (22/06).
-  · Lionel Messi (Argentine) : Premier triplé en Coupe du Monde (17',60',76') vs Algérie ; 200e sélection, 6e CdM, rejoint Klose (16 buts CdM).
-  · Kylian Mbappé (France) : Doublé vs Sénégal ; devient meilleur buteur de l'histoire des Bleus (58, dépasse Giroud).
+— Espagne ↑ : Réaction après un nul terne en J1: large succès 4-0 vs Arabie saoudite. Dynamique relancée.
+— Argentine ↑ : 3-0 vs Algérie avec triplé de Messi; favorite, leader du groupe avant Argentine-Autriche (22/06).
+— France ↑ : 3-1 vs Sénégal, en tête de son groupe; affronte l'Irak (22/06).
+— Pays-Bas ↑ : 5-1 vs Suède malgré une cascade de blessures défensives.
+— Allemagne ↑ : Déjà qualifiée pour les 8es; 2-1 vs Côte d'Ivoire, secteur offensif performant.
+— Suisse ↑ : 4-1 vs Bosnie après un nul en J1; revient à hauteur du Canada en tête du Groupe B.
+— Canada ↑ : 6-0 vs Qatar; co-leader du Groupe B à la différence de buts.
+— Japon ↑ : 4-0 vs Tunisie; un nul vs Suède suffit pour se qualifier.
+— Égypte ↑ : 3-1 vs Nouvelle-Zélande, bonne dynamique.
+— Bosnie-Herzégovine ↓ : Lourde défaite 1-4 vs Suisse; doit l'emporter vs Qatar pour espérer.
+— Belgique → : Nul 1-1 vs Iran, rendement décevant.
+— Uruguay → : Nul 2-2 vs Cap-Vert, dynamique en demi-teinte.
+— États-Unis ↑ : 2-0 vs Australie, déjà qualifiée pour les 8es.
+— Mexique ↑ : 1-0 vs Corée du Sud, déjà qualifiée.
   · Erling Haaland (Norvège) : Doublé pour ses débuts en CdM vs Irak.
   · Vozinha (Cap-Vert) : Gardien de 40 ans exceptionnel, clean sheet vs Espagne.
   · Romelu Lukaku (Belgique) : Entré en jeu, a provoqué le CSC égalisateur en 22 secondes.
   · Emam Ashour (Égypte) : Buteur et menace offensive directe vs Belgique.
-  · Mikel Oyarzabal (Espagne) : Méforme : aucun ballon touché lors des 30 premières minutes vs Cap-Vert (record depuis 1966).
   · Elijah Just (Nouvelle-Zélande) : Doublé (7',54') vs Iran.
+  · Lionel Messi (Argentine) : Triplé vs Algérie, égale le record de buts en CDM; peut dépasser Klose face à l'Autriche (22/06).
+  · Kylian Mbappé (France) : Doublé vs Sénégal; devenu meilleur buteur de l'histoire des Bleus.
+  · Mikel Oyarzabal (Espagne) : Doublé vs Arabie saoudite.
+  · Lamine Yamal (Espagne) : 1er but en CDM vs Arabie saoudite, cameo de retour réussi.
+  · Cody Gakpo (Pays-Bas) : Pièce maîtresse offensive néerlandaise, en grande forme.
+  · Florian Wirtz (Allemagne) : Très influent dans l'animation offensive allemande.
+  · Jamal Musiala (Allemagne) : Performant, créateur clé.
 
 [ENGAGEMENT ET ENJEUX]
-— Groupe A : leader Mexique (3pt). Restant : 2 journée(s).
-— Groupe B : leader Canada (1pt). Restant : 2 journée(s).
-— Groupe C : leader Écosse (3pt). Restant : 2 journée(s).
-— Groupe D : leader États-Unis (3pt). Restant : 2 journée(s).
-— Groupe E : leader Allemagne (3pt). Restant : 2 journée(s).
-— Groupe F : leader Suède (3pt). Restant : 2 journée(s).
-— Groupe G : leader Iran (1pt). Restant : 2 journée(s).
-— Groupe H : leader Uruguay (1pt). Restant : 2 journée(s).
+— Groupe A : leader Mexique (6pt). Restant : 1 journée(s).
+— Groupe B : leader Canada (4pt). Restant : 1 journée(s).
+— Groupe C : leader Brésil (4pt). Restant : 1 journée(s).
+— Groupe D : leader États-Unis (6pt). Restant : 1 journée(s).
+— Groupe E : leader Allemagne (6pt). Restant : 1 journée(s).
+— Groupe F : leader Pays-Bas (4pt). Restant : 1 journée(s).
+— Groupe G : leader Égypte (4pt). Restant : 1 journée(s).
+— Groupe H : leader Espagne (4pt). Restant : 1 journée(s).
 — Groupe I : leader Norvège (3pt). Restant : 2 journée(s).
 — Groupe J : leader Argentine (3pt). Restant : 2 journée(s).
+— Groupe K : leader Colombie (3pt). Restant : 2 journée(s).
+— Groupe L : leader Angleterre (3pt). Restant : 2 journée(s).
   · Espagne : Pression accrue après le 0-0 d'entrée : doit impérativement battre l'Arabie Saoudite (21/06) pour ne pas se mettre en danger dans le groupe H.
-  · Argentine : Qualification bien lancée (3pts) ; turnover/gestion possible plus tard, mais groupe J ouvert.
-  · France : 3 points pris, position de force dans le groupe I ; objectif confirmer vs Irak (22/06).
   · Belgique : Enjeu fort : 1 seul point en 2 matchs nuls (avec Égypte), doit se reprendre vs Iran (21/06) dans un groupe G très serré (4 nuls).
   · Groupe G : Parité totale : 4 équipes (Belgique, Égypte, Iran, NZ) avec 1 point chacune après J1 ; tout reste à jouer.
   · Groupe H : Espagne et Uruguay accrochées d'entrée (nuls) ; Cap-Vert et Arabie Saoudite y croient. Uruguay-Cap-Vert et Espagne-Arabie Saoudite (21/06) décisifs.
   · Angleterre : Favorite pour lancer parfaitement sa campagne vs Croatie (17/06) ; statut de prétendante au titre à confirmer.
   · Portugal : Entrée vs RD Congo (17/06) attendue large ; Ronaldo vise un but dans une 6e CdM différente.
+  · Mexique : Déjà qualifiée pour les 8es; turnover probable lors du dernier match de groupe (24/06).
+  · États-Unis : Déjà qualifiée pour les 8es; rotation probable.
+  · Allemagne : Déjà qualifiée pour les 8es; gestion d'effectif attendue.
+  · Argentine : Argentine-Autriche (22/06, Groupe J): victoire = qualification quasi assurée; enjeu individuel record de buts pour Messi.
+  · France : France-Irak (22/06, Groupe I): large favorite, victoire qualifie quasi sûrement; Saliba apte.
+  · Sénégal : Norvège-Sénégal (22/06, Groupe I): match décisif pour la 2e place après la défaite vs France.
+  · Canada : Suisse-Canada (24/06, Groupe B): nul ou victoire = 1re place pour le Canada.
+  · Suisse : Suisse-Canada (24/06): doit gagner pour finir 1re du groupe.
+  · Corée du Sud : Corée-Afrique du Sud (24/06, Groupe A): un nul garantit le top 2 (avantage confrontation directe).
+  · Maroc : Maroc-Haïti (24/06, Groupe C): victoire ou nul = qualification top 2.
+  · Brésil : Groupe C (24/06): doit faire au moins aussi bien que le Maroc pour garder la 1re place.
+  · Écosse : Groupe C: victoire impérative pour une qualif automatique; sinon dépendant des meilleurs 3es.
+  · Bosnie-Herzégovine : Bosnie-Qatar (24/06): le vainqueur se qualifie probablement; un nul élimine sans doute les deux.
+  · Ghana : Angleterre-Ghana (23/06, Groupe L): Kudus incertain (ischio), facteur clé.
 
 [SUSPENSIONS ET DISPONIBILITÉS À VENIR]
 — Suspendus au prochain match :
   · Sphephelo Sithole (Afrique du Sud) — rouge direct (49', DOGSO)
   · Themba Zwane (Afrique du Sud) — rouge direct (84', violent conduct - VAR)
   · César Montes (Mexique) — rouge direct (90+2', DOGSO)
-— Retours attendus : Chris Richards (États-Unis), Lamine Yamal (Espagne), Reece James (Angleterre), Luka Modrić (Croatie), Luca Zidane (Algérie), Wataru Endo (Japon), Achraf Hakimi (Maroc), Arda Güler (Turquie)
-— Incertains (doubtful) : Neymar (Brésil), Abde Ezzalzouli (Maroc), Julio Enciso (Paraguay), José María Giménez (Uruguay), Cristian Romero (Argentine), Nahuel Molina (Argentine), Bukayo Saka (Angleterre), Mohammed Kudus (Ghana), Mikel Merino (Espagne), Aiden O'Neill (Australie), Patrick Yazbek (Australie), Kalidou Koulibaly (Sénégal), Alphonso Davies (Canada)
+  · Muharemović (Bosnie-Herzégovine) — rouge direct (80', deuxième carton jaune / faute)
+  · Homam Ahmed (Qatar) — rouge direct (33', expulsion directe)
+  · Assim Madibo (Qatar) — rouge direct (51', expulsion directe)
+  · Miguel Almirón (Paraguay) — rouge direct (45+3', expulsion directe pour avoir couvert sa bouche lors d'une confrontation avec un adversaire (nouvelle règle))
+  · Nathan Ngoy (Belgique) — rouge direct (66', expulsion directe)
+  · Sidny Lopes Cabral (Cap-Vert) — 2 cartons jaunes cumulés
+— Retours attendus : Chris Richards (États-Unis), Reece James (Angleterre), Luka Modrić (Croatie), Luca Zidane (Algérie), Wataru Endo (Japon), Alphonso Davies (Canada), Achraf Hakimi (Maroc), Arda Güler (Turquie), Lionel Messi (Argentine)
+— Incertains (doubtful) : Neymar (Brésil), Abde Ezzalzouli (Maroc), Julio Enciso (Paraguay), José María Giménez (Uruguay), Cristian Romero (Argentine), Nahuel Molina (Argentine), Bukayo Saka (Angleterre), Mohammed Kudus (Ghana), Mikel Merino (Espagne), Aiden O'Neill (Australie), Patrick Yazbek (Australie), Kalidou Koulibaly (Sénégal), José Giménez (Uruguay)
 — À 1 carton jaune (risque de suspension par cumul) :
   · Brian Gutiérrez (Mexique)
   · Lee Gi-hyuk (Corée du Sud)
@@ -908,23 +1142,76 @@ Joueurs clés : N/D
   · Maxim De Cuyper (Belgique)
   · Ehsan Hajsafi (Iran)
   · Pedri (Espagne)
-  · Sidny Lopes Cabral (Cap-Vert)
   · Abdulelah Al-Amri (Arabie Saoudite)
   · Zaid Tahseen (Irak)
   · Marcel Sabitzer (Autriche)
+  · Bernardo Silva (Portugal)
+  · Chancel Mbemba (RD Congo)
+  · Nélson Semedo (Portugal)
+  · Tomás Araújo (Portugal)
+  · Johan Mojica (Colombie)
+  · Abdukodir Khusanov (Ouzbékistan)
+  · Caleb Yirenkyi (Ghana)
+  · César Blackman (Panama)
+  · Carlos Harvey (Panama)
+  · Teboho Mokoena (Afrique du Sud)
+  · Thalente Mbatha (Afrique du Sud)
+  · Ladislav Krejčí (Tchéquie)
+  · Lee Kang-in (Corée du Sud)
+  · Paik Seung-ho (Corée du Sud)
+  · Dedić (Bosnie-Herzégovine)
+  · Edin Džeko (Bosnie-Herzégovine)
+  · Nico Elvedi (Suisse)
+  · Cornelius (Canada)
+  · Ahmed Fathy (Qatar)
+  · Issa Diop (Maroc)
+  · Andy Robertson (Écosse)
+  · Carlens Arcus (Haïti)
+  · Frantzdy Pierrot (Haïti)
+  · Douglas Santos (Brésil)
+  · Danley Jean Jacques (Haïti)
+  · Jordan Bos (Australie)
+  · Alessandro Circati (Australie)
+  · Antonee Robinson (États-Unis)
+  · Folarin Balogun (États-Unis)
+  · Harry Souttar (Australie)
+  · Jacob Italiano (Australie)
+  · Chris Richards (États-Unis)
+  · Matías Galarza (Paraguay)
+  · Júnior Alonso (Paraguay)
+  · Jordy Alcívar (Équateur)
+  · Leandro Bacuna (Curaçao)
+  · Juninho Bacuna (Curaçao)
+  · Livano Comenencia (Curaçao)
+  · Jackson Porozo (Équateur)
+  · Juriën Gaari (Curaçao)
+  · Gervane Kastaneer (Curaçao)
+  · Gudmundsson (Suède)
+  · Yasin Ayari (Suède)
+  · Lucas Bergvall (Suède)
+  · Romelu Lukaku (Belgique)
+  · Saeid Ezatolahi (Iran)
+  · Mohanad Lasheen (Égypte)
+  · Sarpreet Singh (Nouvelle-Zélande)
+  · Callum McCowatt (Nouvelle-Zélande)
+  · Salem Al-Dawsari (Arabie Saoudite)
+  · Mohamed Kanno (Arabie Saoudite)
+  · Rodrigo Bentancur (Uruguay)
+  · Mathías Olivera (Uruguay)
+  · Diney (Cap-Vert)
 
 [ANALYSE PRONOSTIC]
-Données valides au : 2026-06-17
+Données valides au : 2026-06-22
 
-— Équipes avec 100% de victoires : Mexique (Gr.A), Corée du Sud (Gr.A), Écosse (Gr.C), États-Unis (Gr.D), Australie (Gr.D), Allemagne (Gr.E), Côte d'Ivoire (Gr.E), Suède (Gr.F), Norvège (Gr.I), France (Gr.I), Argentine (Gr.J), Autriche (Gr.J)
-— Équipes en forme (au moins 1 victoire) : Mexique, Corée du Sud, Écosse, États-Unis, Australie, Allemagne, Côte d'Ivoire, Suède, Norvège, France, Argentine, Autriche
-— Solidité défensive (clean sheets) : Mexique, Écosse, Australie, Côte d'Ivoire, Espagne, Cap-Vert, Argentine
-— Forces offensives (≥3 buts/match) : États-Unis (4 buts), Allemagne (7 buts), Suède (5 buts), Norvège (4 buts), France (3 buts), Argentine (3 buts), Autriche (3 buts)
+— Équipes avec 100% de victoires : Mexique (Gr.A), États-Unis (Gr.D), Allemagne (Gr.E), Norvège (Gr.I), France (Gr.I), Argentine (Gr.J), Autriche (Gr.J), Colombie (Gr.K), Angleterre (Gr.L), Ghana (Gr.L)
+— Équipes en forme (au moins 1 victoire) : Mexique, Corée du Sud, Canada, Suisse, Brésil, Maroc, Écosse, États-Unis, Australie, Paraguay, Allemagne, Côte d'Ivoire, Pays-Bas, Japon, Suède, Égypte, Espagne, Norvège, France, Argentine, Autriche, Colombie, Angleterre, Ghana
+— Solidité défensive (clean sheets) : Mexique, Espagne, Argentine, Ghana
+— Forces offensives (≥3 buts/match) : Canada (7 buts), États-Unis (6 buts), Allemagne (9 buts), Pays-Bas (7 buts), Japon (6 buts), Suède (6 buts), Norvège (4 buts), France (3 buts), Argentine (3 buts), Autriche (3 buts), Colombie (3 buts), Angleterre (4 buts)
 
-— Statistiques globales tournoi (20 matchs terminés) :
-  Total buts : 62 | Moyenne : 3.10/match
-  Cartons jaunes : 26 | Cartons rouges : 3
-  Affluence totale : 1 309 652 | Moyenne : 65 482
+— Statistiques globales tournoi (40 matchs terminés) :
+  Total buts : 121 | Moyenne : 3.02/match
+  Cartons jaunes : 81 | Cartons rouges : 8
+  Affluence totale : 2 563 003 | Moyenne : 64 075
 
 — Règles disciplinaires :
   2 cartons jaunes (matchs séparés) = 1 match de suspension
@@ -932,5 +1219,5 @@ Données valides au : 2026-06-17
   Réinitialisation des avertissements : après la phase de groupes et après les quarts
 
 ===========================================================================
-FIN DU FICHIER — 20 matchs enregistrés | 48 équipes documentées | Dernière MAJ : 2026-06-17
+FIN DU FICHIER — 40 matchs enregistrés | 48 équipes documentées | Dernière MAJ : 2026-06-22
 ===========================================================================

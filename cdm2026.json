@@ -1,8 +1,8 @@
 {
   "meta": {
     "tournament": "Coupe du Monde FIFA 2026",
-    "last_updated": "2026-06-22",
-    "current_phase": "Phase de groupes (journées 1 et 2 terminées, journée 3 en cours)",
+    "last_updated": "2026-06-26",
+    "current_phase": "Phase de groupes — journée 3 terminée pour les groupes A à F et I/J/K/L (60 matchs joués), journée 3 groupes G et H en attente ce soir 26/06",
     "sources": [
       "FIFA.com",
       "Wikipédia",
@@ -763,12 +763,16 @@
       "group": "A",
       "matchday": 1,
       "date": "2026-06-24",
-      "venue": "Estadio Azteca",
-      "city": "Mexico City",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
       "home": "Tchéquie",
       "away": "Mexique",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        3
+      ]
     },
     {
       "id": "A6",
@@ -776,12 +780,16 @@
       "group": "A",
       "matchday": 1,
       "date": "2026-06-24",
-      "venue": "Estadio BBVA",
-      "city": "Guadalupe",
+      "venue": "Levi's Stadium",
+      "city": "San Jose",
       "home": "Afrique du Sud",
       "away": "Corée du Sud",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        0
+      ]
     },
     {
       "id": "B1",
@@ -867,8 +875,12 @@
       "city": "Vancouver",
       "home": "Suisse",
       "away": "Canada",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        2,
+        1
+      ]
     },
     {
       "id": "B6",
@@ -880,8 +892,12 @@
       "city": "Seattle",
       "home": "Bosnie-Herzégovine",
       "away": "Qatar",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        3,
+        1
+      ]
     },
     {
       "id": "C1",
@@ -963,12 +979,16 @@
       "group": "C",
       "matchday": 1,
       "date": "2026-06-24",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens",
+      "venue": "MetLife Stadium",
+      "city": "New York",
       "home": "Écosse",
       "away": "Brésil",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        3
+      ]
     },
     {
       "id": "C6",
@@ -980,8 +1000,12 @@
       "city": "Atlanta",
       "home": "Maroc",
       "away": "Haïti",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        4,
+        2
+      ]
     },
     {
       "id": "D1",
@@ -1064,11 +1088,15 @@
       "matchday": 1,
       "date": "2026-06-25",
       "venue": "SoFi Stadium",
-      "city": "Inglewood",
+      "city": "Los Angeles",
       "home": "Turquie",
       "away": "États-Unis",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        2,
+        2
+      ]
     },
     {
       "id": "D6",
@@ -1077,11 +1105,15 @@
       "matchday": 1,
       "date": "2026-06-25",
       "venue": "Levi's Stadium",
-      "city": "Santa Clara",
+      "city": "San Jose",
       "home": "Paraguay",
       "away": "Australie",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        0
+      ]
     },
     {
       "id": "E1",
@@ -1167,8 +1199,12 @@
       "city": "Philadelphia",
       "home": "Curaçao",
       "away": "Côte d'Ivoire",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        2
+      ]
     },
     {
       "id": "E6",
@@ -1177,11 +1213,15 @@
       "matchday": 1,
       "date": "2026-06-25",
       "venue": "MetLife Stadium",
-      "city": "East Rutherford",
+      "city": "New York",
       "home": "Équateur",
       "away": "Allemagne",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        2,
+        1
+      ]
     },
     {
       "id": "F1",
@@ -1263,12 +1303,16 @@
       "group": "F",
       "matchday": 1,
       "date": "2026-06-25",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
+      "venue": "Allegiant Stadium",
+      "city": "Las Vegas",
       "home": "Japon",
       "away": "Suède",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        1
+      ]
     },
     {
       "id": "F6",
@@ -1280,8 +1324,12 @@
       "city": "Kansas City",
       "home": "Tunisie",
       "away": "Pays-Bas",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        3
+      ]
     },
     {
       "id": "G1",
@@ -1481,7 +1529,7 @@
       "matchday": 1,
       "date": "2026-06-26",
       "venue": "Estadio Akron",
-      "city": "Zapopan",
+      "city": "Guadalajara",
       "home": "Uruguay",
       "away": "Espagne",
       "status": "scheduled",
@@ -1537,8 +1585,12 @@
       "city": "Philadelphia",
       "home": "France",
       "away": "Irak",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        3,
+        0
+      ]
     },
     {
       "id": "I4",
@@ -1546,12 +1598,16 @@
       "group": "I",
       "matchday": 1,
       "date": "2026-06-22",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
       "home": "Norvège",
       "away": "Sénégal",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        3,
+        2
+      ]
     },
     {
       "id": "I5",
@@ -1626,11 +1682,15 @@
       "matchday": 1,
       "date": "2026-06-22",
       "venue": "AT&T Stadium",
-      "city": "Arlington",
+      "city": "Dallas",
       "home": "Argentine",
       "away": "Autriche",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        2,
+        0
+      ]
     },
     {
       "id": "J4",
@@ -1638,12 +1698,16 @@
       "group": "J",
       "matchday": 1,
       "date": "2026-06-22",
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
       "home": "Jordanie",
       "away": "Algérie",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        2
+      ]
     },
     {
       "id": "J5",
@@ -1719,8 +1783,12 @@
       "city": "Houston",
       "home": "Portugal",
       "away": "Ouzbékistan",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        5,
+        0
+      ]
     },
     {
       "id": "K4",
@@ -1728,12 +1796,16 @@
       "group": "K",
       "matchday": 1,
       "date": "2026-06-23",
-      "venue": "Estadio Akron",
-      "city": "Zapopan",
+      "venue": "Empower Field at Mile High",
+      "city": "Denver",
       "home": "Colombie",
       "away": "RD Congo",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        0
+      ]
     },
     {
       "id": "K5",
@@ -1806,11 +1878,15 @@
       "matchday": 1,
       "date": "2026-06-23",
       "venue": "Gillette Stadium",
-      "city": "Foxborough",
+      "city": "Boston",
       "home": "Angleterre",
       "away": "Ghana",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        0
+      ]
     },
     {
       "id": "L4",
@@ -1822,8 +1898,12 @@
       "city": "Toronto",
       "home": "Panama",
       "away": "Croatie",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        1
+      ]
     },
     {
       "id": "L5",
@@ -3344,33 +3424,527 @@
       "player": "Diney",
       "type": "yellow",
       "minute": "90+3"
+    },
+    {
+      "match": "I3",
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "minute": "14",
+      "type": "goal"
+    },
+    {
+      "match": "I3",
+      "team": "Irak",
+      "player": "A. Alammari",
+      "minute": "6",
+      "type": "yellow"
+    },
+    {
+      "match": "I3",
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "minute": "54",
+      "type": "goal"
+    },
+    {
+      "match": "I3",
+      "team": "France",
+      "player": "Ousmane Dembélé",
+      "minute": "66",
+      "type": "goal"
+    },
+    {
+      "match": "I4",
+      "team": "Norvège",
+      "player": "Holmgren Pedersen",
+      "minute": "43",
+      "type": "goal"
+    },
+    {
+      "match": "I4",
+      "team": "Norvège",
+      "player": "Erling Haaland",
+      "minute": "48",
+      "type": "goal"
+    },
+    {
+      "match": "I4",
+      "team": "Sénégal",
+      "player": "Ismaïla Sarr",
+      "minute": "53",
+      "type": "goal"
+    },
+    {
+      "match": "I4",
+      "team": "Norvège",
+      "player": "Erling Haaland",
+      "minute": "58",
+      "type": "goal"
+    },
+    {
+      "match": "I4",
+      "team": "Sénégal",
+      "player": "Ismaïla Sarr",
+      "minute": "90+3",
+      "type": "goal"
+    },
+    {
+      "match": "J3",
+      "team": "Argentine",
+      "player": "Lionel Messi",
+      "minute": "38",
+      "type": "goal"
+    },
+    {
+      "match": "J3",
+      "team": "Argentine",
+      "player": "Leandro Paredes",
+      "minute": "55",
+      "type": "yellow"
+    },
+    {
+      "match": "J3",
+      "team": "Argentine",
+      "player": "Lionel Messi",
+      "minute": "90+5",
+      "type": "goal"
+    },
+    {
+      "match": "J4",
+      "team": "Algérie",
+      "player": "Ramiz Zerrouki",
+      "minute": "44",
+      "type": "yellow"
+    },
+    {
+      "match": "J4",
+      "team": "Jordanie",
+      "player": "Al-Rashdan",
+      "minute": "36",
+      "type": "goal"
+    },
+    {
+      "match": "J4",
+      "team": "Jordanie",
+      "player": "H. Abudahab",
+      "minute": "64",
+      "type": "yellow"
+    },
+    {
+      "match": "J4",
+      "team": "Algérie",
+      "player": "Benbouali",
+      "minute": "69",
+      "type": "goal"
+    },
+    {
+      "match": "J4",
+      "team": "Algérie",
+      "player": "Amine Gouiri",
+      "minute": "82",
+      "type": "goal"
+    },
+    {
+      "match": "K3",
+      "team": "Portugal",
+      "player": "Cristiano Ronaldo",
+      "minute": "6",
+      "type": "goal"
+    },
+    {
+      "match": "K3",
+      "team": "Portugal",
+      "player": "Nuno Mendes",
+      "minute": "17",
+      "type": "goal"
+    },
+    {
+      "match": "K3",
+      "team": "Portugal",
+      "player": "Cristiano Ronaldo",
+      "minute": "39",
+      "type": "goal"
+    },
+    {
+      "match": "K3",
+      "team": "Portugal",
+      "player": "A. Nematov",
+      "minute": "60",
+      "type": "own_goal",
+      "benefits": "Portugal"
+    },
+    {
+      "match": "K3",
+      "team": "Portugal",
+      "player": "Rafael Leão",
+      "minute": "87",
+      "type": "goal"
+    },
+    {
+      "match": "K4",
+      "team": "Colombie",
+      "player": "Daniel Muñoz",
+      "minute": "76",
+      "type": "goal"
+    },
+    {
+      "match": "K4",
+      "team": "Colombie",
+      "player": "J. Lerma",
+      "minute": "90+4",
+      "type": "yellow"
+    },
+    {
+      "match": "K4",
+      "team": "RD Congo",
+      "player": "C. Pickel",
+      "minute": "89",
+      "type": "yellow"
+    },
+    {
+      "match": "K4",
+      "team": "RD Congo",
+      "player": "C. Pickel",
+      "minute": "90+7",
+      "type": "red",
+      "detail": "Double avertissement"
+    },
+    {
+      "match": "L3",
+      "team": "Angleterre",
+      "player": "Declan Rice",
+      "minute": "62",
+      "type": "yellow"
+    },
+    {
+      "match": "L3",
+      "team": "Ghana",
+      "player": "Iñaki Williams",
+      "minute": "74",
+      "type": "yellow"
+    },
+    {
+      "match": "L4",
+      "team": "Croatie",
+      "player": "Ante Budimir",
+      "minute": "54",
+      "type": "goal"
+    },
+    {
+      "match": "L4",
+      "team": "Croatie",
+      "player": "Petar Sučić",
+      "minute": "67",
+      "type": "yellow"
+    },
+    {
+      "match": "A5",
+      "team": "Mexique",
+      "player": "Mateo Chávez",
+      "minute": "55",
+      "type": "goal"
+    },
+    {
+      "match": "A5",
+      "team": "Mexique",
+      "player": "Julián Quiñones",
+      "minute": "61",
+      "type": "goal"
+    },
+    {
+      "match": "A5",
+      "team": "Mexique",
+      "player": "Álvaro Fidalgo",
+      "minute": "90+4",
+      "type": "goal"
+    },
+    {
+      "match": "A6",
+      "team": "Afrique du Sud",
+      "player": "Thapelo Maseko",
+      "minute": "63",
+      "type": "goal"
+    },
+    {
+      "match": "B5",
+      "team": "Suisse",
+      "player": "Ruben Vargas",
+      "minute": "46",
+      "type": "goal"
+    },
+    {
+      "match": "B5",
+      "team": "Suisse",
+      "player": "Johan Manzambi",
+      "minute": "57",
+      "type": "goal"
+    },
+    {
+      "match": "B5",
+      "team": "Canada",
+      "player": "Promise David",
+      "minute": "76",
+      "type": "goal"
+    },
+    {
+      "match": "B6",
+      "team": "Bosnie-Herzégovine",
+      "player": "Kerim Alajbegović",
+      "minute": "29",
+      "type": "goal"
+    },
+    {
+      "match": "B6",
+      "team": "Bosnie-Herzégovine",
+      "player": "Sultan Al-Brake",
+      "minute": "34",
+      "type": "own_goal",
+      "benefits": "Bosnie-Herzégovine"
+    },
+    {
+      "match": "B6",
+      "team": "Qatar",
+      "player": "Hassan Al-Haydos",
+      "minute": "42",
+      "type": "goal"
+    },
+    {
+      "match": "B6",
+      "team": "Bosnie-Herzégovine",
+      "player": "Ermin Mahmić",
+      "minute": "82",
+      "type": "goal"
+    },
+    {
+      "match": "C5",
+      "team": "Brésil",
+      "player": "Vinícius Júnior",
+      "minute": "7",
+      "type": "goal"
+    },
+    {
+      "match": "C5",
+      "team": "Brésil",
+      "player": "Vinícius Júnior",
+      "minute": "45+2",
+      "type": "goal"
+    },
+    {
+      "match": "C5",
+      "team": "Brésil",
+      "player": "Matheus Cunha",
+      "minute": "60",
+      "type": "goal"
+    },
+    {
+      "match": "C5",
+      "team": "Brésil",
+      "player": "Danilo",
+      "minute": "62",
+      "type": "yellow"
+    },
+    {
+      "match": "C5",
+      "team": "Écosse",
+      "player": "Ryan Christie",
+      "minute": "89",
+      "type": "yellow"
+    },
+    {
+      "match": "C6",
+      "team": "Haïti",
+      "player": "Yassine Bounou",
+      "minute": "10",
+      "type": "own_goal",
+      "benefits": "Haïti"
+    },
+    {
+      "match": "C6",
+      "team": "Maroc",
+      "player": "Achraf Hakimi",
+      "minute": "39",
+      "type": "goal"
+    },
+    {
+      "match": "C6",
+      "team": "Haïti",
+      "player": "Wilson Isidor",
+      "minute": "43",
+      "type": "goal"
+    },
+    {
+      "match": "C6",
+      "team": "Maroc",
+      "player": "Ismaël Saïbari",
+      "minute": "45+1",
+      "type": "goal"
+    },
+    {
+      "match": "C6",
+      "team": "Maroc",
+      "player": "Soufiane Rahimi",
+      "minute": "78",
+      "type": "goal"
+    },
+    {
+      "match": "C6",
+      "team": "Maroc",
+      "player": "Gessime Yassine",
+      "minute": "89",
+      "type": "goal"
+    },
+    {
+      "match": "C6",
+      "team": "Haïti",
+      "player": "J. Casimir",
+      "minute": "90+2",
+      "type": "yellow"
+    },
+    {
+      "match": "D5",
+      "team": "Turquie",
+      "player": "Arda Güler",
+      "minute": "10",
+      "type": "goal"
+    },
+    {
+      "match": "D5",
+      "team": "Turquie",
+      "player": "Orkun Kökçü",
+      "minute": "31",
+      "type": "goal"
+    },
+    {
+      "match": "D5",
+      "team": "États-Unis",
+      "player": "Auston Trusty",
+      "minute": "3",
+      "type": "goal"
+    },
+    {
+      "match": "D5",
+      "team": "États-Unis",
+      "player": "Sebastian Berhalter",
+      "minute": "49",
+      "type": "goal"
+    },
+    {
+      "match": "E5",
+      "team": "Côte d'Ivoire",
+      "player": "Nicolas Pépé",
+      "minute": "35",
+      "type": "yellow"
+    },
+    {
+      "match": "E5",
+      "team": "Côte d'Ivoire",
+      "player": "Nicolas Pépé",
+      "minute": "64",
+      "type": "goal"
+    },
+    {
+      "match": "E5",
+      "team": "Curaçao",
+      "player": "Leandro Bacuna",
+      "minute": "75",
+      "type": "yellow"
+    },
+    {
+      "match": "E5",
+      "team": "Curaçao",
+      "player": "Gervane Kastaneer",
+      "minute": "83",
+      "type": "yellow"
+    },
+    {
+      "match": "E6",
+      "team": "Allemagne",
+      "player": "Leroy Sané",
+      "minute": "2",
+      "type": "goal"
+    },
+    {
+      "match": "E6",
+      "team": "Équateur",
+      "player": "Nilson Angulo",
+      "minute": "9",
+      "type": "goal"
+    },
+    {
+      "match": "E6",
+      "team": "Équateur",
+      "player": "Gonzalo Plata",
+      "minute": "78",
+      "type": "goal"
+    },
+    {
+      "match": "F5",
+      "team": "Japon",
+      "player": "Daizen Maeda",
+      "minute": "56",
+      "type": "goal"
+    },
+    {
+      "match": "F5",
+      "team": "Suède",
+      "player": "Anthony Elanga",
+      "minute": "62",
+      "type": "goal"
+    },
+    {
+      "match": "F6",
+      "team": "Tunisie",
+      "player": "Ellyes Skhiri",
+      "minute": "2",
+      "type": "own_goal",
+      "benefits": "Pays-Bas"
+    },
+    {
+      "match": "F6",
+      "team": "Pays-Bas",
+      "player": "Brian Brobbey",
+      "minute": "7",
+      "type": "goal"
+    },
+    {
+      "match": "F6",
+      "team": "Tunisie",
+      "player": "Hazem Mastouri",
+      "minute": "54",
+      "type": "goal"
+    },
+    {
+      "match": "F6",
+      "team": "Pays-Bas",
+      "player": "Jan Paul van Hecke",
+      "minute": "62",
+      "type": "goal"
     }
   ],
   "lineups": [
     {
       "match": "A1",
       "team": "Mexique",
-      "formation": "4-3-3",
-      "raw": "Raúl Rangel; Israel Reyes, César Montes, Johan Vásquez, Jesús Gallardo; Erik Lira, Álvaro Fidalgo, Brian Gutiérrez; Roberto Alvarado, Raúl Jiménez, Julián Quiñones",
+      "formation": "4-1-4-1",
+      "raw": "J. Rangel; I. Reyes, C. Montes, J. Vásquez, J. Gallardo; E. Lira; R. Alvarado, Á. Fidalgo, B. Gutiérrez, J. Quiñones; R. Jiménez",
       "players": [
-        "Raúl Rangel",
-        "Israel Reyes",
-        "César Montes",
-        "Johan Vásquez",
-        "Jesús Gallardo",
-        "Erik Lira",
-        "Álvaro Fidalgo",
-        "Brian Gutiérrez",
-        "Roberto Alvarado",
-        "Raúl Jiménez",
-        "Julián Quiñones"
+        "J. Rangel",
+        "I. Reyes",
+        "C. Montes",
+        "J. Vásquez",
+        "J. Gallardo",
+        "E. Lira",
+        "R. Alvarado",
+        "Á. Fidalgo",
+        "B. Gutiérrez",
+        "J. Quiñones",
+        "R. Jiménez"
       ],
       "subs": [
-        "Santiago Giménez",
-        "Hirving Lozano",
-        "Henry Martín",
-        "Edson Álvarez",
-        "Uriel Antuna"
+        "E. Álvarez",
+        "A. González",
+        "G. Mora",
+        "L. Chávez"
       ],
       "coach": "Javier Aguirre"
     },
@@ -3378,222 +3952,178 @@
       "match": "A1",
       "team": "Afrique du Sud",
       "formation": "5-3-2",
-      "raw": "Ronwen Williams; Khuliso Mudau, Nkosinathi Sibisi, Ime Okon, Mbekezeli Mbokazi, Aubrey Modiba; Teboho Mokoena, Sphephelo Sithole, Jayden Adams; Lyle Foster, Iqraam Rayners",
+      "raw": "R. Williams; A. Modiba, M. Mbokazi, N. Sibisi, I. Okon, K. Mudau; T. Mokoena, S. Sithole, J. Adams; L. Foster, I. Rayners",
       "players": [
-        "Ronwen Williams",
-        "Khuliso Mudau",
-        "Nkosinathi Sibisi",
-        "Ime Okon",
-        "Mbekezeli Mbokazi",
-        "Aubrey Modiba",
-        "Teboho Mokoena",
-        "Sphephelo Sithole",
-        "Jayden Adams",
-        "Lyle Foster",
-        "Iqraam Rayners"
+        "R. Williams",
+        "A. Modiba",
+        "M. Mbokazi",
+        "N. Sibisi",
+        "I. Okon",
+        "K. Mudau",
+        "T. Mokoena",
+        "S. Sithole",
+        "J. Adams",
+        "L. Foster",
+        "I. Rayners"
       ],
       "subs": [
-        "Grant Kekana",
-        "Evidence Makgopa",
-        "Oswin Appollis",
-        "Thalente Mbatha",
-        "Tshepang Moremi"
+        "T. Mbatha",
+        "O. Appollis",
+        "E. Makgopa",
+        "T. Zwane"
       ],
       "coach": "Hugo Broos"
     },
     {
       "match": "A2",
       "team": "Corée du Sud",
-      "formation": "3-4-2-1",
-      "raw": "Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Seol Young-woo, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Lee Jae-sung; Son Heung-min",
+      "formation": "4-3-3",
+      "raw": "Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk, Lee Tae-seok; Seol Young-woo, Hwang In-beom, Paik Seung-ho; Lee Kang-in, Lee Jae-sung, Son Heung-min",
       "players": [
         "Kim Seung-gyu",
         "Lee Han-beom",
         "Kim Min-jae",
         "Lee Gi-hyuk",
+        "Lee Tae-seok",
         "Seol Young-woo",
         "Hwang In-beom",
         "Paik Seung-ho",
-        "Lee Tae-seok",
         "Lee Kang-in",
         "Lee Jae-sung",
         "Son Heung-min"
       ],
-      "subs": [
-        "Oh Hyeon-gyu",
-        "Hwang Hee-chan",
-        "Cho Gue-sung",
-        "Jung Woo-young",
-        "Na Sang-ho"
-      ],
+      "subs": [],
       "coach": "Hong Myung-bo"
     },
     {
       "match": "A2",
       "team": "Tchéquie",
-      "formation": "3-4-2-1",
-      "raw": "Matěj Kovář; Štěpán Chaloupek, Robin Hranáč, Ladislav Krejčí; Vladimír Coufal, Tomáš Souček, Alexandr Sojka, Jaroslav Zelený; Lukáš Provod, Pavel Šulc; Patrik Schick",
+      "formation": "4-2-3-1",
+      "raw": "M. Kovář; V. Coufal, D. Doudera, T. Holeš, L. Krejčí; T. Souček, M. Sadílek; A. Hložek, P. Šulc, P. Provod; P. Schick",
       "players": [
-        "Matěj Kovář",
-        "Štěpán Chaloupek",
-        "Robin Hranáč",
-        "Ladislav Krejčí",
-        "Vladimír Coufal",
-        "Tomáš Souček",
-        "Alexandr Sojka",
-        "Jaroslav Zelený",
-        "Lukáš Provod",
-        "Pavel Šulc",
-        "Patrik Schick"
+        "M. Kovář",
+        "V. Coufal",
+        "D. Doudera",
+        "T. Holeš",
+        "L. Krejčí",
+        "T. Souček",
+        "M. Sadílek",
+        "A. Hložek",
+        "P. Šulc",
+        "P. Provod",
+        "P. Schick"
       ],
-      "subs": [
-        "Jiří Pavlenka",
-        "David Jurásek",
-        "Tomáš Holes",
-        "Michal Sadílek",
-        "Adam Hložek"
-      ],
+      "subs": [],
       "coach": "Miroslav Koubek"
     },
     {
       "match": "B1",
       "team": "Canada",
-      "formation": "4-3-3",
-      "raw": "Maxime Crépeau; Alistair Johnston, Derek Cornelius, Luc De Fougerolles, Richie Laryea; Stephen Eustáquio, Ismaël Koné, Liam Millar; Tajon Buchanan, Jonathan David, Tani Oluwaseyi",
+      "formation": "4-4-2",
+      "raw": "M. Crépeau; A. Johnston, L. De Fougerolles, D. Cornelius, R. Laryea; T. Buchanan, S. Eustáquio, I. Koné, L. Millar; J. David, C. Larin",
       "players": [
-        "Maxime Crépeau",
-        "Alistair Johnston",
-        "Derek Cornelius",
-        "Luc De Fougerolles",
-        "Richie Laryea",
-        "Stephen Eustáquio",
-        "Ismaël Koné",
-        "Liam Millar",
-        "Tajon Buchanan",
-        "Jonathan David",
-        "Tani Oluwaseyi"
+        "M. Crépeau",
+        "A. Johnston",
+        "L. De Fougerolles",
+        "D. Cornelius",
+        "R. Laryea",
+        "T. Buchanan",
+        "S. Eustáquio",
+        "I. Koné",
+        "L. Millar",
+        "J. David",
+        "C. Larin"
       ],
-      "subs": [
-        "Dayne St. Clair",
-        "Kamal Miller",
-        "Alphonso Davies",
-        "Charles-Andreas Brym",
-        "Jacob Shaffelburg",
-        "Cyle Larin",
-        "Éder Delgado",
-        "Jayden Nelson"
-      ],
+      "subs": [],
       "coach": "Jesse Marsch"
     },
     {
       "match": "B1",
       "team": "Bosnie-Herzégovine",
       "formation": "4-3-3",
-      "raw": "Ibrahim Šehić; Sead Kolašinac, Tarik Muharemović, Anel Ahmedhodžić, Elvis Sarić; Ermedin Demirović, Zajko Tahirović, Amir Memić; Josip Brekalo, Armin Hodžić, Jasmin Mujezinović",
+      "raw": "N. Vasilj; D. Burnic, E. Gigovic, T. Muharemović, A. Memić; K. Alajbegović, I. Šunjić, A. Bajraktarević; M. Mahmic, E. Demirović, A. Bazdar",
       "players": [
-        "Ibrahim Šehić",
-        "Sead Kolašinac",
-        "Tarik Muharemović",
-        "Anel Ahmedhodžić",
-        "Elvis Sarić",
-        "Ermedin Demirović",
-        "Zajko Tahirović",
-        "Amir Memić",
-        "Josip Brekalo",
-        "Armin Hodžić",
-        "Jasmin Mujezinović"
+        "N. Vasilj",
+        "D. Burnic",
+        "E. Gigovic",
+        "T. Muharemović",
+        "A. Memić",
+        "K. Alajbegović",
+        "I. Šunjić",
+        "A. Bajraktarević",
+        "M. Mahmic",
+        "E. Demirović",
+        "A. Bazdar"
       ],
-      "subs": [
-        "Nikola Katić",
-        "Džeko",
-        "Bajraktarević",
-        "Dedić",
-        "Burić"
-      ],
+      "subs": [],
       "coach": "Sergej Barbarez"
     },
     {
       "match": "B2",
       "team": "Qatar",
       "formation": "4-3-3",
-      "raw": "Meshaal Barsham; Homam Al-Amin, Ayoub Al-Oui, Boualem Khoukhi, Pedro Miguel; Jassem Gaber, Ahmed Fatehi, Karim Boudiaf; Yusuf Abdurisag, Akram Afif, Edmilson Júnior",
+      "raw": "M. Abunada; A. Al Oui, P. Miguel, B. Khoukhi, H. Elamin; J. Gaber, A. Madibo, I. Laye; E. Junior, Y. Abdurisag, A. Afif",
       "players": [
-        "Meshaal Barsham",
-        "Homam Al-Amin",
-        "Ayoub Al-Oui",
-        "Boualem Khoukhi",
-        "Pedro Miguel",
-        "Jassem Gaber",
-        "Ahmed Fatehi",
-        "Karim Boudiaf",
-        "Yusuf Abdurisag",
-        "Akram Afif",
-        "Edmilson Júnior"
+        "M. Abunada",
+        "A. Al Oui",
+        "P. Miguel",
+        "B. Khoukhi",
+        "H. Elamin",
+        "J. Gaber",
+        "A. Madibo",
+        "I. Laye",
+        "E. Junior",
+        "Y. Abdurisag",
+        "A. Afif"
       ],
-      "subs": [
-        "Saad Al-Sheeb",
-        "Almoez Ali",
-        "Hassan Al-Haydos",
-        "Mohammed Muntari",
-        "Assim Madibo"
-      ],
-      "coach": "Marquez Lopez"
+      "subs": [],
+      "coach": "Marko Nikolić"
     },
     {
       "match": "B2",
       "team": "Suisse",
-      "formation": "4-2-3-1",
-      "raw": "Gregor Kobel; Fabian Aebischer, Manuel Akanji, Nico Elvedi, Ricardo Rodríguez; Denis Zakaria, Remo Freuler; Dan Ndoye, Granit Xhaka, Ruben Vargas; Breel Embolo",
+      "formation": "4-3-3",
+      "raw": "G. Kobel; D. Zakaria, M. Akanji, N. Elvedi, R. Rodríguez; M. Aebischer, G. Xhaka, R. Freuler; D. Ndoye, B. Embolo, R. Vargas",
       "players": [
-        "Gregor Kobel",
-        "Fabian Aebischer",
-        "Manuel Akanji",
-        "Nico Elvedi",
-        "Ricardo Rodríguez",
-        "Denis Zakaria",
-        "Remo Freuler",
-        "Dan Ndoye",
-        "Granit Xhaka",
-        "Ruben Vargas",
-        "Breel Embolo"
+        "G. Kobel",
+        "D. Zakaria",
+        "M. Akanji",
+        "N. Elvedi",
+        "R. Rodríguez",
+        "M. Aebischer",
+        "G. Xhaka",
+        "R. Freuler",
+        "D. Ndoye",
+        "B. Embolo",
+        "R. Vargas"
       ],
-      "subs": [
-        "Yann Sommer",
-        "Silvan Widmer",
-        "Leonidas Stergiou",
-        "Xherdan Shaqiri",
-        "Michel Aebischer",
-        "Noah Okafor",
-        "Zeki Amdouni"
-      ],
+      "subs": [],
       "coach": "Murat Yakin"
     },
     {
       "match": "C1",
       "team": "Brésil",
       "formation": "4-2-3-1",
-      "raw": "Alisson Becker; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Fabinho, Danilo Santos; Raphinha, Matheus Cunha, Vinícius Júnior; Luiz Henrique",
+      "raw": "Alisson; R. Ibañez, Marquinhos, Gabriel, D. Santos; Casemiro, B. Guimarães; Raphinha, L. Paquetá, Vinícius Jr.; I. Thiago",
       "players": [
-        "Alisson Becker",
-        "Danilo",
+        "Alisson",
+        "R. Ibañez",
         "Marquinhos",
-        "Gabriel Magalhães",
-        "Douglas Santos",
-        "Fabinho",
-        "Danilo Santos",
+        "Gabriel",
+        "D. Santos",
+        "Casemiro",
+        "B. Guimarães",
         "Raphinha",
-        "Matheus Cunha",
-        "Vinícius Júnior",
-        "Luiz Henrique"
+        "L. Paquetá",
+        "Vinícius Jr.",
+        "I. Thiago"
       ],
       "subs": [
-        "Ederson",
-        "Weverton",
-        "Casemiro",
-        "Gerson",
-        "Endrick",
-        "Gabriel Martinelli",
-        "Igor Thiago"
+        "M. Cunha (61')",
+        "Danilo (45')",
+        "Fabinho (45')",
+        "D. dos Santos (80')",
+        "L. Rosa (62')"
       ],
       "coach": "Carlo Ancelotti"
     },
@@ -3601,603 +4131,402 @@
       "match": "C1",
       "team": "Maroc",
       "formation": "4-2-3-1",
-      "raw": "Yassine Bounou; Achraf Hakimi, Issa Diop, Chadi Riad, Anass Salah-Eddine; Ayyoub Bouaddi, Neil El Aynaoui; Chemsdine Talbi, Samir El Mourabet, Ismael Saibari; Soufiane Rahimi",
+      "raw": "Y. Bounou; N. Mazraoui, C. Riad, I. Diop, A. Hakimi; N. El Aynaoui, A. Bouaddi; Brahim Díaz, A. Ounahi, B. El Khannouss; I. Saibari",
       "players": [
-        "Yassine Bounou",
-        "Achraf Hakimi",
-        "Issa Diop",
-        "Chadi Riad",
-        "Anass Salah-Eddine",
-        "Ayyoub Bouaddi",
-        "Neil El Aynaoui",
-        "Chemsdine Talbi",
-        "Samir El Mourabet",
-        "Ismael Saibari",
-        "Soufiane Rahimi"
+        "Y. Bounou",
+        "N. Mazraoui",
+        "C. Riad",
+        "I. Diop",
+        "A. Hakimi",
+        "N. El Aynaoui",
+        "A. Bouaddi",
+        "Brahim Díaz",
+        "A. Ounahi",
+        "B. El Khannouss",
+        "I. Saibari"
       ],
       "subs": [
-        "Munir Mohamedi",
-        "Azzedine Ounahi",
-        "Brahim Díaz",
-        "Sofiane Boufal",
-        "Youssef En-Nesyri",
-        "Hakim Ziyech",
-        "Bilal El Khannouss"
+        "C. Talbi (65')",
+        "S. El Mourabet (65')",
+        "S. Rahimi (89')",
+        "A. Salah-Eddine (80')"
       ],
       "coach": "Mohamed Ouahbi"
     },
     {
       "match": "C2",
       "team": "Haïti",
-      "formation": "4-4-2",
-      "raw": "Johny Placide; Carlens Arcus, Ricardo Adé, Hannes Delcroix, Martin Expérience; Ruben Providence, Danley Jean Jacques, Jean-Ricner Bellegarde, Louicius Deedson; Wilson Isidor, Frantzdy Pierrot",
+      "formation": "4-3-3",
+      "raw": "J. Placide; C. Arcus, R. Ade, H. Delcroix, J.-K. Duverne; J.-R. Bellegarde, D. Jean Jacques, R. Providence; F. Pierrot, J. Casimir, M. Experience",
       "players": [
-        "Johny Placide",
-        "Carlens Arcus",
-        "Ricardo Adé",
-        "Hannes Delcroix",
-        "Martin Expérience",
-        "Ruben Providence",
-        "Danley Jean Jacques",
-        "Jean-Ricner Bellegarde",
-        "Louicius Deedson",
-        "Wilson Isidor",
-        "Frantzdy Pierrot"
+        "J. Placide",
+        "C. Arcus",
+        "R. Ade",
+        "H. Delcroix",
+        "J.-K. Duverne",
+        "J.-R. Bellegarde",
+        "D. Jean Jacques",
+        "R. Providence",
+        "F. Pierrot",
+        "J. Casimir",
+        "M. Experience"
       ],
-      "subs": [
-        "Josue Duverger",
-        "Mechack Jerome",
-        "Joel Sonora",
-        "Steeven Saba",
-        "Duckens Nazon",
-        "Wilde-Donald Guerrier",
-        "Herve Bazile"
-      ],
-      "coach": "Sebastien Migne"
+      "subs": [],
+      "coach": "Marc Collat"
     },
     {
       "match": "C2",
       "team": "Écosse",
       "formation": "4-4-2",
-      "raw": "Angus Gunn; Aaron Hickey, Grant Hanley, Jack Hendry, Andy Robertson; Ben Gannon-Doak, Scott McTominay, Lewis Ferguson, John McGinn; Lawrence Shankland, Che Adams",
+      "raw": "A. Gunn; N. Patterson, G. Hanley, J. Hendry, A. Robertson; J. McGinn, S. McTominay, L. Ferguson, R. Christie; L. Shankland, A. Adams",
       "players": [
-        "Angus Gunn",
-        "Aaron Hickey",
-        "Grant Hanley",
-        "Jack Hendry",
-        "Andy Robertson",
-        "Ben Gannon-Doak",
-        "Scott McTominay",
-        "Lewis Ferguson",
-        "John McGinn",
-        "Lawrence Shankland",
-        "Che Adams"
+        "A. Gunn",
+        "N. Patterson",
+        "G. Hanley",
+        "J. Hendry",
+        "A. Robertson",
+        "J. McGinn",
+        "S. McTominay",
+        "L. Ferguson",
+        "R. Christie",
+        "L. Shankland",
+        "A. Adams"
       ],
-      "subs": [
-        "Craig Gordon",
-        "Ryan Christie",
-        "Findlay Curtis",
-        "Lyndon Dykes",
-        "George Hirst",
-        "Scott McKenna",
-        "Kenny McLean",
-        "Nathan Patterson",
-        "Ross Stewart",
-        "Kieran Tierney"
-      ],
+      "subs": [],
       "coach": "Steve Clarke"
     },
     {
       "match": "D1",
       "team": "États-Unis",
-      "formation": "5-3-2",
-      "raw": "Matt Freese; Sergiño Dest, Chris Richards, Tim Ream, Alex Freeman, Antonee Robinson; Tyler Adams, Weston McKennie, Malik Tillman; Christian Pulisic, Folarin Balogun",
+      "formation": "4-2-3-1",
+      "raw": "M. Freese; S. Dest, C. Richards, T. Ream, A. Robinson; T. Adams, W. McKennie; A. Freeman, M. Tillman, C. Pulisic; F. Balogun",
       "players": [
-        "Matt Freese",
-        "Sergiño Dest",
-        "Chris Richards",
-        "Tim Ream",
-        "Alex Freeman",
-        "Antonee Robinson",
-        "Tyler Adams",
-        "Weston McKennie",
-        "Malik Tillman",
-        "Christian Pulisic",
-        "Folarin Balogun"
+        "M. Freese",
+        "S. Dest",
+        "C. Richards",
+        "T. Ream",
+        "A. Robinson",
+        "T. Adams",
+        "W. McKennie",
+        "A. Freeman",
+        "M. Tillman",
+        "C. Pulisic",
+        "F. Balogun"
       ],
-      "subs": [
-        "Matt Turner",
-        "Chris Brady",
-        "Auston Trusty",
-        "Gio Reyna",
-        "Ricardo Pepi",
-        "Brenden Aaronson",
-        "Miles Robinson",
-        "Tim Weah",
-        "Joe Scally"
-      ],
+      "subs": [],
       "coach": "Mauricio Pochettino"
     },
     {
       "match": "D1",
       "team": "Paraguay",
       "formation": "4-2-3-1",
-      "raw": "Orlando Gill; Juan José Cáceres, Gustavo Gómez, Omar Alderete, Junior Alonso; Andrés Cubas, Damián Bobadilla; Julio Enciso, Diego Gómez, Miguel Almirón; Antonio Sanabria",
+      "raw": "O. Gill; J.J. Caceres, G. Gomez, O. Alderete, J. Alonso; D. Bobadilla, A. Cubas; D. Gomez, M. Almirón, J. Enciso; A. Sanabria",
       "players": [
-        "Orlando Gill",
-        "Juan José Cáceres",
-        "Gustavo Gómez",
-        "Omar Alderete",
-        "Junior Alonso",
-        "Andrés Cubas",
-        "Damián Bobadilla",
-        "Julio Enciso",
-        "Diego Gómez",
-        "Miguel Almirón",
-        "Antonio Sanabria"
+        "O. Gill",
+        "J.J. Caceres",
+        "G. Gomez",
+        "O. Alderete",
+        "J. Alonso",
+        "D. Bobadilla",
+        "A. Cubas",
+        "D. Gomez",
+        "M. Almirón",
+        "J. Enciso",
+        "A. Sanabria"
       ],
-      "subs": [
-        "Roberto Fernández",
-        "Antony Silva",
-        "Blas Riveros",
-        "Fabián Balbuena",
-        "Mathías Villasanti",
-        "Ramón Sosa",
-        "Fernando Cardozo",
-        "Carlos González"
-      ],
+      "subs": [],
       "coach": "Gustavo Alfaro"
     },
     {
       "match": "D2",
       "team": "Australie",
-      "formation": "5-4-1",
-      "raw": "Patrick Beach; Alessandro Circati, Jacob Italiano, Harry Souttar, Cameron Burgess, Jordan Bos; Connor Metcalfe, Aiden O'Neill, Paul Okon-Engstler, Nestory Irankunda; Mohamed Touré",
+      "formation": "3-4-2-1",
+      "raw": "P. Beach; C. Burgess, H. Souttar, A. Circati; J. Italiano, A. O'Neill, C. Metcalfe, J. Bos; N. Irankunda, P. Okon-Engstler; M. Touré",
       "players": [
-        "Patrick Beach",
-        "Alessandro Circati",
-        "Jacob Italiano",
-        "Harry Souttar",
-        "Cameron Burgess",
-        "Jordan Bos",
-        "Connor Metcalfe",
-        "Aiden O'Neill",
-        "Paul Okon-Engstler",
-        "Nestory Irankunda",
-        "Mohamed Touré"
+        "P. Beach",
+        "C. Burgess",
+        "H. Souttar",
+        "A. Circati",
+        "J. Italiano",
+        "A. O'Neill",
+        "C. Metcalfe",
+        "J. Bos",
+        "N. Irankunda",
+        "P. Okon-Engstler",
+        "M. Touré"
       ],
-      "subs": [
-        "Mat Ryan",
-        "Jason Geria",
-        "Miloš Degenek",
-        "Aziz Behich",
-        "Cameron Devlin",
-        "Jackson Irvine",
-        "Mathew Leckie",
-        "Ajdin Hrustic",
-        "Awer Mabil",
-        "Cristian Volpato",
-        "Tete Yengi"
-      ],
+      "subs": [],
       "coach": "Tony Popovic"
     },
     {
       "match": "D2",
       "team": "Turquie",
-      "formation": "4-3-3",
-      "raw": "Uğurcan Çakır; Zeki Çelik, Merih Demiral, Abdülkerim Bardakcı, Ferdi Kadıoğlu; Orkun Kökçü, Hakan Çalhanoğlu, İsmail Yüksek; Kerem Aktürkoğlu, Arda Güler, Baris Yilmaz",
+      "formation": "4-2-3-1",
+      "raw": "U. Çakır; Z. Çelik, M. Demiral, A. Bardakçı, O. Kökcü; H. Çalhanoglu, I. Yüksek; A. Güler, K. Aktürkoglu, K. Yıldız; .",
       "players": [
-        "Uğurcan Çakır",
-        "Zeki Çelik",
-        "Merih Demiral",
-        "Abdülkerim Bardakcı",
-        "Ferdi Kadıoğlu",
-        "Orkun Kökçü",
-        "Hakan Çalhanoğlu",
-        "İsmail Yüksek",
-        "Kerem Aktürkoğlu",
-        "Arda Güler",
-        "Baris Yilmaz"
+        "U. Çakır",
+        "Z. Çelik",
+        "M. Demiral",
+        "A. Bardakçı",
+        "O. Kökcü",
+        "H. Çalhanoglu",
+        "I. Yüksek",
+        "A. Güler",
+        "K. Aktürkoglu",
+        "K. Yıldız"
       ],
-      "subs": [
-        "Mert Günok",
-        "Altay Bayındır",
-        "Çağlar Söyüncü",
-        "İrfan Kahveci",
-        "Can Uzun",
-        "Kenan Yıldız"
-      ],
+      "subs": [],
       "coach": "Vincenzo Montella"
     },
     {
       "match": "E1",
       "team": "Allemagne",
       "formation": "4-2-3-1",
-      "raw": "Manuel Neuer; Joshua Kimmich, Jonathan Tah, Nico Schlotterbeck, Nathaniel Brown; Aleksandar Pavlović, Felix Nmecha; Leroy Sané, Jamal Musiala, Florian Wirtz; Kai Havertz",
+      "raw": "M. Neuer; J. Kimmich, J. Tah, N. Schlotterbeck, N. Brown; F. Nmecha, A. Pavlovic; L. Sané, J. Musiala, F. Wirtz; K. Havertz",
       "players": [
-        "Manuel Neuer",
-        "Joshua Kimmich",
-        "Jonathan Tah",
-        "Nico Schlotterbeck",
-        "Nathaniel Brown",
-        "Aleksandar Pavlović",
-        "Felix Nmecha",
-        "Leroy Sané",
-        "Jamal Musiala",
-        "Florian Wirtz",
-        "Kai Havertz"
+        "M. Neuer",
+        "J. Kimmich",
+        "J. Tah",
+        "N. Schlotterbeck",
+        "N. Brown",
+        "F. Nmecha",
+        "A. Pavlovic",
+        "L. Sané",
+        "J. Musiala",
+        "F. Wirtz",
+        "K. Havertz"
       ],
-      "subs": [
-        "Oliver Baumann",
-        "Alexander Nübel",
-        "Waldemar Anton",
-        "Pascal Groß",
-        "David Raum",
-        "Antonio Rüdiger",
-        "Malick Thiaw",
-        "Nadiem Amiri",
-        "Leon Goretzka",
-        "Assan Ouédraogo",
-        "Angelo Stiller",
-        "Maximilian Beier",
-        "Deniz Undav",
-        "Jamie Leweling",
-        "Nick Woltemade"
-      ],
+      "subs": [],
       "coach": "Julian Nagelsmann"
     },
     {
       "match": "E1",
       "team": "Curaçao",
-      "formation": "4-2-3-1",
-      "raw": "Eloy Room; Deveron Fonville, Armando Obispo, Riechedly Bazoer, Sherel Floranus; Livano Comenencia, Leandro Bacuna; Sontje Hansen, Tahith Chong, Juninho Bacuna; Jürgen Locadia",
+      "formation": "4-3-1-2",
+      "raw": "E. Room; S. Floranus, R. Bazoer, A. Obispo, D. Fonville; L. Comenencia, L. Bacuna, J. Bacuna; T. Chong; J. Locadia, .",
       "players": [
-        "Eloy Room",
-        "Deveron Fonville",
-        "Armando Obispo",
-        "Riechedly Bazoer",
-        "Sherel Floranus",
-        "Livano Comenencia",
-        "Leandro Bacuna",
-        "Sontje Hansen",
-        "Tahith Chong",
-        "Juninho Bacuna",
-        "Jürgen Locadia"
+        "E. Room",
+        "S. Floranus",
+        "R. Bazoer",
+        "A. Obispo",
+        "D. Fonville",
+        "L. Comenencia",
+        "L. Bacuna",
+        "J. Bacuna",
+        "T. Chong",
+        "J. Locadia"
       ],
-      "subs": [
-        "Tyrick Bodak",
-        "Trevor Doornbusch",
-        "Juriën Gaari",
-        "Shurandy Sambo",
-        "Roshon van Eijma",
-        "Ar'jany Martha",
-        "Kevin Felida",
-        "Tyrese Noslin",
-        "Jeremy Antonisse",
-        "Gervane Kastaneer",
-        "Brandley Kuwas"
-      ],
-      "coach": "Dick Advocaat"
+      "subs": [],
+      "coach": "Remko Bicentini"
     },
     {
       "match": "E2",
       "team": "Côte d'Ivoire",
       "formation": "4-4-2",
-      "raw": "Yahia Fofana; Guela Doue, Wilfried Singo, Emmanuel Agbadou, Ghislain Konan; Yan Diomande, Seko Fofana, Franck Kessié, Bazoumana Touré; Nicolas Pépé, Elye Wahi",
+      "raw": "Y. Fofana; G. Doué, W. Singo, E. Agbadou, G. Konan; Y. Diomande, S. Fofana, F. Kessié, B. Toure; N. Pépé, E. Wahi",
       "players": [
-        "Yahia Fofana",
-        "Guela Doue",
-        "Wilfried Singo",
-        "Emmanuel Agbadou",
-        "Ghislain Konan",
-        "Yan Diomande",
-        "Seko Fofana",
-        "Franck Kessié",
-        "Bazoumana Touré",
-        "Nicolas Pépé",
-        "Elye Wahi"
+        "Y. Fofana",
+        "G. Doué",
+        "W. Singo",
+        "E. Agbadou",
+        "G. Konan",
+        "Y. Diomande",
+        "S. Fofana",
+        "F. Kessié",
+        "B. Toure",
+        "N. Pépé",
+        "E. Wahi"
       ],
-      "subs": [
-        "Mohamed Koné",
-        "Odilon Kossounou",
-        "Evan Ndicka",
-        "Ousmane Diomande",
-        "Jean-Michael Séri",
-        "Simon Adingra",
-        "Ange-Yoan Bonny",
-        "Amad Diallo",
-        "Evan Guessand",
-        "Ibrahim Sangaré"
-      ],
+      "subs": [],
       "coach": "Emerse Faé"
     },
     {
       "match": "E2",
       "team": "Équateur",
       "formation": "3-4-3",
-      "raw": "Hernán Galíndez; Joel Ordóñez, William Pacho, Piero Hincapié; Alan Minda, Alan Franco, Moisés Caicedo, Pedro Vite; Gonzalo Plata, Enner Valencia, John Yeboah",
+      "raw": "H. Galindez; J. Ordoñez, W. Pacho, P. Hincapié; A. Minda, A. Franco, M. Caicedo, P. Vite; G. Plata, E. Valencia, J. Yeboah",
       "players": [
-        "Hernán Galíndez",
-        "Joel Ordóñez",
-        "William Pacho",
-        "Piero Hincapié",
-        "Alan Minda",
-        "Alan Franco",
-        "Moisés Caicedo",
-        "Pedro Vite",
-        "Gonzalo Plata",
-        "Enner Valencia",
-        "John Yeboah"
+        "H. Galindez",
+        "J. Ordoñez",
+        "W. Pacho",
+        "P. Hincapié",
+        "A. Minda",
+        "A. Franco",
+        "M. Caicedo",
+        "P. Vite",
+        "G. Plata",
+        "E. Valencia",
+        "J. Yeboah"
       ],
-      "subs": [
-        "Moisés Ramírez",
-        "Félix Torres",
-        "Ángelo Preciado",
-        "Jackson Porozo",
-        "Jordy Alcívar",
-        "Kevin Rodríguez",
-        "Anthony Valencia",
-        "Jordy Caicedo",
-        "Pervis Estupiñán"
-      ],
+      "subs": [],
       "coach": "Sebastián Beccacece"
     },
     {
       "match": "F1",
       "team": "Pays-Bas",
-      "formation": "4-3-3",
-      "raw": "Bart Verbruggen; Denzel Dumfries, Jan Paul van Hecke, Virgil van Dijk, Micky van de Ven; Ryan Gravenberch, Frenkie de Jong, Tijjani Reijnders; Crysencio Summerville, Cody Gakpo, Donyell Malen",
+      "formation": "4-2-3-1",
+      "raw": "B. Verbruggen; D. Dumfries, J.P. van Hecke, V. van Dijk, M. van de Ven; F. de Jong, R. Gravenberch; C. Summerville, T. Reijnders, C. Gakpo; D. Malen",
       "players": [
-        "Bart Verbruggen",
-        "Denzel Dumfries",
-        "Jan Paul van Hecke",
-        "Virgil van Dijk",
-        "Micky van de Ven",
-        "Ryan Gravenberch",
-        "Frenkie de Jong",
-        "Tijjani Reijnders",
-        "Crysencio Summerville",
-        "Cody Gakpo",
-        "Donyell Malen"
+        "B. Verbruggen",
+        "D. Dumfries",
+        "J.P. van Hecke",
+        "V. van Dijk",
+        "M. van de Ven",
+        "F. de Jong",
+        "R. Gravenberch",
+        "C. Summerville",
+        "T. Reijnders",
+        "C. Gakpo",
+        "D. Malen"
       ],
-      "subs": [
-        "Guus Til",
-        "Wout Weghorst",
-        "Justin Kluivert",
-        "Teun Koopmeiners",
-        "Marten de Roon",
-        "Noa Lang",
-        "Jorrel Hato",
-        "Lutsharel Geertruida",
-        "Mark Flekken",
-        "Robin Roefs",
-        "Quinten Timber",
-        "Memphis Depay",
-        "Nathan Aké",
-        "Mats Wieffer",
-        "Brian Brobbey"
-      ],
+      "subs": [],
       "coach": "Ronald Koeman"
     },
     {
       "match": "F1",
       "team": "Japon",
-      "formation": "4-2-3-1",
-      "raw": "Zion Suzuki; Keito Nakamura, Tsuyoshi Watanabe, Shogo Taniguchi, Hiroki Ito; Kaishu Sano, Daichi Kamada; Takefusa Kubo, Ritsu Doan, Daizen Maeda; Ayase Ueda",
+      "formation": "3-4-3",
+      "raw": "Z. Suzuki; T. Watanabe, S. Taniguchi, H. Ito; T. Kubo, K. Sano, D. Kamada, D. Maeda; K. Nakamura, R. Doan; A. Ueda",
       "players": [
-        "Zion Suzuki",
-        "Keito Nakamura",
-        "Tsuyoshi Watanabe",
-        "Shogo Taniguchi",
-        "Hiroki Ito",
-        "Kaishu Sano",
-        "Daichi Kamada",
-        "Takefusa Kubo",
-        "Ritsu Doan",
-        "Daizen Maeda",
-        "Ayase Ueda"
+        "Z. Suzuki",
+        "T. Watanabe",
+        "S. Taniguchi",
+        "H. Ito",
+        "T. Kubo",
+        "K. Sano",
+        "D. Kamada",
+        "D. Maeda",
+        "K. Nakamura",
+        "R. Doan",
+        "A. Ueda"
       ],
-      "subs": [
-        "Ao Tanaka",
-        "Koki Ogawa",
-        "Yukinari Sugawara",
-        "Tomoki Hayakawa",
-        "Takehiro Tomiyasu",
-        "Shuto Machino",
-        "Junya Ito",
-        "Yuto Nagatomo",
-        "Kento Shiogai",
-        "Ko Itakura"
-      ],
+      "subs": [],
       "coach": "Hajime Moriyasu"
     },
     {
       "match": "F2",
       "team": "Suède",
-      "formation": "3-4-1-2",
-      "raw": "Kristoffer Nordfeldt; Gustaf Lagerbielke, Victor Lindelöf, Isak Hien; Gabriel Gudmundsson, Jesper Karlström, Yasin Ayari, Anton Bernhardsson; Benjamin Nygren; Alexander Isak, Viktor Gyökeres",
+      "formation": "3-4-2-1",
+      "raw": "K. Nordfeldt; G. Lagerbielke, I. Hien, V. Lindelöf; A. Bernhardsson, J. Karlström, Y. Ayari, G. Gudmundsson; B. Nygren; V. Gyökeres, A. Isak",
       "players": [
-        "Kristoffer Nordfeldt",
-        "Gustaf Lagerbielke",
-        "Victor Lindelöf",
-        "Isak Hien",
-        "Gabriel Gudmundsson",
-        "Jesper Karlström",
-        "Yasin Ayari",
-        "Anton Bernhardsson",
-        "Benjamin Nygren",
-        "Alexander Isak",
-        "Viktor Gyökeres"
+        "K. Nordfeldt",
+        "G. Lagerbielke",
+        "I. Hien",
+        "V. Lindelöf",
+        "A. Bernhardsson",
+        "J. Karlström",
+        "Y. Ayari",
+        "G. Gudmundsson",
+        "B. Nygren",
+        "V. Gyökeres",
+        "A. Isak"
       ],
-      "subs": [
-        "Robin Olsen",
-        "Karl-Johan Johnsson",
-        "Joakim Nilsson",
-        "Emil Krafth",
-        "Filip Helander",
-        "Mikael Lustig",
-        "Mattias Svanberg",
-        "Dejan Kulusevski",
-        "Emil Forsberg",
-        "Jordan Larsson",
-        "Samuel Gustafson"
-      ],
-      "coach": "Jon Dahl Tomasson"
+      "subs": [],
+      "coach": "Graham Potter"
     },
     {
       "match": "F2",
       "team": "Tunisie",
-      "formation": "4-2-3-1",
-      "raw": "Aymen Dahmen; Yan Valery, Montassar Talbi, Omar Rekik, Mohamed Ben Hamida; Ellyes Skhiri, Rani Khedira; Ali Abdi, Hannibal Mejbri, Anis Ben Slimane; Elias Saad",
+      "formation": "3-5-2",
+      "raw": "A. Chamakh; O. Rekik, M. Talbi, A. Ben Hamida; Y. Valery, R. Khedira, E. Skhiri, H. Mejbri, A. Abdi; I. Gharbi; M. Saad",
       "players": [
-        "Aymen Dahmen",
-        "Yan Valery",
-        "Montassar Talbi",
-        "Omar Rekik",
-        "Mohamed Ben Hamida",
-        "Ellyes Skhiri",
-        "Rani Khedira",
-        "Ali Abdi",
-        "Hannibal Mejbri",
-        "Anis Ben Slimane",
-        "Elias Saad"
+        "A. Chamakh",
+        "O. Rekik",
+        "M. Talbi",
+        "A. Ben Hamida",
+        "Y. Valery",
+        "R. Khedira",
+        "E. Skhiri",
+        "H. Mejbri",
+        "A. Abdi",
+        "I. Gharbi",
+        "M. Saad"
       ],
-      "subs": [
-        "Moez Ben Cherifia",
-        "Dylan Bronn",
-        "Wajdi Kechrida",
-        "Ali Maaloul",
-        "Ghailane Chaâlali",
-        "Mohamed Drager",
-        "Seifeddine Jaziri",
-        "Taha Yassine Khenissi",
-        "Sayfallah Ltaief"
-      ],
-      "coach": "Jalel Kadri"
+      "subs": [],
+      "coach": "Hervé Renard"
     },
     {
       "match": "H1",
       "team": "Espagne",
       "formation": "4-3-3",
-      "raw": "Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Fabián Ruiz, Rodri, Pedri; Ferran Torres, Mikel Oyarzabal, Álex Baena",
+      "raw": "U. Simón; M. Llorente, P. Cubarsí, A. Laporte, M. Cucurella; F. Ruiz, Rodri, Pedri; F. Torres, M. Oyarzabal, Gavi",
       "players": [
-        "Unai Simón",
-        "Pedro Porro",
-        "Pau Cubarsí",
-        "Aymeric Laporte",
-        "Marc Cucurella",
-        "Fabián Ruiz",
+        "U. Simón",
+        "M. Llorente",
+        "P. Cubarsí",
+        "A. Laporte",
+        "M. Cucurella",
+        "F. Ruiz",
         "Rodri",
         "Pedri",
-        "Ferran Torres",
-        "Mikel Oyarzabal",
-        "Álex Baena"
+        "F. Torres",
+        "M. Oyarzabal",
+        "Gavi"
       ],
-      "subs": [
-        "David Raya",
-        "Álvaro Morata",
-        "Lamine Yamal",
-        "Nico Williams",
-        "Dani Olmo",
-        "Mikel Merino",
-        "Carvajal",
-        "Le Normand",
-        "Joselu",
-        "Alejandro Grimaldo"
-      ],
+      "subs": [],
       "coach": "Luis de la Fuente"
     },
     {
       "match": "H1",
       "team": "Cap-Vert",
-      "formation": "4-2-3-1",
-      "raw": "Vozinha; Steven Moreira, Roberto Lopes, Logan Costa, João Paulo; Yannick Semedo, Wagner Pina; Ryan Mendes, Jamiro Monteiro, Jovane Cabral; Dailon Livramento",
+      "formation": "4-4-2",
+      "raw": "Vozinha; S. Moreira, R. Lopes, D. Borges, S. Lopes Cabral; K. Pina, L. Duarte, J. Monteiro, J. Cabral; R. Mendes, D. Livramento",
       "players": [
         "Vozinha",
-        "Steven Moreira",
-        "Roberto Lopes",
-        "Logan Costa",
-        "João Paulo",
-        "Yannick Semedo",
-        "Wagner Pina",
-        "Ryan Mendes",
-        "Jamiro Monteiro",
-        "Jovane Cabral",
-        "Dailon Livramento"
+        "S. Moreira",
+        "R. Lopes",
+        "D. Borges",
+        "S. Lopes Cabral",
+        "K. Pina",
+        "L. Duarte",
+        "J. Monteiro",
+        "J. Cabral",
+        "R. Mendes",
+        "D. Livramento"
       ],
-      "subs": [
-        "Carlos Ponck",
-        "Kevin Pina",
-        "Stopira",
-        "Patrick Andrade",
-        "Garry Rodrigues",
-        "Kenny Rocha",
-        "Willy Semedo",
-        "Djaniny"
-      ],
-      "coach": "Pedro Brito"
+      "subs": [],
+      "coach": "Bubista"
     },
     {
       "match": "G1",
       "team": "Belgique",
       "formation": "4-2-3-1",
-      "raw": "Thibaut Courtois; Timothy Castagne, Wout Faes, Zeno Debast, Maxim De Cuyper; Amadou Onana, Youri Tielemans; Jérémy Doku, Kevin De Bruyne, Leandro Trossard; Romelu Lukaku",
+      "raw": "T. Courtois; T. Meunier, N. Ngoy, B. Mechele, T. Castagne; Y. Tielemans, N. Raskin; J. Doku, K. De Bruyne, L. Trossard; C. De Ketelaere",
       "players": [
-        "Thibaut Courtois",
-        "Timothy Castagne",
-        "Wout Faes",
-        "Zeno Debast",
-        "Maxim De Cuyper",
-        "Amadou Onana",
-        "Youri Tielemans",
-        "Jérémy Doku",
-        "Kevin De Bruyne",
-        "Leandro Trossard",
-        "Romelu Lukaku"
+        "T. Courtois",
+        "T. Meunier",
+        "N. Ngoy",
+        "B. Mechele",
+        "T. Castagne",
+        "Y. Tielemans",
+        "N. Raskin",
+        "J. Doku",
+        "K. De Bruyne",
+        "L. Trossard",
+        "C. De Ketelaere"
       ],
-      "subs": [
-        "Koen Casteels",
-        "Thomas Kaminski",
-        "Jan Vertonghen",
-        "Thomas Meunier",
-        "Arthur Theate",
-        "Axel Witsel",
-        "Arthur Vermeeren",
-        "Hans Vanaken",
-        "Alexis Saelemaekers",
-        "Loïs Openda",
-        "Johan Bakayoko"
-      ],
-      "coach": "Domenico Tedesco"
+      "subs": [],
+      "coach": "Rudi Garcia"
     },
     {
       "match": "G1",
       "team": "Égypte",
-      "formation": "4-3-3",
-      "raw": "Mohamed El-Shenawy; Ahmed Hany, Ahmed Abdelmonem, Mohamed Rabia, Omar Kamal; Mahmoud Hamdy El-Wensh, Emam Ashour, Hamdy Fathy; Mohamed Salah, Omar Marmoush, Zizo",
+      "formation": "4-2-3-1",
+      "raw": "M. Shobeir; M. Hany, Y. Ibrahim, H. Fathy, A. Fatouh; M. Lasheen, M. Attia; M. Salah, E. Ashour, M. Ziko; O. Marmoush",
       "players": [
-        "Mohamed El-Shenawy",
-        "Ahmed Hany",
-        "Ahmed Abdelmonem",
-        "Mohamed Rabia",
-        "Omar Kamal",
-        "Mahmoud Hamdy El-Wensh",
-        "Emam Ashour",
-        "Hamdy Fathy",
-        "Mohamed Salah",
-        "Omar Marmoush",
-        "Zizo"
+        "M. Shobeir",
+        "M. Hany",
+        "Y. Ibrahim",
+        "H. Fathy",
+        "A. Fatouh",
+        "M. Lasheen",
+        "M. Attia",
+        "M. Salah",
+        "E. Ashour",
+        "M. Ziko",
+        "O. Marmoush"
       ],
-      "subs": [
-        "Ahmed El-Shenawy",
-        "Ramadan Sobhi",
-        "Akram Tawfik",
-        "Karim El Debes",
-        "Mostafa Fathi",
-        "Trezeguet",
-        "Kahraba",
-        "Mostafa Mohamed"
-      ],
+      "subs": [],
       "coach": "Hossam Hassan"
     },
     {
@@ -4231,97 +4560,64 @@
     {
       "match": "H2",
       "team": "Uruguay",
-      "formation": "4-3-3",
-      "raw": "Fernando Muslera; Guillermo Varela, José María Giménez, Sebastián Cáceres, Mathías Olivera; Federico Valverde, Manuel Ugarte, Rodrigo Bentancur; Matías Arezo, Darwin Núñez, Agustín Canobbio",
+      "formation": "4-4-2",
+      "raw": "F. Muslera; G. Varela, S. Cáceres, M. Olivera, M. Viña; F. Valverde, M. Ugarte, R. Bentancur, M. Araújo; F. Viñas, D. Núñez",
       "players": [
-        "Fernando Muslera",
-        "Guillermo Varela",
-        "José María Giménez",
-        "Sebastián Cáceres",
-        "Mathías Olivera",
-        "Federico Valverde",
-        "Manuel Ugarte",
-        "Rodrigo Bentancur",
-        "Matías Arezo",
-        "Darwin Núñez",
-        "Agustín Canobbio"
+        "F. Muslera",
+        "G. Varela",
+        "S. Cáceres",
+        "M. Olivera",
+        "M. Viña",
+        "F. Valverde",
+        "M. Ugarte",
+        "R. Bentancur",
+        "M. Araújo",
+        "F. Viñas",
+        "D. Núñez"
       ],
-      "subs": [
-        "Sergio Rochet",
-        "Ignacio De Arruabarrena",
-        "Diego Godín",
-        "Nicolás Marichal",
-        "Nahitan Nández",
-        "Lucas Torreira",
-        "Giorgian De Arrascaeta",
-        "Facundo Pellistri",
-        "Luis Suárez",
-        "Edinson Cavani",
-        "Maxi Gómez"
-      ],
+      "subs": [],
       "coach": "Marcelo Bielsa"
     },
     {
       "match": "G2",
       "team": "Iran",
       "formation": "4-3-3",
-      "raw": "Alireza Beiranvand; Sadegh Moharrami, Majid Hosseini, Milad Mohammadi, Ehsan Hajsafi; Ali Gholizadeh, Saeid Ezatolahi, Ahmad Nourollahi; Alireza Jahanbakhsh, Mehdi Taremi, Sardar Azmoun",
+      "raw": "A. Beiranvand; M. Mohammadi, S. Khalilzadeh, A. Nemati, A. Yousefi; S. Ezatolahi, S. Ghoddos, M. Mohebi; A. Hosseinzadeh, M. Taremi, M. Ghayedi",
       "players": [
-        "Alireza Beiranvand",
-        "Sadegh Moharrami",
-        "Majid Hosseini",
-        "Milad Mohammadi",
-        "Ehsan Hajsafi",
-        "Ali Gholizadeh",
-        "Saeid Ezatolahi",
-        "Ahmad Nourollahi",
-        "Alireza Jahanbakhsh",
-        "Mehdi Taremi",
-        "Sardar Azmoun"
+        "A. Beiranvand",
+        "M. Mohammadi",
+        "S. Khalilzadeh",
+        "A. Nemati",
+        "A. Yousefi",
+        "S. Ezatolahi",
+        "S. Ghoddos",
+        "M. Mohebi",
+        "A. Hosseinzadeh",
+        "M. Taremi",
+        "M. Ghayedi"
       ],
-      "subs": [
-        "Hossein Hosseini",
-        "Payam Niazmand",
-        "Ramin Rezaeian",
-        "Shoja Khalilzadeh",
-        "Omid Ebrahimi",
-        "Karim Ansarifard",
-        "Vahid Amiri",
-        "Allahyar Sayyadmanesh",
-        "Saman Ghoddos"
-      ],
+      "subs": [],
       "coach": "Amir Ghalenoei"
     },
     {
       "match": "G2",
       "team": "Nouvelle-Zélande",
       "formation": "4-2-3-1",
-      "raw": "Max Crocombe; Paymaan Payne, Michael Boxall, Winston Reid, Liberato Cacace; Marko Stamenić, Clayton Lewis; Callum McCowatt, Elijah Just, Ben Waine; Chris Wood",
+      "raw": "M. Crocombe; T. Payne, F. Surman, M. Boxall, L. Cacace; J. Bell, M. Stamenić; T. Garbett, S. Singh, E. Just; C. Wood",
       "players": [
-        "Max Crocombe",
-        "Paymaan Payne",
-        "Michael Boxall",
-        "Winston Reid",
-        "Liberato Cacace",
-        "Marko Stamenić",
-        "Clayton Lewis",
-        "Callum McCowatt",
-        "Elijah Just",
-        "Ben Waine",
-        "Chris Wood"
+        "M. Crocombe",
+        "T. Payne",
+        "F. Surman",
+        "M. Boxall",
+        "L. Cacace",
+        "J. Bell",
+        "M. Stamenić",
+        "T. Garbett",
+        "S. Singh",
+        "E. Just",
+        "C. Wood"
       ],
-      "subs": [
-        "Oliver Sail",
-        "James Surman",
-        "Tim Payne",
-        "Nando Bell-Bagshaw",
-        "Ryan Thomas",
-        "Stefan Marinovic",
-        "Matthew Garbett",
-        "Sarpreet Singh",
-        "Reon Edwards",
-        "Marco Rojas"
-      ],
+      "subs": [],
       "coach": "Darren Bazeley"
     },
     {
@@ -4921,450 +5217,358 @@
     {
       "match": "A3",
       "team": "Tchéquie",
-      "formation": "4-3-3",
-      "raw": "Matěj Kovář; Tomáš Holeš, Robin Hranáč, Ladislav Krejčí, Vladimír Coufal; Michal Sadílek, Lukáš Červ, Vladimír Darida; Pavel Šulc, Patrik Schick, Adam Hložek",
+      "formation": "4-2-3-1",
+      "raw": "M. Kovář; V. Coufal, R. Hranáč, S. Chaloupek, J. Zelený; T. Souček, A. Sojka; P. Šulc, L. Provod, P. Schick; K. Sadílek",
       "players": [
-        "Matěj Kovář",
-        "Tomáš Holeš",
-        "Robin Hranáč",
-        "Ladislav Krejčí",
-        "Vladimír Coufal",
-        "Michal Sadílek",
-        "Lukáš Červ",
-        "Vladimír Darida",
-        "Pavel Šulc",
-        "Patrik Schick",
-        "Adam Hložek"
+        "M. Kovář",
+        "V. Coufal",
+        "R. Hranáč",
+        "S. Chaloupek",
+        "J. Zelený",
+        "T. Souček",
+        "A. Sojka",
+        "P. Šulc",
+        "L. Provod",
+        "P. Schick",
+        "K. Sadílek"
       ],
-      "subs": [
-        "Jaroslav Zelený",
-        "Tomáš Souček",
-        "Lukáš Provod",
-        "David Zima"
-      ],
+      "subs": [],
       "coach": "Miroslav Koubek"
     },
     {
       "match": "A3",
       "team": "Afrique du Sud",
-      "formation": "4-2-3-1",
-      "raw": "Ronwen Williams; Khuliso Mudau, Nkosinathi Sibisi, Mbekezeli Mbokazi, Aubrey Modiba; Teboho Mokoena, Sphephelo Sithole; Mihlali Maseko, Thalente Mbatha, Oswin Appollis; Iqraam Rayners",
+      "formation": "4-4-2",
+      "raw": "R. Williams; K. Mudau, M. Mbokazi, I. Okon, N. Sibisi; J. Adams, T. Mbatha, T. Mokoena, A. Modiba; L. Foster, I. Rayners",
       "players": [
-        "Ronwen Williams",
-        "Khuliso Mudau",
-        "Nkosinathi Sibisi",
-        "Mbekezeli Mbokazi",
-        "Aubrey Modiba",
-        "Teboho Mokoena",
-        "Sphephelo Sithole",
-        "Mihlali Maseko",
-        "Thalente Mbatha",
-        "Oswin Appollis",
-        "Iqraam Rayners"
+        "R. Williams",
+        "K. Mudau",
+        "M. Mbokazi",
+        "I. Okon",
+        "N. Sibisi",
+        "J. Adams",
+        "T. Mbatha",
+        "T. Mokoena",
+        "A. Modiba",
+        "L. Foster",
+        "I. Rayners"
       ],
-      "subs": [
-        "Relebohile Mofokeng",
-        "Tshegofatso Mabasa",
-        "Thabang Sebelebele"
-      ],
+      "subs": [],
       "coach": "Hugo Broos"
     },
     {
       "match": "A4",
       "team": "Mexique",
-      "formation": "4-2-3-1",
-      "raw": "Raúl Rangel; Jorge Sánchez, Edson Álvarez, Johan Vásquez, Jesús Gallardo; Erik Lira, Luis Romo; Roberto Alvarado, Erick Gutiérrez, Jesús Quiñones; Raúl Jiménez",
+      "formation": "4-1-4-1",
+      "raw": "R. Rangel; I. Reyes, E. Álvarez, J. Vásquez, J. Gallardo; E. Lira; J. Quiñones, Á. Fidalgo, B. Gutiérrez, R. Alvarado; R. Jiménez",
       "players": [
-        "Raúl Rangel",
-        "Jorge Sánchez",
-        "Edson Álvarez",
-        "Johan Vásquez",
-        "Jesús Gallardo",
-        "Erik Lira",
-        "Luis Romo",
-        "Roberto Alvarado",
-        "Erick Gutiérrez",
-        "Jesús Quiñones",
-        "Raúl Jiménez"
+        "R. Rangel",
+        "I. Reyes",
+        "E. Álvarez",
+        "J. Vásquez",
+        "J. Gallardo",
+        "E. Lira",
+        "J. Quiñones",
+        "Á. Fidalgo",
+        "B. Gutiérrez",
+        "R. Alvarado",
+        "R. Jiménez"
       ],
-      "subs": [
-        "Orbelín Pineda",
-        "Hirving Lozano",
-        "Santiago Giménez",
-        "Israel Reyes",
-        "César Huerta"
-      ],
+      "subs": [],
       "coach": "Javier Aguirre"
     },
     {
       "match": "A4",
       "team": "Corée du Sud",
       "formation": "4-3-3",
-      "raw": "Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk, Kim Moon-hwan; Paik Seung-ho, Hwang In-beom, Seol Young-woo; Lee Kang-in, Son Heung-min, Lee Jae-sung",
+      "raw": "Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk, Lee Tae-seok; Hwang In-beom, Paik Seung-ho, Kim Moon-hwan; Lee Kang-in, Lee Jae-sung, Son Heung-min",
       "players": [
         "Kim Seung-gyu",
         "Lee Han-beom",
         "Kim Min-jae",
         "Lee Gi-hyuk",
-        "Kim Moon-hwan",
-        "Paik Seung-ho",
+        "Lee Tae-seok",
         "Hwang In-beom",
-        "Seol Young-woo",
+        "Paik Seung-ho",
+        "Kim Moon-hwan",
         "Lee Kang-in",
-        "Son Heung-min",
-        "Lee Jae-sung"
+        "Lee Jae-sung",
+        "Son Heung-min"
       ],
-      "subs": [
-        "Hwang Hee-chan",
-        "Oh Hyeon-gyu",
-        "Eom Ji-sung",
-        "Yang Hyun-jun",
-        "Cho Gue-sung"
-      ],
+      "subs": [],
       "coach": "Hong Myung-bo"
     },
     {
       "match": "B3",
       "team": "Suisse",
       "formation": "4-3-3",
-      "raw": "Gregor Kobel; Silvan Widmer, Nico Elvedi, Manuel Akanji, Ricardo Rodríguez; Michel Aebischer, Granit Xhaka, Remo Freuler; Dan Ndoye, Breel Embolo, Fabian Rieder",
+      "raw": "G. Kobel; S. Widmer, M. Akanji, N. Elvedi, R. Rodríguez; R. Freuler, G. Xhaka, M. Aebischer; F. Rieder, B. Embolo, D. Ndoye",
       "players": [
-        "Gregor Kobel",
-        "Silvan Widmer",
-        "Nico Elvedi",
-        "Manuel Akanji",
-        "Ricardo Rodríguez",
-        "Michel Aebischer",
-        "Granit Xhaka",
-        "Remo Freuler",
-        "Dan Ndoye",
-        "Breel Embolo",
-        "Fabian Rieder"
+        "G. Kobel",
+        "S. Widmer",
+        "M. Akanji",
+        "N. Elvedi",
+        "R. Rodríguez",
+        "R. Freuler",
+        "G. Xhaka",
+        "M. Aebischer",
+        "F. Rieder",
+        "B. Embolo",
+        "D. Ndoye"
       ],
-      "subs": [
-        "Djibril Sow",
-        "Rubén Vargas",
-        "Johan Manzambi",
-        "Luca Jaquez",
-        "Cedric Itten"
-      ],
+      "subs": [],
       "coach": "Murat Yakin"
     },
     {
       "match": "B3",
       "team": "Bosnie-Herzégovine",
-      "formation": "4-3-3",
-      "raw": "Nikola Vasilj; Amar Dedić, Nikola Katić, Tarik Muharemović, Sead Kolašinac; Amar Memić, Ivan Šunjić, Benjamin Tahirović; Kerim Alajbegović, Ermedin Demirović, Edin Džeko",
+      "formation": "4-4-2",
+      "raw": "N. Vasilj; A. Dedić, N. Katić, T. Muharemović, S. Kolašinac; K. Alajbegović, B. Tahirović, I. Šunjić, A. Memić; E. Demirović, E. Džeko",
       "players": [
-        "Nikola Vasilj",
-        "Amar Dedić",
-        "Nikola Katić",
-        "Tarik Muharemović",
-        "Sead Kolašinac",
-        "Amar Memić",
-        "Ivan Šunjić",
-        "Benjamin Tahirović",
-        "Kerim Alajbegović",
-        "Ermedin Demirović",
-        "Edin Džeko"
+        "N. Vasilj",
+        "A. Dedić",
+        "N. Katić",
+        "T. Muharemović",
+        "S. Kolašinac",
+        "K. Alajbegović",
+        "B. Tahirović",
+        "I. Šunjić",
+        "A. Memić",
+        "E. Demirović",
+        "E. Džeko"
       ],
-      "subs": [
-        "Ivan Bašić",
-        "Esmir Bajraktarević",
-        "Jovo Lukić",
-        "Amir Hadžiahmetović",
-        "Ermin Mahmić"
-      ],
+      "subs": [],
       "coach": "Sergej Barbarez"
     },
     {
       "match": "B4",
       "team": "Canada",
-      "formation": "4-3-3",
-      "raw": "Maxime Crépeau; Alistair Johnston, Luc de Fougerolles, Derek Cornelius, Richie Laryea; Tajon Buchanan, Ismaël Koné, Stephen Eustáquio; Ali Ahmed, Jonathan David, Cyle Larin",
+      "formation": "4-4-2",
+      "raw": "M. Crépeau; A. Johnston, L. De Fougerolles, D. Cornelius, R. Laryea; T. Buchanan, S. Eustáquio, I. Koné, A. Ahmed; J. David, C. Larin",
       "players": [
-        "Maxime Crépeau",
-        "Alistair Johnston",
-        "Luc de Fougerolles",
-        "Derek Cornelius",
-        "Richie Laryea",
-        "Tajon Buchanan",
-        "Ismaël Koné",
-        "Stephen Eustáquio",
-        "Ali Ahmed",
-        "Jonathan David",
-        "Cyle Larin"
+        "M. Crépeau",
+        "A. Johnston",
+        "L. De Fougerolles",
+        "D. Cornelius",
+        "R. Laryea",
+        "T. Buchanan",
+        "S. Eustáquio",
+        "I. Koné",
+        "A. Ahmed",
+        "J. David",
+        "C. Larin"
       ],
-      "subs": [
-        "Moïse Bombito",
-        "Nathan Saliba",
-        "Jacob Shaffelburg",
-        "Tani Oluwaseyi",
-        "Niko Sigur"
-      ],
+      "subs": [],
       "coach": "Jesse Marsch"
     },
     {
       "match": "B4",
       "team": "Qatar",
-      "formation": "4-2-3-1",
-      "raw": "Mahmoud Abu Nada; Ayoub Al-Oui, Pedro Miguel, Boualem Khoukhi, Homam Ahmed; Jassem Gaber, Assim Madibo; Edmilson Junior, Yusuf Abdurisag, Issa Laye; Akram Afif",
+      "formation": "4-3-3",
+      "raw": "M. Abunada; A. Al Oui, P. Miguel, B. Khoukhi, H. Elamin; J. Gaber, A. Madibo, I. Laye; E. Junior, Y. Abdurisag, A. Afif",
       "players": [
-        "Mahmoud Abu Nada",
-        "Ayoub Al-Oui",
-        "Pedro Miguel",
-        "Boualem Khoukhi",
-        "Homam Ahmed",
-        "Jassem Gaber",
-        "Assim Madibo",
-        "Edmilson Junior",
-        "Yusuf Abdurisag",
-        "Issa Laye",
-        "Akram Afif"
+        "M. Abunada",
+        "A. Al Oui",
+        "P. Miguel",
+        "B. Khoukhi",
+        "H. Elamin",
+        "J. Gaber",
+        "A. Madibo",
+        "I. Laye",
+        "E. Junior",
+        "Y. Abdurisag",
+        "A. Afif"
       ],
-      "subs": [
-        "Sultan Al-Brake",
-        "Mohamed Manai",
-        "Ahmed Fathy",
-        "Al-Hashmi Al-Hussain",
-        "Lucas Mendes"
-      ],
-      "coach": "Julen Lopetegui"
+      "subs": [],
+      "coach": "Marko Nikolić"
     },
     {
       "match": "C3",
       "team": "Écosse",
-      "formation": "4-3-3",
-      "raw": "Angus Gunn; Nathan Patterson, Grant Hanley, Jack Hendry, Andy Robertson; Lewis Ferguson, Ryan Christie, John McGinn; Kieran Tierney, Scott McTominay, Che Adams",
+      "formation": "4-5-1",
+      "raw": "A. Gunn; N. Patterson, G. Hanley, J. Hendry, K. Tierney; A. Robertson, J. McGinn, S. McTominay, L. Ferguson, R. Christie; L. Shankland",
       "players": [
-        "Angus Gunn",
-        "Nathan Patterson",
-        "Grant Hanley",
-        "Jack Hendry",
-        "Andy Robertson",
-        "Lewis Ferguson",
-        "Ryan Christie",
-        "John McGinn",
-        "Kieran Tierney",
-        "Scott McTominay",
-        "Che Adams"
+        "A. Gunn",
+        "N. Patterson",
+        "G. Hanley",
+        "J. Hendry",
+        "K. Tierney",
+        "A. Robertson",
+        "J. McGinn",
+        "S. McTominay",
+        "L. Ferguson",
+        "R. Christie",
+        "L. Shankland"
       ],
-      "subs": [
-        "Ben Gannon-Doak",
-        "Lyndon Dykes",
-        "Kenny McLean",
-        "Robert Stewart",
-        "Anthony Ralston"
-      ],
+      "subs": [],
       "coach": "Steve Clarke"
     },
     {
       "match": "C3",
       "team": "Maroc",
-      "formation": "4-3-3",
-      "raw": "Yassine Bounou; Achraf Hakimi, Nayef Aguerd, Chadi Riad, Noussair Mazraoui; Azzedine Ounahi, Neil El Aynaoui, Bilal El Khannouss; Brahim Díaz, Eliesse Ben Seghir, Abde Ezzalzouli",
+      "formation": "4-2-3-1",
+      "raw": "Y. Bounou; A. Hakimi, I. Diop, C. Riad, N. Mazraoui; N. El Aynaoui, A. Bouaddi; Brahim Díaz, A. Ounahi, B. El Khannouss; I. Saibari",
       "players": [
-        "Yassine Bounou",
-        "Achraf Hakimi",
-        "Nayef Aguerd",
-        "Chadi Riad",
-        "Noussair Mazraoui",
-        "Azzedine Ounahi",
-        "Neil El Aynaoui",
-        "Bilal El Khannouss",
+        "Y. Bounou",
+        "A. Hakimi",
+        "I. Diop",
+        "C. Riad",
+        "N. Mazraoui",
+        "N. El Aynaoui",
+        "A. Bouaddi",
         "Brahim Díaz",
-        "Eliesse Ben Seghir",
-        "Abde Ezzalzouli"
+        "A. Ounahi",
+        "B. El Khannouss",
+        "I. Saibari"
       ],
-      "subs": [
-        "Soufiane Rahimi",
-        "Oussama Targhalline",
-        "Hamza Igamane",
-        "Youssef En-Nesyri"
-      ],
-      "coach": "Walid Regragui"
+      "subs": [],
+      "coach": "Mohamed Ouahbi"
     },
     {
       "match": "C4",
       "team": "Brésil",
-      "formation": "4-3-3",
-      "raw": "Alisson; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Bruno Guimarães, Casemiro, Lucas Paquetá; Vinícius Júnior, Matheus Cunha, Raphinha",
+      "formation": "4-2-3-1",
+      "raw": "Alisson; Danilo, Marquinhos, Gabriel, D. Santos; Casemiro, B. Guimarães; Raphinha, L. Paquetá, Vinícius Jr.; M. Cunha",
       "players": [
         "Alisson",
         "Danilo",
         "Marquinhos",
-        "Gabriel Magalhães",
-        "Douglas Santos",
-        "Bruno Guimarães",
+        "Gabriel",
+        "D. Santos",
         "Casemiro",
-        "Lucas Paquetá",
-        "Vinícius Júnior",
-        "Matheus Cunha",
-        "Raphinha"
+        "B. Guimarães",
+        "Raphinha",
+        "L. Paquetá",
+        "Vinícius Jr.",
+        "M. Cunha"
       ],
-      "subs": [
-        "Rayan",
-        "Gabriel Martinelli",
-        "Endrick",
-        "Éderson"
-      ],
+      "subs": [],
       "coach": "Carlo Ancelotti"
     },
     {
       "match": "C4",
       "team": "Haïti",
-      "formation": "3-5-2",
-      "raw": "Johny Placide; Ricardo Adé, Carlens Arcus, Andrew Jean-Baptiste; Christopher Attinès, Danley Jean Jacques, Jean-Kévin Duverne, Jems Geffrard, Garvenst Casimir; Frantzdy Pierrot, Duckens Nazon",
+      "formation": "4-4-2",
+      "raw": "J. Placide; C. Arcus, R. Ade, H. Delcroix, J.-K. Duverne; J.-R. Bellegarde, D. Jean Jacques, R. Providence, F. Pierrot; J. Casimir, M. Experience",
       "players": [
-        "Johny Placide",
-        "Ricardo Adé",
-        "Carlens Arcus",
-        "Andrew Jean-Baptiste",
-        "Christopher Attinès",
-        "Danley Jean Jacques",
-        "Jean-Kévin Duverne",
-        "Jems Geffrard",
-        "Garven Casimir",
-        "Frantzdy Pierrot",
-        "Duckens Nazon"
+        "J. Placide",
+        "C. Arcus",
+        "R. Ade",
+        "H. Delcroix",
+        "J.-K. Duverne",
+        "J.-R. Bellegarde",
+        "D. Jean Jacques",
+        "R. Providence",
+        "F. Pierrot",
+        "J. Casimir",
+        "M. Experience"
       ],
-      "subs": [
-        "Josué Casimir",
-        "Bryan Etienne",
-        "Deedson Louicius",
-        "Mondy Prunier"
-      ],
-      "coach": "Sébastien Migné"
+      "subs": [],
+      "coach": "Marc Collat"
     },
     {
       "match": "D3",
       "team": "États-Unis",
-      "formation": "3-4-3",
-      "raw": "Matt Freese; Alex Freeman, Chris Richards, Tim Ream; Sergiño Dest, Tyler Adams, Weston McKennie, Antonee Robinson; Malik Tillman, Folarin Balogun, Christian Pulisic",
+      "formation": "4-2-3-1",
+      "raw": "M. Freese; S. Dest, C. Richards, T. Ream, A. Robinson; T. Adams, W. McKennie; A. Freeman, M. Tillman, R. Pepi; F. Balogun",
       "players": [
-        "Matt Freese",
-        "Alex Freeman",
-        "Chris Richards",
-        "Tim Ream",
-        "Sergiño Dest",
-        "Tyler Adams",
-        "Weston McKennie",
-        "Antonee Robinson",
-        "Malik Tillman",
-        "Folarin Balogun",
-        "Christian Pulisic"
+        "M. Freese",
+        "S. Dest",
+        "C. Richards",
+        "T. Ream",
+        "A. Robinson",
+        "T. Adams",
+        "W. McKennie",
+        "A. Freeman",
+        "M. Tillman",
+        "R. Pepi",
+        "F. Balogun"
       ],
-      "subs": [
-        "Sebastian Berhalter",
-        "Auston Trusty",
-        "Joe Scally",
-        "Giovanni Reyna"
-      ],
+      "subs": [],
       "coach": "Mauricio Pochettino"
     },
     {
       "match": "D3",
       "team": "Australie",
-      "formation": "3-5-2",
-      "raw": "Patrick Beach; Alessandro Circati, Harry Souttar, Cameron Burgess; Jacob Italiano, Connor Metcalfe, Paul Okon-Engstler, Aiden O'Neill, Jordan Bos; Nestory Irankunda, Mohamed Touré",
+      "formation": "3-4-3",
+      "raw": "P. Beach; C. Burgess, H. Souttar, A. Circati; J. Italiano, A. O'Neill, N. Velupillay, J. Bos; M. Leckie, P. Okon-Engstler; M. Touré",
       "players": [
-        "Patrick Beach",
-        "Alessandro Circati",
-        "Harry Souttar",
-        "Cameron Burgess",
-        "Jacob Italiano",
-        "Connor Metcalfe",
-        "Paul Okon-Engstler",
-        "Aiden O'Neill",
-        "Jordan Bos",
-        "Nestory Irankunda",
-        "Mohamed Touré"
+        "P. Beach",
+        "C. Burgess",
+        "H. Souttar",
+        "A. Circati",
+        "J. Italiano",
+        "A. O'Neill",
+        "N. Velupillay",
+        "J. Bos",
+        "M. Leckie",
+        "P. Okon-Engstler",
+        "M. Touré"
       ],
-      "subs": [
-        "Jason Geria",
-        "Cristian Volpato",
-        "Jackson Irvine"
-      ],
+      "subs": [],
       "coach": "Tony Popovic"
     },
     {
       "match": "D4",
       "team": "Turquie",
       "formation": "4-2-3-1",
-      "raw": "Uğurcan Çakır; Zeki Çelik, Merih Demiral, Abdülkerim Bardakcı, Ferdi Kadıoğlu; İsmail Yüksek, Hakan Çalhanoğlu; Yunus Akgün, Arda Güler, Kenan Yıldız; Kerem Aktürkoğlu",
+      "raw": "U. Çakır; Z. Çelik, M. Demiral, A. Bardakçı, O. Kökcü; H. Çalhanoglu, K. Yıldız; A. Güler, K. Aktürkoglu, B. Yılmaz; .",
       "players": [
-        "Uğurcan Çakır",
-        "Zeki Çelik",
-        "Merih Demiral",
-        "Abdülkerim Bardakcı",
-        "Ferdi Kadıoğlu",
-        "İsmail Yüksek",
-        "Hakan Çalhanoğlu",
-        "Yunus Akgün",
-        "Arda Güler",
-        "Kenan Yıldız",
-        "Kerem Aktürkoğlu"
+        "U. Çakır",
+        "Z. Çelik",
+        "M. Demiral",
+        "A. Bardakçı",
+        "O. Kökcü",
+        "H. Çalhanoglu",
+        "K. Yıldız",
+        "A. Güler",
+        "K. Aktürkoglu",
+        "B. Yılmaz"
       ],
-      "subs": [
-        "Barış Yılmaz",
-        "Can Uzun",
-        "Deniz Gül",
-        "Eren Elmalı",
-        "Orkun Kökçü"
-      ],
+      "subs": [],
       "coach": "Vincenzo Montella"
     },
     {
       "match": "D4",
       "team": "Paraguay",
-      "formation": "4-2-3-1",
-      "raw": "Orlando Gill; Juan José Cáceres, Gustavo Gómez, Omar Alderete, Júnior Alonso; Andrés Cubas, Diego Gómez; Miguel Almirón, Julio Enciso, Matías Galarza; Isidro Pitta",
+      "formation": "4-4-2",
+      "raw": "O. Gill; J.J. Caceres, O. Alderete, G. Gomez, J. Alonso; D. Gomez, A. Cubas, M. Galarza, M. Almirón; J. Enciso, I. Pitta",
       "players": [
-        "Orlando Gill",
-        "Juan José Cáceres",
-        "Gustavo Gómez",
-        "Omar Alderete",
-        "Júnior Alonso",
-        "Andrés Cubas",
-        "Diego Gómez",
-        "Miguel Almirón",
-        "Julio Enciso",
-        "Matías Galarza",
-        "Isidro Pitta"
+        "O. Gill",
+        "J.J. Caceres",
+        "O. Alderete",
+        "G. Gomez",
+        "J. Alonso",
+        "D. Gomez",
+        "A. Cubas",
+        "M. Galarza",
+        "M. Almirón",
+        "J. Enciso",
+        "I. Pitta"
       ],
-      "subs": [
-        "Damián Bobadilla",
-        "Gustavo Velázquez",
-        "Alexandro Maidana",
-        "Gabriel Ávalos",
-        "José Canale"
-      ],
+      "subs": [],
       "coach": "Gustavo Alfaro"
     },
     {
       "match": "E3",
       "team": "Allemagne",
-      "formation": "4-3-3",
-      "raw": "Manuel Neuer; Joshua Kimmich, Jonathan Tah, Nico Schlotterbeck, Nathaniel Brown; Felix Nmecha, Aleksandar Pavlović, Jamal Musiala; Leroy Sané, Kai Havertz, Florian Wirtz",
+      "formation": "4-2-3-1",
+      "raw": "M. Neuer; J. Kimmich, J. Tah, N. Schlotterbeck, N. Brown; F. Nmecha, A. Pavlovic; L. Sané, J. Musiala, F. Wirtz; K. Havertz",
       "players": [
-        "Manuel Neuer",
-        "Joshua Kimmich",
-        "Jonathan Tah",
-        "Nico Schlotterbeck",
-        "Nathaniel Brown",
-        "Felix Nmecha",
-        "Aleksandar Pavlović",
-        "Jamal Musiala",
-        "Leroy Sané",
-        "Kai Havertz",
-        "Florian Wirtz"
+        "M. Neuer",
+        "J. Kimmich",
+        "J. Tah",
+        "N. Schlotterbeck",
+        "N. Brown",
+        "F. Nmecha",
+        "A. Pavlovic",
+        "L. Sané",
+        "J. Musiala",
+        "F. Wirtz",
+        "K. Havertz"
       ],
       "subs": [
-        "Antonio Rüdiger",
-        "Jamie Leweling",
-        "Nadiem Amiri",
-        "Deniz Undav",
-        "Leon Goretzka"
+        "D. Undav"
       ],
       "coach": "Julian Nagelsmann"
     },
@@ -5372,27 +5576,21 @@
       "match": "E3",
       "team": "Côte d'Ivoire",
       "formation": "4-3-3",
-      "raw": "Yahia Fofana; Wilfried Singo, Odilon Kossounou, Emmanuel Agbadou, Ghislain Konan; Ibrahim Sangaré, Franck Kessié, Christ Inao Oulaï; Amad Diallo, Ange-Yoan Bonny, Yan Diomande",
+      "raw": "Y. Fofana; G. Kossounou, W. Singo, E. Agbadou, G. Konan; F. Kessié, I. Sangaré, S. Oulai; Y. Diomande, A. Bonny, A. Diallo",
       "players": [
-        "Yahia Fofana",
-        "Wilfried Singo",
-        "Odilon Kossounou",
-        "Emmanuel Agbadou",
-        "Ghislain Konan",
-        "Ibrahim Sangaré",
-        "Franck Kessié",
-        "Christ Inao Oulaï",
-        "Amad Diallo",
-        "Ange-Yoan Bonny",
-        "Yan Diomande"
+        "Y. Fofana",
+        "G. Kossounou",
+        "W. Singo",
+        "E. Agbadou",
+        "G. Konan",
+        "F. Kessié",
+        "I. Sangaré",
+        "S. Oulai",
+        "Y. Diomande",
+        "A. Bonny",
+        "A. Diallo"
       ],
-      "subs": [
-        "Seko Fofana",
-        "Simon Adingra",
-        "Evann Guessand",
-        "Guéla Doué",
-        "Nicolas Pépé"
-      ],
+      "subs": [],
       "coach": "Emerse Faé"
     },
     {
@@ -5451,239 +5649,192 @@
     {
       "match": "F3",
       "team": "Pays-Bas",
-      "formation": "4-2-3-1",
-      "raw": "Bart Verbruggen; Denzel Dumfries, Lutsharel Geertruida, Virgil van Dijk, Micky van de Ven; Ryan Gravenberch, Frenkie de Jong; Tijjani Reijnders, Donyell Malen, Cody Gakpo; Brian Brobbey",
+      "formation": "4-3-3",
+      "raw": "B. Verbruggen; D. Dumfries, V. van Dijk, J.P. van Hecke, M. van de Ven; R. Gravenberch, F. de Jong, T. Reijnders; C. Gakpo, D. Malen, I. Brobbey",
       "players": [
-        "Bart Verbruggen",
-        "Denzel Dumfries",
-        "Lutsharel Geertruida",
-        "Virgil van Dijk",
-        "Micky van de Ven",
-        "Ryan Gravenberch",
-        "Frenkie de Jong",
-        "Tijjani Reijnders",
-        "Donyell Malen",
-        "Cody Gakpo",
-        "Brian Brobbey"
+        "B. Verbruggen",
+        "D. Dumfries",
+        "V. van Dijk",
+        "J.P. van Hecke",
+        "M. van de Ven",
+        "R. Gravenberch",
+        "F. de Jong",
+        "T. Reijnders",
+        "C. Gakpo",
+        "D. Malen",
+        "I. Brobbey"
       ],
-      "subs": [
-        "Crysencio Summerville",
-        "Teun Koopmeiners",
-        "Guus Til",
-        "Memphis Depay",
-        "Noa Lang"
-      ],
+      "subs": [],
       "coach": "Ronald Koeman"
     },
     {
       "match": "F3",
       "team": "Suède",
       "formation": "3-5-2",
-      "raw": "Kristoffer Nordfeldt; Gabriel Gudmundsson, Isak Hien, Victor Lindelöf; Jesper Karlström, Yasin Ayari, Anton Salétros, Lucas Bergvall, Hugo Bolin; Viktor Gyökeres, Alexander Isak",
+      "raw": "K. Nordfeldt; V. Lindelöf, I. Hien, G. Lagerbielke; G. Gudmundsson, Y. Ayari, J. Karlström, A. Bernhardsson, .; B. Nygren; A. Isak, V. Gyökeres",
       "players": [
-        "Kristoffer Nordfeldt",
-        "Gabriel Gudmundsson",
-        "Isak Hien",
-        "Victor Lindelöf",
-        "Jesper Karlström",
-        "Yasin Ayari",
-        "Anton Salétros",
-        "Lucas Bergvall",
-        "Hugo Bolin",
-        "Viktor Gyökeres",
-        "Alexander Isak"
+        "K. Nordfeldt",
+        "V. Lindelöf",
+        "I. Hien",
+        "G. Lagerbielke",
+        "G. Gudmundsson",
+        "Y. Ayari",
+        "J. Karlström",
+        "A. Bernhardsson",
+        "B. Nygren",
+        "A. Isak",
+        "V. Gyökeres"
       ],
-      "subs": [
-        "Anthony Elanga",
-        "Roony Bardghji",
-        "Benjamin Nygren",
-        "Yankuba Minteh"
-      ],
+      "subs": [],
       "coach": "Graham Potter"
     },
     {
       "match": "F4",
       "team": "Tunisie",
-      "formation": "3-5-2",
-      "raw": "Aymen Dahmen; Dylan Bronn, Montassar Talbi, Yassine Meriah; Wajdi Kechrida, Aïssa Laïdouni, Ellyes Skhiri, Hannibal Mejbri, Mortadha Ben Ouanes; Elias Saad, Hazem Mastouri",
+      "formation": "4-2-3-1",
+      "raw": "A. Dahmen; Y. Valery, O. Rekik, M. Talbi, A. Abdi; R. Khedira, E. Skhiri; I. Achouri, H. Mejbri, I. Gharbi; H. Saad",
       "players": [
-        "Aymen Dahmen",
-        "Dylan Bronn",
-        "Montassar Talbi",
-        "Yassine Meriah",
-        "Wajdi Kechrida",
-        "Aïssa Laïdouni",
-        "Ellyes Skhiri",
-        "Hannibal Mejbri",
-        "Mortadha Ben Ouanes",
-        "Elias Saad",
-        "Hazem Mastouri"
+        "A. Dahmen",
+        "Y. Valery",
+        "O. Rekik",
+        "M. Talbi",
+        "A. Abdi",
+        "R. Khedira",
+        "E. Skhiri",
+        "I. Achouri",
+        "H. Mejbri",
+        "I. Gharbi",
+        "H. Saad"
       ],
-      "subs": [
-        "Naïm Sliti",
-        "Firas Chaouat",
-        "Seifeddine Jaziri",
-        "Mohamed Ali Ben Romdhane"
-      ],
-      "coach": "Sami Trabelsi"
+      "subs": [],
+      "coach": "Hervé Renard"
     },
     {
       "match": "F4",
       "team": "Japon",
-      "formation": "3-5-2",
-      "raw": "Zion Suzuki; Hiroki Itō, Ko Itakura, Takehiro Tomiyasu; Junya Itō, Hidemasa Morita, Wataru Endō, Daichi Kamada, Kaoru Mitoma; Ayase Ueda, Takefusa Kubo",
+      "formation": "3-4-2-1",
+      "raw": "Z. Suzuki; H. Ito, K. Itakura, T. Watanabe; Y. Sugawara, D. Kamada, K. Sano, K. Nakamura; R. Doan, D. Maeda; A. Ueda",
       "players": [
-        "Zion Suzuki",
-        "Hiroki Itō",
-        "Ko Itakura",
-        "Takehiro Tomiyasu",
-        "Junya Itō",
-        "Hidemasa Morita",
-        "Wataru Endō",
-        "Daichi Kamada",
-        "Kaoru Mitoma",
-        "Ayase Ueda",
-        "Takefusa Kubo"
+        "Z. Suzuki",
+        "H. Ito",
+        "K. Itakura",
+        "T. Watanabe",
+        "Y. Sugawara",
+        "D. Kamada",
+        "K. Sano",
+        "K. Nakamura",
+        "R. Doan",
+        "D. Maeda",
+        "A. Ueda"
       ],
-      "subs": [
-        "Takumi Minamino",
-        "Daizen Maeda",
-        "Reo Hatate",
-        "Koki Ogawa"
-      ],
+      "subs": [],
       "coach": "Hajime Moriyasu"
     },
     {
       "match": "G3",
       "team": "Belgique",
-      "formation": "4-2-3-1",
-      "raw": "Thibaut Courtois; Thomas Meunier, Koni De Winter, Brandon Mechele, Maxim De Cuyper; Nicolas Raskin, Youri Tielemans; Alexis Saelemaekers, Kevin De Bruyne, Leandro Trossard; Romelu Lukaku",
+      "formation": "4-3-3",
+      "raw": "T. Courtois; T. Meunier, N. Ngoy, B. Mechele, M. De Cuyper; A. Saelemaekers, Y. Tielemans, K. De Bruyne; N. Raskin, L. Trossard; R. Lukaku",
       "players": [
-        "Thibaut Courtois",
-        "Thomas Meunier",
-        "Koni De Winter",
-        "Brandon Mechele",
-        "Maxim De Cuyper",
-        "Nicolas Raskin",
-        "Youri Tielemans",
-        "Alexis Saelemaekers",
-        "Kevin De Bruyne",
-        "Leandro Trossard",
-        "Romelu Lukaku"
+        "T. Courtois",
+        "T. Meunier",
+        "N. Ngoy",
+        "B. Mechele",
+        "M. De Cuyper",
+        "A. Saelemaekers",
+        "Y. Tielemans",
+        "K. De Bruyne",
+        "N. Raskin",
+        "L. Trossard",
+        "R. Lukaku"
       ],
-      "subs": [
-        "Timothy Castagne",
-        "Hans Vanaken",
-        "Dodi Lukébakio",
-        "Arthur Theate",
-        "Mario Stroeykens"
-      ],
+      "subs": [],
       "coach": "Rudi Garcia"
     },
     {
       "match": "G3",
       "team": "Iran",
-      "formation": "3-5-2",
-      "raw": "Alireza Beiranvand; Shojae Khalilzadeh, Aria Yousefi, Hossein Kanaanizadegan; Sadegh Moharrami, Saeid Ezatolahi, Saman Ghoddos, Ehsan Hajsafi, Ramin Rezaeian; Mehdi Taremi, Mehdi Ghayedi",
+      "formation": "4-4-2",
+      "raw": "A. Beiranvand; R. Rezaeian, S. Khalilzadeh, A. Nemati, M. Mohammadi; M. Mohebi, S. Ghoddos, S. Ezatolahi, M. Ghayedi; A. Moghanlou, M. Taremi",
       "players": [
-        "Alireza Beiranvand",
-        "Shojae Khalilzadeh",
-        "Aria Yousefi",
-        "Hossein Kanaanizadegan",
-        "Sadegh Moharrami",
-        "Saeid Ezatolahi",
-        "Saman Ghoddos",
-        "Ehsan Hajsafi",
-        "Ramin Rezaeian",
-        "Mehdi Taremi",
-        "Mehdi Ghayedi"
+        "A. Beiranvand",
+        "R. Rezaeian",
+        "S. Khalilzadeh",
+        "A. Nemati",
+        "M. Mohammadi",
+        "M. Mohebi",
+        "S. Ghoddos",
+        "S. Ezatolahi",
+        "M. Ghayedi",
+        "A. Moghanlou",
+        "M. Taremi"
       ],
-      "subs": [
-        "Alireza Jahanbakhsh",
-        "Mehdi Torabi",
-        "Milad Mohammadi",
-        "Shahriyar Moghanlou",
-        "Mohammad Mohebi"
-      ],
+      "subs": [],
       "coach": "Amir Ghalenoei"
     },
     {
       "match": "G4",
       "team": "Égypte",
       "formation": "4-2-3-1",
-      "raw": "Mohamed El Shenawy; Mohamed Hany, Mohamed Abdelmoneim, Ahmed Fattouh, Ahmed Hegazi; Mohamed Elneny, Hamdi Fathy; Mohamed Salah, Mahmoud Hassan Trézéguet, Omar Marmoush; Mostafa Mohamed",
+      "raw": "M. Shobeir; M. Hany, Y. Ibrahim, H. Fathy, A. Abou El Fotouh; M. Attia, M. Lasheen; M. Ziko, M. Salah, E. Ashour; O. Marmoush",
       "players": [
-        "Mohamed El Shenawy",
-        "Mohamed Hany",
-        "Mohamed Abdelmoneim",
-        "Ahmed Fattouh",
-        "Ahmed Hegazi",
-        "Mohamed Elneny",
-        "Hamdi Fathy",
-        "Mohamed Salah",
-        "Mahmoud Hassan Trézéguet",
-        "Omar Marmoush",
-        "Mostafa Mohamed"
+        "M. Shobeir",
+        "M. Hany",
+        "Y. Ibrahim",
+        "H. Fathy",
+        "A. Abou El Fotouh",
+        "M. Attia",
+        "M. Lasheen",
+        "M. Ziko",
+        "M. Salah",
+        "E. Ashour",
+        "O. Marmoush"
       ],
       "subs": [
-        "Emam Ashour",
-        "Mahmoud Saber",
-        "Ahmed Sayed Zizo",
-        "Ibrahim Adel"
+        "Trezeguet (82')"
       ],
       "coach": "Hossam Hassan"
     },
     {
       "match": "G4",
       "team": "Nouvelle-Zélande",
-      "formation": "4-3-3",
-      "raw": "Max Crocombe; Tyler Bindon, Finn Surman, Michael Boxall, Liberato Cacace; Marko Stamenić, Joe Bell, Matthew Garbett; Ben Old, Chris Wood, Eli Just",
+      "formation": "4-2-3-1",
+      "raw": "M. Crocombe; T. Payne, F. Surman, M. Boxall, L. Cacace; J. Bell, M. Stamenić; C. McCowatt, S. Singh, E. Just; C. Wood",
       "players": [
-        "Max Crocombe",
-        "Tyler Bindon",
-        "Finn Surman",
-        "Michael Boxall",
-        "Liberato Cacace",
-        "Marko Stamenić",
-        "Joe Bell",
-        "Matthew Garbett",
-        "Ben Old",
-        "Chris Wood",
-        "Eli Just"
+        "M. Crocombe",
+        "T. Payne",
+        "F. Surman",
+        "M. Boxall",
+        "L. Cacace",
+        "J. Bell",
+        "M. Stamenić",
+        "C. McCowatt",
+        "S. Singh",
+        "E. Just",
+        "C. Wood"
       ],
-      "subs": [
-        "Kosta Barbarouses",
-        "Alex Paulsen",
-        "Sarpreet Singh",
-        "Matthew McCowatt"
-      ],
+      "subs": [],
       "coach": "Darren Bazeley"
     },
     {
       "match": "H3",
       "team": "Espagne",
       "formation": "4-3-3",
-      "raw": "Unai Simón; Pedro Porro, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Pedri, Rodri, Dani Olmo; Lamine Yamal, Mikel Oyarzabal, Álex Baena",
+      "raw": "U. Simón; P. Porro, P. Cubarsí, A. Laporte, M. Cucurella; F. Ruiz, Rodri, Pedri; L. Yamal, M. Oyarzabal, D. Olmo",
       "players": [
-        "Unai Simón",
-        "Pedro Porro",
-        "Pau Cubarsí",
-        "Aymeric Laporte",
-        "Marc Cucurella",
-        "Pedri",
+        "U. Simón",
+        "P. Porro",
+        "P. Cubarsí",
+        "A. Laporte",
+        "M. Cucurella",
+        "F. Ruiz",
         "Rodri",
-        "Dani Olmo",
-        "Lamine Yamal",
-        "Mikel Oyarzabal",
-        "Álex Baena"
+        "Pedri",
+        "L. Yamal",
+        "M. Oyarzabal",
+        "D. Olmo"
       ],
-      "subs": [
-        "Ferran Torres",
-        "Yéremy Pino",
-        "Mikel Merino",
-        "Nico Williams",
-        "Fabián Ruiz"
-      ],
+      "subs": [],
       "coach": "Luis de la Fuente"
     },
     {
@@ -5716,54 +5867,817 @@
     {
       "match": "H4",
       "team": "Uruguay",
-      "formation": "4-2-3-1",
-      "raw": "Fernando Muslera; Guillermo Varela, Sebastián Cáceres, Mathías Olivera, Juan Manuel Sanabria; Manuel Ugarte, Rodrigo Bentancur; Agustín Canobbio, Federico Valverde, Maximiliano Araújo; Federico Viñas",
+      "formation": "4-4-2",
+      "raw": "F. Muslera; G. Varela, S. Cáceres, M. Olivera, M. Viña; F. Valverde, M. Ugarte, R. Bentancur, M. Araújo; A. Canobbio, D. Núñez",
       "players": [
-        "Fernando Muslera",
-        "Guillermo Varela",
-        "Sebastián Cáceres",
-        "Mathías Olivera",
-        "Juan Manuel Sanabria",
-        "Manuel Ugarte",
-        "Rodrigo Bentancur",
-        "Agustín Canobbio",
-        "Federico Valverde",
-        "Maximiliano Araújo",
-        "Federico Viñas"
+        "F. Muslera",
+        "G. Varela",
+        "S. Cáceres",
+        "M. Olivera",
+        "M. Viña",
+        "F. Valverde",
+        "M. Ugarte",
+        "R. Bentancur",
+        "M. Araújo",
+        "A. Canobbio",
+        "D. Núñez"
       ],
-      "subs": [
-        "Nicolás de la Cruz",
-        "Darwin Núñez",
-        "Brian Rodríguez"
-      ],
+      "subs": [],
       "coach": "Marcelo Bielsa"
     },
     {
       "match": "H4",
       "team": "Cap-Vert",
-      "formation": "4-3-3",
-      "raw": "Vozinha; Steven Moreira, Pico Lopes, Diney, Sidny Lopes Cabral; Kevin Pina, Ryan Mendes, Jamiro Monteiro; Telmo Arcanjo, Gilson Benchimol, Garry Rodrigues",
+      "formation": "4-5-1",
+      "raw": "Vozinha; S. Moreira, R. Lopes, D. Borges, S. Lopes Cabral; K. Pina, R. Mendes, L. Duarte, J. Monteiro, J. Cabral; D. Livramento",
       "players": [
         "Vozinha",
-        "Steven Moreira",
-        "Pico Lopes",
-        "Diney",
-        "Sidny Lopes Cabral",
-        "Kevin Pina",
-        "Ryan Mendes",
-        "Jamiro Monteiro",
-        "Telmo Arcanjo",
-        "Gilson Benchimol",
-        "Garry Rodrigues"
+        "S. Moreira",
+        "R. Lopes",
+        "D. Borges",
+        "S. Lopes Cabral",
+        "K. Pina",
+        "R. Mendes",
+        "L. Duarte",
+        "J. Monteiro",
+        "J. Cabral",
+        "D. Livramento"
+      ],
+      "subs": [],
+      "coach": "Bubista"
+    },
+    {
+      "match": "H2",
+      "team": "Arabie saoudite",
+      "formation": "4-3-3",
+      "raw": "M. Al-Owais; S. Abdulhamid, A. Al-Tambakti, A. Lajami, M. Al-Harbi; A. Al-Khaibari, M. Al-Juwayr, N. Al-Dawsari; S. Al-Dawsari, F. Al-Buraikan, A. Al-Amri",
+      "players": [
+        "M. Al-Owais",
+        "S. Abdulhamid",
+        "A. Al-Tambakti",
+        "A. Lajami",
+        "M. Al-Harbi",
+        "A. Al-Khaibari",
+        "M. Al-Juwayr",
+        "N. Al-Dawsari",
+        "S. Al-Dawsari",
+        "F. Al-Buraikan",
+        "A. Al-Amri"
+      ],
+      "subs": [],
+      "coach": "Georgios Donis"
+    },
+    {
+      "match": "I1",
+      "team": "France",
+      "formation": "4-2-3-1",
+      "raw": "M. Maignan; J. Koundé, D. Upamecano, W. Saliba, T. Hernández; A. Tchouaméni, A. Rabiot; M. Olise, O. Dembélé, D. Doué; K. Mbappé",
+      "players": [
+        "M. Maignan",
+        "J. Koundé",
+        "D. Upamecano",
+        "W. Saliba",
+        "T. Hernández",
+        "A. Tchouaméni",
+        "A. Rabiot",
+        "M. Olise",
+        "O. Dembélé",
+        "D. Doué",
+        "K. Mbappé"
       ],
       "subs": [
-        "Deroy Duarte",
-        "Hélio Varela",
-        "Nuno da Costa",
-        "Laros Duarte",
-        "Yannick Semedo"
+        "B. Barcola (80')",
+        "R. Cherki (87')"
       ],
-      "coach": "Bubista"
+      "coach": "Didier Deschamps"
+    },
+    {
+      "match": "I1",
+      "team": "Sénégal",
+      "formation": "4-2-3-1",
+      "raw": "É. Mendy; K. Diatta, K. Koulibaly, M. Niakhaté, E.H.M. Diouf; I. Gueye, P. Gueye; I. Sarr, L. Camara, S. Mané; N. Jackson",
+      "players": [
+        "É. Mendy",
+        "K. Diatta",
+        "K. Koulibaly",
+        "M. Niakhaté",
+        "E.H.M. Diouf",
+        "I. Gueye",
+        "P. Gueye",
+        "I. Sarr",
+        "L. Camara",
+        "S. Mané",
+        "N. Jackson"
+      ],
+      "subs": [
+        "I. Mbaye (75')",
+        "A. Dieng (83')",
+        "I. Ndiaye (83')",
+        "P. Ciss (88')"
+      ],
+      "coach": "Aliou Cissé"
+    },
+    {
+      "match": "I2",
+      "team": "Norvège",
+      "formation": "4-3-3",
+      "raw": "Ø. Nyland; J. Ryerson, K. Ajer, T. Heggem, D. Møller Wolfe; M. Ødegaard, S. Berge, F. Aursnes; A. Sørloth, E. Haaland, A. Nusa",
+      "players": [
+        "Ø. Nyland",
+        "J. Ryerson",
+        "K. Ajer",
+        "T. Heggem",
+        "D. Møller Wolfe",
+        "M. Ødegaard",
+        "S. Berge",
+        "F. Aursnes",
+        "A. Sørloth",
+        "E. Haaland",
+        "A. Nusa"
+      ],
+      "subs": [
+        "L. Østigård (73')",
+        "O. Bobb (73')",
+        "K. Thorstvedt (73')",
+        "A. Schjelderup (73')",
+        "P. Berg (81')"
+      ],
+      "coach": "Ståle Solbakken"
+    },
+    {
+      "match": "I2",
+      "team": "Irak",
+      "formation": "4-4-2",
+      "raw": "J. Hassan; H. Ali, Z. Tahseen, A. Hashem, M. Doski; I. Bayesh, Z. Ismael, A. Al-Ammari, A. Jasim; A. Hussein, A. Al Hamadi",
+      "players": [
+        "J. Hassan",
+        "H. Ali",
+        "Z. Tahseen",
+        "A. Hashem",
+        "M. Doski",
+        "I. Bayesh",
+        "Z. Ismael",
+        "A. Al-Ammari",
+        "A. Jasim",
+        "A. Hussein",
+        "A. Al Hamadi"
+      ],
+      "subs": [
+        "A. Qasem (73')",
+        "M. Saadoon (73')"
+      ],
+      "coach": "Jesús Casas"
+    },
+    {
+      "match": "J1",
+      "team": "Argentine",
+      "formation": "4-4-2",
+      "raw": "E. Martínez; G. Montiel, C. Romero, L. Martínez, F. Medina; R. de Paul, E. Fernández, A. Mac Allister, T. Almada; L. Messi, L. Martínez",
+      "players": [
+        "E. Martínez",
+        "G. Montiel",
+        "C. Romero",
+        "L. Martínez",
+        "F. Medina",
+        "R. de Paul",
+        "E. Fernández",
+        "A. Mac Allister",
+        "T. Almada",
+        "L. Messi",
+        "L. Martínez"
+      ],
+      "subs": [],
+      "coach": "Lionel Scaloni"
+    },
+    {
+      "match": "J1",
+      "team": "Algérie",
+      "formation": "4-2-3-1",
+      "raw": "L. Zidane; R. Belghali, A. Mandi, R. Bensebaini, Z. Belaïd; M. Boudaoui, N. Bentaleb; H. Moussa, I. Maza, T. Chaibi; A. Gouiri",
+      "players": [
+        "L. Zidane",
+        "R. Belghali",
+        "A. Mandi",
+        "R. Bensebaini",
+        "Z. Belaïd",
+        "M. Boudaoui",
+        "N. Bentaleb",
+        "H. Moussa",
+        "I. Maza",
+        "T. Chaibi",
+        "A. Gouiri"
+      ],
+      "subs": [],
+      "coach": "Vladimir Petković"
+    },
+    {
+      "match": "J2",
+      "team": "Autriche",
+      "formation": "4-2-3-1",
+      "raw": "A. Schlager; K. Laimer, P. Lienhart, K. Danso, P. Mwene; X. Schlager, N. Seiwald; R. Schmid, M. Sabitzer, M. Gregoritsch; M. Arnautović",
+      "players": [
+        "A. Schlager",
+        "K. Laimer",
+        "P. Lienhart",
+        "K. Danso",
+        "P. Mwene",
+        "X. Schlager",
+        "N. Seiwald",
+        "R. Schmid",
+        "M. Sabitzer",
+        "M. Gregoritsch",
+        "M. Arnautović"
+      ],
+      "subs": [],
+      "coach": "Ralf Rangnick"
+    },
+    {
+      "match": "J2",
+      "team": "Jordanie",
+      "formation": "3-4-3",
+      "raw": "Y. Abulaila; S. Obaid, A. Nasib, Y. Al-Arab; E. Haddad, N. Al Rashdan, N. Al-Rawabdeh, M. Abu Taha; A. Olwan, M. Fakhoury, M. Al-Tamari",
+      "players": [
+        "Y. Abulaila",
+        "S. Obaid",
+        "A. Nasib",
+        "Y. Al-Arab",
+        "E. Haddad",
+        "N. Al Rashdan",
+        "N. Al-Rawabdeh",
+        "M. Abu Taha",
+        "A. Olwan",
+        "M. Fakhoury",
+        "M. Al-Tamari"
+      ],
+      "subs": [],
+      "coach": "Hussain Ammouta"
+    },
+    {
+      "match": "H3",
+      "team": "Arabie saoudite",
+      "formation": "4-3-3",
+      "raw": "M. Al-Owais; S. Abdulhamid, A. Al-Tambakti, A. Lajami, M. Al-Harbi; A. Al-Khaibari, M. Al-Juwayr, N. Al-Dawsari; S. Al-Dawsari, F. Al-Buraikan, A. Al-Amri",
+      "players": [
+        "M. Al-Owais",
+        "S. Abdulhamid",
+        "A. Al-Tambakti",
+        "A. Lajami",
+        "M. Al-Harbi",
+        "A. Al-Khaibari",
+        "M. Al-Juwayr",
+        "N. Al-Dawsari",
+        "S. Al-Dawsari",
+        "F. Al-Buraikan",
+        "A. Al-Amri"
+      ],
+      "subs": [],
+      "coach": "Georgios Donis"
+    },
+    {
+      "match": "I3",
+      "team": "France",
+      "formation": "4-2-3-1",
+      "raw": "M. Maignan; J. Koundé, D. Upamecano, W. Saliba, L. Digne; M. Koné, A. Rabiot; O. Dembélé, K. Mbappé, M. Olise; B. Barcola",
+      "players": [
+        "M. Maignan",
+        "J. Koundé",
+        "D. Upamecano",
+        "W. Saliba",
+        "L. Digne",
+        "M. Koné",
+        "A. Rabiot",
+        "O. Dembélé",
+        "K. Mbappé",
+        "M. Olise",
+        "B. Barcola"
+      ],
+      "subs": [],
+      "coach": "Didier Deschamps"
+    },
+    {
+      "match": "I3",
+      "team": "Irak",
+      "formation": "4-4-2",
+      "raw": "J. Hassan; H. Ali, Z. Tahseen, A. Hashem, M. Doski; I. Bayesh, A. Al-Ammari, Z. Ismael, A. Qasem; A. Hussein, A. Al Hamadi",
+      "players": [
+        "J. Hassan",
+        "H. Ali",
+        "Z. Tahseen",
+        "A. Hashem",
+        "M. Doski",
+        "I. Bayesh",
+        "A. Al-Ammari",
+        "Z. Ismael",
+        "A. Qasem",
+        "A. Hussein",
+        "A. Al Hamadi"
+      ],
+      "subs": [],
+      "coach": "Jesús Casas"
+    },
+    {
+      "match": "I4",
+      "team": "Norvège",
+      "formation": "4-3-3",
+      "raw": "Ø. Nyland; J. Ryerson, K. Ajer, T. Heggem, D. Møller Wolfe; M. Ødegaard, S. Berge, F. Aursnes; A. Sørloth, E. Haaland, A. Nusa",
+      "players": [
+        "Ø. Nyland",
+        "J. Ryerson",
+        "K. Ajer",
+        "T. Heggem",
+        "D. Møller Wolfe",
+        "M. Ødegaard",
+        "S. Berge",
+        "F. Aursnes",
+        "A. Sørloth",
+        "E. Haaland",
+        "A. Nusa"
+      ],
+      "subs": [],
+      "coach": "Ståle Solbakken"
+    },
+    {
+      "match": "I4",
+      "team": "Sénégal",
+      "formation": "4-2-3-1",
+      "raw": "É. Mendy; K. Diatta, K. Koulibaly, M. Niakhaté, E.H.M. Diouf; L. Camara, I. Gueye; I. Sarr, P. Gueye, S. Mané; N. Jackson",
+      "players": [
+        "É. Mendy",
+        "K. Diatta",
+        "K. Koulibaly",
+        "M. Niakhaté",
+        "E.H.M. Diouf",
+        "L. Camara",
+        "I. Gueye",
+        "I. Sarr",
+        "P. Gueye",
+        "S. Mané",
+        "N. Jackson"
+      ],
+      "subs": [],
+      "coach": "Aliou Cissé"
+    },
+    {
+      "match": "J3",
+      "team": "Argentine",
+      "formation": "4-3-3",
+      "raw": "E. Martínez; G. Molina, C. Romero, L. Martínez, F. Medina; R. de Paul, A. Mac Allister, E. Fernández; N. González, L. Messi, J. Álvarez",
+      "players": [
+        "E. Martínez",
+        "G. Molina",
+        "C. Romero",
+        "L. Martínez",
+        "F. Medina",
+        "R. de Paul",
+        "A. Mac Allister",
+        "E. Fernández",
+        "N. González",
+        "L. Messi",
+        "J. Álvarez"
+      ],
+      "subs": [],
+      "coach": "Lionel Scaloni"
+    },
+    {
+      "match": "J3",
+      "team": "Autriche",
+      "formation": "4-2-3-1",
+      "raw": "A. Schlager; K. Laimer, K. Danso, P. Lienhart, P. Mwene; X. Schlager, N. Seiwald; R. Schmid, M. Sabitzer, M. Gregoritsch; M. Arnautović",
+      "players": [
+        "A. Schlager",
+        "K. Laimer",
+        "K. Danso",
+        "P. Lienhart",
+        "P. Mwene",
+        "X. Schlager",
+        "N. Seiwald",
+        "R. Schmid",
+        "M. Sabitzer",
+        "M. Gregoritsch",
+        "M. Arnautović"
+      ],
+      "subs": [],
+      "coach": "Ralf Rangnick"
+    },
+    {
+      "match": "J4",
+      "team": "Jordanie",
+      "formation": "3-4-1-2",
+      "raw": "Y. Abulaila; M. Abualnadi, Y. Al-Arab, A. Nasib; E. Haddad, N. Al Rashdan, N. Al-Rawabdeh, M. Abu Taha; A. Olwan; M. Al-Tamari, O. Fakhoury",
+      "players": [
+        "Y. Abulaila",
+        "M. Abualnadi",
+        "Y. Al-Arab",
+        "A. Nasib",
+        "E. Haddad",
+        "N. Al Rashdan",
+        "N. Al-Rawabdeh",
+        "M. Abu Taha",
+        "A. Olwan",
+        "M. Al-Tamari",
+        "O. Fakhoury"
+      ],
+      "subs": [],
+      "coach": "Hussain Ammouta"
+    },
+    {
+      "match": "J4",
+      "team": "Algérie",
+      "formation": "4-3-3",
+      "raw": "L. Zidane; R. Belghali, A. Mandi, R. Bensebaini, R. Aït-Nouri; R. Zerrouki, H. Boudaoui, .; R. Mahrez, A. Gouiri, I. Maza",
+      "players": [
+        "L. Zidane",
+        "R. Belghali",
+        "A. Mandi",
+        "R. Bensebaini",
+        "R. Aït-Nouri",
+        "R. Zerrouki",
+        "H. Boudaoui",
+        "R. Mahrez",
+        "A. Gouiri",
+        "I. Maza"
+      ],
+      "subs": [],
+      "coach": "Vladimir Petković"
+    },
+    {
+      "match": "L3",
+      "team": "Angleterre",
+      "formation": "4-2-3-1",
+      "raw": "J. Pickford; R. James, E. Konsa, M. Guéhi, N. O'Reilly; E. Anderson, D. Rice; N. Madueke, J. Bellingham, A. Gordon; H. Kane",
+      "players": [
+        "J. Pickford",
+        "R. James",
+        "E. Konsa",
+        "M. Guéhi",
+        "N. O'Reilly",
+        "E. Anderson",
+        "D. Rice",
+        "N. Madueke",
+        "J. Bellingham",
+        "A. Gordon",
+        "H. Kane"
+      ],
+      "subs": [],
+      "coach": "Thomas Tuchel"
+    },
+    {
+      "match": "L3",
+      "team": "Ghana",
+      "formation": "4-3-3",
+      "raw": "B. Asare; M. Senaya, J. Adjetey, J. Opoku, G. Mensah; T. Partey, C. Yirenkyi, K. Sibo; I. Williams, J. Ayew, A. Semenyo",
+      "players": [
+        "B. Asare",
+        "M. Senaya",
+        "J. Adjetey",
+        "J. Opoku",
+        "G. Mensah",
+        "T. Partey",
+        "C. Yirenkyi",
+        "K. Sibo",
+        "I. Williams",
+        "J. Ayew",
+        "A. Semenyo"
+      ],
+      "subs": [],
+      "coach": "Otto Addo"
+    },
+    {
+      "match": "L4",
+      "team": "Panama",
+      "formation": "3-4-3",
+      "raw": "L. Mosquera; M. Córdoba, J. Blackman, E. Ramos; E. Harvey, A. Martínez, A. Andrade, I. Murillo; Á. Bárcenas, A. Rodríguez, J. Fajardo",
+      "players": [
+        "L. Mosquera",
+        "M. Córdoba",
+        "J. Blackman",
+        "E. Ramos",
+        "E. Harvey",
+        "A. Martínez",
+        "A. Andrade",
+        "I. Murillo",
+        "Á. Bárcenas",
+        "A. Rodríguez",
+        "J. Fajardo"
+      ],
+      "subs": [],
+      "coach": "Thomas Christiansen"
+    },
+    {
+      "match": "L4",
+      "team": "Croatie",
+      "formation": "4-2-3-1",
+      "raw": "D. Livaković; J. Gvardiol, M. Pongračić, J. Šutalo, J. Stanišić; M. Kovačić, L. Modrić; M. Baturina, I. Perišić, M. Pašalić; A. Musa",
+      "players": [
+        "D. Livaković",
+        "J. Gvardiol",
+        "M. Pongračić",
+        "J. Šutalo",
+        "J. Stanišić",
+        "M. Kovačić",
+        "L. Modrić",
+        "M. Baturina",
+        "I. Perišić",
+        "M. Pašalić",
+        "A. Musa"
+      ],
+      "subs": [],
+      "coach": "Zlatko Dalić"
+    },
+    {
+      "match": "A5",
+      "team": "Mexique",
+      "formation": "4-3-3",
+      "raw": "L. Rangel; J. Sanchez, I. Reyes, C. Montes, J. Chavez; R. Alvarado, E. Álvarez, L. Romo; G. Mora, G. Martínez, J. Quiñones",
+      "players": [
+        "L. Rangel",
+        "J. Sanchez",
+        "I. Reyes",
+        "C. Montes",
+        "J. Chavez",
+        "R. Alvarado",
+        "E. Álvarez",
+        "L. Romo",
+        "G. Mora",
+        "G. Martínez",
+        "J. Quiñones"
+      ],
+      "subs": [],
+      "coach": "Javier Aguirre"
+    },
+    {
+      "match": "A5",
+      "team": "Tchéquie",
+      "formation": "3-4-2-1",
+      "raw": "M. Kovář; L. Krejčí, R. Hranáč, D. Doudera; T. Holeš, M. Sadílek, L. Cerv, V. Coufal; P. Šulc, D. Visinsky; A. Hložek",
+      "players": [
+        "M. Kovář",
+        "L. Krejčí",
+        "R. Hranáč",
+        "D. Doudera",
+        "T. Holeš",
+        "M. Sadílek",
+        "L. Cerv",
+        "V. Coufal",
+        "P. Šulc",
+        "D. Visinsky",
+        "A. Hložek"
+      ],
+      "subs": [],
+      "coach": "Miroslav Koubek"
+    },
+    {
+      "match": "A6",
+      "team": "Afrique du Sud",
+      "formation": "4-2-3-1",
+      "raw": "R. Williams; K. Mudau, A. Modiba, S. Sithole, I. Okon; M. Mbokazi, T. Maseko; T. Mbatha, E. Makgopa, R. Mofokeng; O. Appollis",
+      "players": [
+        "R. Williams",
+        "K. Mudau",
+        "A. Modiba",
+        "S. Sithole",
+        "I. Okon",
+        "M. Mbokazi",
+        "T. Maseko",
+        "T. Mbatha",
+        "E. Makgopa",
+        "R. Mofokeng",
+        "O. Appollis"
+      ],
+      "subs": [],
+      "coach": "Hugo Broos"
+    },
+    {
+      "match": "A6",
+      "team": "Corée du Sud",
+      "formation": "3-4-2-1",
+      "raw": "Kim Seung-gyu; Lee Han-beom, Kim Min-jae, Lee Gi-hyuk; Tae-Soek Lee, Hwang In-beom, Paik Seung-ho, Lee Tae-seok; Lee Kang-in, Hwang Hee-chan; Oh Hyeon-gyu",
+      "players": [
+        "Kim Seung-gyu",
+        "Lee Han-beom",
+        "Kim Min-jae",
+        "Lee Gi-hyuk",
+        "Tae-Soek Lee",
+        "Hwang In-beom",
+        "Paik Seung-ho",
+        "Lee Tae-seok",
+        "Lee Kang-in",
+        "Hwang Hee-chan",
+        "Oh Hyeon-gyu"
+      ],
+      "subs": [],
+      "coach": "Hong Myung-bo"
+    },
+    {
+      "match": "B5",
+      "team": "Suisse",
+      "formation": "4-3-3",
+      "raw": "G. Kobel; J. Jacquez, M. Akanji, N. Elvedi, R. Rodríguez; R. Freuler, G. Xhaka, S. Sow; E. Manzambi, B. Embolo, R. Vargas",
+      "players": [
+        "G. Kobel",
+        "J. Jacquez",
+        "M. Akanji",
+        "N. Elvedi",
+        "R. Rodríguez",
+        "R. Freuler",
+        "G. Xhaka",
+        "S. Sow",
+        "E. Manzambi",
+        "B. Embolo",
+        "R. Vargas"
+      ],
+      "subs": [],
+      "coach": "Murat Yakin"
+    },
+    {
+      "match": "B5",
+      "team": "Canada",
+      "formation": "4-4-2",
+      "raw": "M. Crépeau; A. Johnston, L. De Fougerolles, D. Cornelius, R. Laryea; T. Buchanan, G. Choinière, E. Saliba, A. Ahmed; J. David, C. Larin",
+      "players": [
+        "M. Crépeau",
+        "A. Johnston",
+        "L. De Fougerolles",
+        "D. Cornelius",
+        "R. Laryea",
+        "T. Buchanan",
+        "G. Choinière",
+        "E. Saliba",
+        "A. Ahmed",
+        "J. David",
+        "C. Larin"
+      ],
+      "subs": [],
+      "coach": "Jesse Marsch"
+    },
+    {
+      "match": "B6",
+      "team": "Bosnie-Herzégovine",
+      "formation": "4-4-2",
+      "raw": "N. Vasilj; A. Radeljić, N. Katić, A. Malić, S. Kolašinac; A. Bajraktarević, I. Šunjić, B. Bašić, K. Alajbegović; E. Demirović, E. Džeko",
+      "players": [
+        "N. Vasilj",
+        "A. Radeljić",
+        "N. Katić",
+        "A. Malić",
+        "S. Kolašinac",
+        "A. Bajraktarević",
+        "I. Šunjić",
+        "B. Bašić",
+        "K. Alajbegović",
+        "E. Demirović",
+        "E. Džeko"
+      ],
+      "subs": [],
+      "coach": "Sergej Barbarez"
+    },
+    {
+      "match": "B6",
+      "team": "Qatar",
+      "formation": "4-3-3",
+      "raw": "M. Abunada; P. Miguel, B. Khoukhi, I. Laye, S. Al-Brake; J. Gaber, A. Fathy, M. Boudiaf; H. Alhaydos, A. Afif, E. Junior",
+      "players": [
+        "M. Abunada",
+        "P. Miguel",
+        "B. Khoukhi",
+        "I. Laye",
+        "S. Al-Brake",
+        "J. Gaber",
+        "A. Fathy",
+        "M. Boudiaf",
+        "H. Alhaydos",
+        "A. Afif",
+        "E. Junior"
+      ],
+      "subs": [],
+      "coach": "Marko Nikolić"
+    },
+    {
+      "match": "E6",
+      "team": "Équateur",
+      "formation": "4-4-2",
+      "raw": "H. Galindez; A. Franco, J. Ordoñez, W. Pacho, P. Hincapié; J. Yeboah, P. Vite, M. Caicedo, C. Angulo; G. Plata, E. Valencia",
+      "players": [
+        "H. Galindez",
+        "A. Franco",
+        "J. Ordoñez",
+        "W. Pacho",
+        "P. Hincapié",
+        "J. Yeboah",
+        "P. Vite",
+        "M. Caicedo",
+        "C. Angulo",
+        "G. Plata",
+        "E. Valencia"
+      ],
+      "subs": [],
+      "coach": "Sebastián Beccacece"
+    },
+    {
+      "match": "E6",
+      "team": "Allemagne",
+      "formation": "4-2-3-1",
+      "raw": "M. Neuer; J. Kimmich, J. Tah, A. Rüdiger, D. Raum; F. Nmecha, A. Pavlovic; L. Sané, J. Musiala, F. Wirtz; K. Havertz",
+      "players": [
+        "M. Neuer",
+        "J. Kimmich",
+        "J. Tah",
+        "A. Rüdiger",
+        "D. Raum",
+        "F. Nmecha",
+        "A. Pavlovic",
+        "L. Sané",
+        "J. Musiala",
+        "F. Wirtz",
+        "K. Havertz"
+      ],
+      "subs": [],
+      "coach": "Julian Nagelsmann"
+    },
+    {
+      "match": "F5",
+      "team": "Japon",
+      "formation": "3-4-2-1",
+      "raw": "Z. Suzuki; H. Ito, K. Itakura, T. Watanabe; Y. Sugawara, D. Kamada, K. Sano, K. Nakamura; R. Doan, D. Maeda; A. Ueda",
+      "players": [
+        "Z. Suzuki",
+        "H. Ito",
+        "K. Itakura",
+        "T. Watanabe",
+        "Y. Sugawara",
+        "D. Kamada",
+        "K. Sano",
+        "K. Nakamura",
+        "R. Doan",
+        "D. Maeda",
+        "A. Ueda"
+      ],
+      "subs": [],
+      "coach": "Hajime Moriyasu"
+    },
+    {
+      "match": "F5",
+      "team": "Suède",
+      "formation": "3-5-2",
+      "raw": "K. Nordfeldt; V. Lindelöf, I. Hien, G. Lagerbielke; G. Gudmundsson, Y. Ayari, J. Karlström, A. Bernhardsson, A. Elanga; B. Nygren; V. Gyökeres, A. Isak",
+      "players": [
+        "K. Nordfeldt",
+        "V. Lindelöf",
+        "I. Hien",
+        "G. Lagerbielke",
+        "G. Gudmundsson",
+        "Y. Ayari",
+        "J. Karlström",
+        "A. Bernhardsson",
+        "A. Elanga",
+        "B. Nygren",
+        "V. Gyökeres",
+        "A. Isak"
+      ],
+      "subs": [],
+      "coach": "Graham Potter"
+    },
+    {
+      "match": "F6",
+      "team": "Tunisie",
+      "formation": "4-2-3-1",
+      "raw": "A. Dahmen; Y. Valery, O. Rekik, M. Talbi, A. Ben Hmida; R. Khedira, E. Skhiri; H. Mejbri, I. Gharbi, A. Abdi; I. Achouri",
+      "players": [
+        "A. Dahmen",
+        "Y. Valery",
+        "O. Rekik",
+        "M. Talbi",
+        "A. Ben Hmida",
+        "R. Khedira",
+        "E. Skhiri",
+        "H. Mejbri",
+        "I. Gharbi",
+        "A. Abdi",
+        "I. Achouri"
+      ],
+      "subs": [],
+      "coach": "Hervé Renard"
+    },
+    {
+      "match": "F6",
+      "team": "Pays-Bas",
+      "formation": "4-3-3",
+      "raw": "B. Verbruggen; D. Dumfries, J.P. van Hecke, V. van Dijk, N. Aké; R. Gravenberch, F. de Jong, T. Reijnders; D. Malen, I. Brobbey, C. Gakpo",
+      "players": [
+        "B. Verbruggen",
+        "D. Dumfries",
+        "J.P. van Hecke",
+        "V. van Dijk",
+        "N. Aké",
+        "R. Gravenberch",
+        "F. de Jong",
+        "T. Reijnders",
+        "D. Malen",
+        "I. Brobbey",
+        "C. Gakpo"
+      ],
+      "subs": [],
+      "coach": "Ronald Koeman"
     }
   ],
   "injuries": [
@@ -5777,23 +6691,26 @@
     {
       "team": "Brésil",
       "player": "Rodrygo",
-      "type": "rupture LCA + ménisque genou droit",
+      "status": "out",
+      "type": "Torn ACL and meniscus",
       "severity": "severe",
-      "status": "out"
+      "note": "LCA et ménisque déchirés en mars (Real Madrid). Absent jusqu'en 2027."
     },
     {
       "team": "Brésil",
       "player": "Estêvão",
-      "type": "rupture ischio-jambiers",
+      "status": "out",
+      "type": "Torn hamstring",
       "severity": "severe",
-      "status": "out"
+      "note": "Blessé en avril, non convoqué dans les 26."
     },
     {
       "team": "Brésil",
       "player": "Éder Militão",
-      "type": "rupture ischio-jambiers biceps fémoral gauche",
+      "status": "out",
+      "type": "Torn hamstring (surgical)",
       "severity": "severe",
-      "status": "out"
+      "note": "Opéré, forfait total pour le tournoi."
     },
     {
       "team": "Brésil",
@@ -5821,24 +6738,25 @@
       "team": "Écosse",
       "player": "Billy Gilmour",
       "status": "out",
-      "severity": "severe",
-      "type": "genou",
-      "note": "Forfait."
+      "type": "Knee injury",
+      "severity": "moderate",
+      "note": "Forfait pour le tournoi."
     },
     {
       "team": "États-Unis",
       "player": "Patrick Agyemang",
-      "type": "rupture tendon d'Achille",
+      "status": "out",
+      "type": "Torn Achilles tendon",
       "severity": "severe",
-      "status": "out"
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "États-Unis",
       "player": "Johnny Cardoso",
       "status": "out",
+      "type": "High-grade ankle sprain (surgical)",
       "severity": "severe",
-      "type": "entorse cheville haute",
-      "note": "Forfait."
+      "note": "Opéré, forfait total."
     },
     {
       "team": "États-Unis",
@@ -5858,17 +6776,18 @@
     {
       "team": "Australie",
       "player": "Lewis Miller",
-      "type": "rupture tendon d'Achille",
+      "status": "out",
+      "type": "Torn Achilles tendon",
       "severity": "severe",
-      "status": "out"
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "Allemagne",
       "player": "Serge Gnabry",
       "status": "out",
+      "type": "Torn adductor",
       "severity": "severe",
-      "type": "déchirure adducteur",
-      "note": "Forfait."
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "Allemagne",
@@ -5881,63 +6800,65 @@
       "team": "Allemagne",
       "player": "Marc-André ter Stegen",
       "status": "out",
+      "type": "Torn thigh muscle",
       "severity": "severe",
-      "type": "déchirure cuisse",
-      "note": "Forfait."
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "Pays-Bas",
       "player": "Jurriën Timber",
       "status": "out",
+      "type": "Groin strain",
       "severity": "moderate",
-      "type": "pubalgie/aine",
-      "note": "A quitté le groupe néerlandais après le dernier amical, pas suffisamment rétabli."
+      "note": "Déclaré inapte quelques jours avant le début du tournoi."
     },
     {
       "team": "Pays-Bas",
       "player": "Xavi Simons",
       "status": "out",
+      "type": "Torn ACL",
       "severity": "severe",
-      "type": "rupture LCA",
-      "note": "Forfait."
+      "note": "LCA déchiré en avril en Premier League (Tottenham vs Wolverhampton), forfait total."
     },
     {
       "team": "Pays-Bas",
       "player": "Jerdy Schouten",
-      "type": "rupture LCA",
+      "status": "out",
+      "type": "Torn ACL",
       "severity": "severe",
-      "status": "out"
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "Pays-Bas",
       "player": "Matthijs de Ligt",
       "status": "out",
+      "type": "Back issue (surgical)",
       "severity": "severe",
-      "type": "chirurgie du dos",
-      "note": "Forfait."
+      "note": "Opéré du dos, retour attendu début de saison prochaine."
     },
     {
       "team": "Japon",
       "player": "Kaoru Mitoma",
       "status": "out",
+      "type": "Torn hamstring",
       "severity": "severe",
-      "type": "déchirure ischio",
-      "note": "Non retenu dans la liste finale, forfait."
+      "note": "Forfait avant le tournoi."
     },
     {
       "team": "Japon",
       "player": "Takumi Minamino",
-      "type": "rupture LCA",
+      "status": "out",
+      "type": "Torn ACL",
       "severity": "severe",
-      "status": "out"
+      "note": "LCA déchiré en décembre, non convoqué."
     },
     {
       "team": "Espagne",
       "player": "Fermín López",
       "status": "out",
-      "severity": "severe",
-      "type": "fracture métatarse",
-      "note": "Forfait pour le tournoi."
+      "type": "Metatarsal fracture (surgical)",
+      "severity": "moderate",
+      "note": "Opéré d'une fracture du métatarse, forfait."
     },
     {
       "team": "Uruguay",
@@ -5951,25 +6872,25 @@
       "team": "France",
       "player": "Hugo Ekitiké",
       "status": "out",
+      "type": "Torn Achilles tendon",
       "severity": "severe",
-      "type": "rupture tendon d'Achille",
-      "note": "Forfait pour le tournoi."
+      "note": "Tendon d'Achille déchiré en Ligue des champions (CL Liverpool-PSG, avril). Forfait total."
     },
     {
       "team": "Argentine",
       "player": "Cristian Romero",
       "status": "doubtful",
+      "type": "Right knee (aggravation)",
       "severity": "moderate",
-      "type": "MCL partiel (genou)",
-      "note": "Déchirure partielle du ligament latéral interne; incertain."
+      "note": "Sorti à la 57e contre l'Autriche après aggravation d'un problème au genou droit. Scaloni signale qu'il ne sera pas risqué en dernier match de groupe (vs Jordan). Retour probable en huitièmes si l'inflammation se résout en 3-4 jours selon le joueur lui-même."
     },
     {
       "team": "Argentine",
       "player": "Nahuel Molina",
       "status": "doubtful",
+      "type": "Thigh muscle injury",
       "severity": "minor",
-      "type": "thigh (cuisse)",
-      "note": "Gêne à la cuisse, incertain."
+      "note": "Absent 2-3 semaines avant le tournoi, incertitude sur sa disponibilité en phase à élimination directe."
     },
     {
       "team": "Angleterre",
@@ -5991,9 +6912,9 @@
       "team": "Ghana",
       "player": "Mohammed Kudus",
       "status": "doubtful",
+      "type": "Hamstring",
       "severity": "moderate",
-      "type": "ischio",
-      "note": "Rechute musculaire; incertain avant Angleterre-Ghana (Groupe L, 23/06)."
+      "note": "Rechute musculaire, grosse incertitude pour la suite du tournoi."
     },
     {
       "team": "Espagne",
@@ -6015,9 +6936,9 @@
       "team": "Croatie",
       "player": "Luka Modrić",
       "status": "returning",
-      "severity": "moderate",
-      "type": "fracture pommette",
-      "note": "Confiance pour la guérison, en course."
+      "type": "Complex cheekbone fracture",
+      "severity": "minor",
+      "note": "Fracture de la pommette, retour attendu pour le tournoi."
     },
     {
       "team": "Algérie",
@@ -6062,10 +6983,10 @@
     {
       "team": "Canada",
       "player": "Alphonso Davies",
-      "status": "returning",
-      "severity": "moderate",
-      "type": "ischio (post-LCA)",
-      "note": "Poursuit sa rééducation au jour le jour."
+      "status": "doubtful",
+      "type": "Hamstring / prior ACL (2025)",
+      "severity": "minor",
+      "note": "Évaluation jour par jour. Participation aux matchs à élimination directe incertaine."
     },
     {
       "team": "Maroc",
@@ -6079,9 +7000,9 @@
       "team": "Turquie",
       "player": "Arda Güler",
       "status": "returning",
+      "type": "Pulled hamstring",
       "severity": "minor",
-      "type": "ischio",
-      "note": "Sur la bonne voie."
+      "note": "En bonne voie de guérison avant le match décisif du 26 juin vs USA."
     },
     {
       "team": "Argentine",
@@ -6098,14 +7019,25 @@
       "severity": "moderate",
       "type": "entorse cheville sévère",
       "note": "Incertain."
+    },
+    {
+      "team": "Allemagne",
+      "player": "Nico Schlotterbeck",
+      "status": "out",
+      "type": "Torn medial ligament (left ankle)",
+      "severity": "severe",
+      "note": "Blessé contre la Côte d'Ivoire en phase de groupes, MRI confirme ligament médial déchiré. Absent plusieurs mois. Remplacé par Rüdiger/Tah en défense centrale."
+    },
+    {
+      "team": "France",
+      "player": "William Saliba",
+      "status": "returning",
+      "type": "Back injury",
+      "severity": "minor",
+      "note": "Deschamps confirme qu'il est apte à jouer. Déclaré disponible pour le tournoi."
     }
   ],
   "form_notes": [
-    {
-      "team": "Norvège",
-      "note": "Retour réussi en Coupe du Monde : 4-1 vs Irak (16/06), doublé Haaland.",
-      "trend": "up"
-    },
     {
       "team": "Cap-Vert",
       "note": "Exploit pour ses débuts : 0-0 héroïque vs Espagne (bloc 5-4-1, gardien Vozinha 40 ans décisif).",
@@ -6127,11 +7059,6 @@
       "trend": "up"
     },
     {
-      "team": "Angleterre",
-      "note": "Favorite J1 vs Croatie (17/06) : 6 victoires sur les 6 derniers matchs. Revanche de la demi-2018.",
-      "trend": "up"
-    },
-    {
       "team": "Croatie",
       "note": "Bonne dynamique avant Angleterre (17/06) : 5 victoires sur 6.",
       "trend": "up"
@@ -6142,39 +7069,9 @@
       "trend": "down"
     },
     {
-      "team": "Espagne",
-      "trend": "up",
-      "note": "Réaction après un nul terne en J1: large succès 4-0 vs Arabie saoudite. Dynamique relancée."
-    },
-    {
-      "team": "Argentine",
-      "trend": "up",
-      "note": "3-0 vs Algérie avec triplé de Messi; favorite, leader du groupe avant Argentine-Autriche (22/06)."
-    },
-    {
-      "team": "France",
-      "trend": "up",
-      "note": "3-1 vs Sénégal, en tête de son groupe; affronte l'Irak (22/06)."
-    },
-    {
       "team": "Pays-Bas",
       "trend": "up",
       "note": "5-1 vs Suède malgré une cascade de blessures défensives."
-    },
-    {
-      "team": "Allemagne",
-      "trend": "up",
-      "note": "Déjà qualifiée pour les 8es; 2-1 vs Côte d'Ivoire, secteur offensif performant."
-    },
-    {
-      "team": "Suisse",
-      "trend": "up",
-      "note": "4-1 vs Bosnie après un nul en J1; revient à hauteur du Canada en tête du Groupe B."
-    },
-    {
-      "team": "Canada",
-      "trend": "up",
-      "note": "6-0 vs Qatar; co-leader du Groupe B à la différence de buts."
     },
     {
       "team": "Japon",
@@ -6202,23 +7099,67 @@
       "note": "Nul 2-2 vs Cap-Vert, dynamique en demi-teinte."
     },
     {
+      "team": "Argentine",
+      "note": "Deux victoires parfaites en phase de groupes : 3-0 vs Algérie, 2-0 vs Autriche. Déjà qualifiés et premiers du groupe J. Défense solide malgré l'inquiétude Romero.",
+      "trend": "up"
+    },
+    {
+      "team": "France",
+      "note": "Deux victoires convaincantes : 4-1 vs Irak, 3-2 vs Sénégal. Match décisif contre la Norvège le 26 juin pour le leadership du groupe I. Défense impressionnante (0,10 xG concédé à Sénégal).",
+      "trend": "up"
+    },
+    {
+      "team": "Norvège",
+      "note": "Progression nette : victoire 4-1 vs Irak, puis 3-2 vs Sénégal. Déjà qualifiés. Défense poreuse (concédé dans les 2 matchs) mais attaque létale grâce à Haaland.",
+      "trend": "up"
+    },
+    {
+      "team": "Allemagne",
+      "note": "7-1 vs Curaçao puis 2-1 vs Côte d'Ivoire, mais perd Schlotterbeck sur blessure. Défense fragilisée en vue des huitièmes. Attaque prolifique, défense sous pression.",
+      "trend": "stable"
+    },
+    {
+      "team": "Brésil",
+      "note": "Premiers du groupe C (7 pts), victoire 3-0 vs Écosse. Manque de profondeur en attaque sans Rodrygo et Estêvão.",
+      "trend": "up"
+    },
+    {
       "team": "États-Unis",
-      "trend": "up",
-      "note": "2-0 vs Australie, déjà qualifiée pour les 8es."
+      "note": "4-1 vs Paraguay, victoire solide. Milieu Tillman-McKennie-Adams dominant dans le pressing. Dernier match de groupe le 26 juin vs Turquie.",
+      "trend": "up"
+    },
+    {
+      "team": "Angleterre",
+      "note": "Victoire 4-2 vs Croatie puis nul 0-0 vs Ghana. Prestation décevante contre le Ghana, très peu de créativité offensive. Risque de chute si Panama surprend.",
+      "trend": "down"
+    },
+    {
+      "team": "Espagne",
+      "note": "Qualifiés, performance solide malgré les absences de Fermín López. Lamine Yamal disponible pour le tournoi.",
+      "trend": "stable"
+    },
+    {
+      "team": "Colombie",
+      "note": "Premiers du groupe K (6 pts en 2 matchs). Daniel Muñoz buteur lors des 2 matchs. Progression constante.",
+      "trend": "up"
     },
     {
       "team": "Mexique",
-      "trend": "up",
-      "note": "1-0 vs Corée du Sud, déjà qualifiée."
+      "note": "Premiers du groupe A, 2-0 vs Afrique du Sud puis 1-0 vs Corée du Sud. Victoires laborieuses mais sans prendre de buts.",
+      "trend": "stable"
+    },
+    {
+      "team": "Canada",
+      "note": "Qualification historique pour la phase à élimination directe. Victoire écrasante 6-0 vs Qatar après nul vs Bosnie-Herzégovine. Inquiétude sur la forme de Davies.",
+      "trend": "up"
+    },
+    {
+      "team": "Suisse",
+      "note": "Invaincus en groupe B (7 pts). Victoire 2-1 vs Canada. Réguliers et difficiles à battre.",
+      "trend": "stable"
     }
   ],
   "player_form": [
-    {
-      "team": "Norvège",
-      "player": "Erling Haaland",
-      "note": "Doublé pour ses débuts en CdM vs Irak.",
-      "trend": "up"
-    },
     {
       "team": "Cap-Vert",
       "player": "Vozinha",
@@ -6242,18 +7183,6 @@
       "player": "Elijah Just",
       "note": "Doublé (7',54') vs Iran.",
       "trend": "up"
-    },
-    {
-      "team": "Argentine",
-      "player": "Lionel Messi",
-      "trend": "up",
-      "note": "Triplé vs Algérie, égale le record de buts en CDM; peut dépasser Klose face à l'Autriche (22/06)."
-    },
-    {
-      "team": "France",
-      "player": "Kylian Mbappé",
-      "trend": "up",
-      "note": "Doublé vs Sénégal; devenu meilleur buteur de l'histoire des Bleus."
     },
     {
       "team": "Espagne",
@@ -6284,6 +7213,48 @@
       "player": "Jamal Musiala",
       "trend": "up",
       "note": "Performant, créateur clé."
+    },
+    {
+      "team": "Argentine",
+      "player": "Lionel Messi",
+      "note": "5 buts en 2 matchs (hat-trick vs Algérie à 38 ans + doublé vs Autriche). Record historique de buteurs en Coupe du Monde (18 buts, seul au sommet devant Klose). Forme exceptionnelle malgré les inquiétudes physiques pré-tournoi.",
+      "trend": "up"
+    },
+    {
+      "team": "Norvège",
+      "player": "Erling Haaland",
+      "note": "4 buts en 2 matchs (doublé vs Irak, doublé vs Sénégal). Deuxième joueur des 50 dernières années à scorer deux fois lors de ses deux premiers matchs de Mondial. 59 buts en 52 sélections. Duel vs Mbappe le 26 juin très attendu.",
+      "trend": "up"
+    },
+    {
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "note": "4 buts en 2 matchs. 100e sélection fêtée avec un doublé vs Irak. Totalise 16 buts en Coupe du Monde, égalant Klose avant que Messi ne le dépasse. Duel face à Haaland le 26 juin.",
+      "trend": "up"
+    },
+    {
+      "team": "France",
+      "player": "Michael Olise",
+      "note": "Forme Club-Sélection continue (forme à Bayern Munich transposée). 1 passe décisive, 4 occasions créées en phase de groupes.",
+      "trend": "up"
+    },
+    {
+      "team": "États-Unis",
+      "player": "Folarin Balogun",
+      "note": "2 buts contre le Paraguay. Transposition de sa forme en club (19 buts + 4 passes décisives à Monaco). Élément clé de l'attaque américaine.",
+      "trend": "up"
+    },
+    {
+      "team": "Colombie",
+      "player": "Daniel Muñoz",
+      "note": "Buteur lors des 2 premiers matchs de groupe. Latéral droit offensif en grande forme.",
+      "trend": "up"
+    },
+    {
+      "team": "Angleterre",
+      "player": "Jude Bellingham",
+      "note": "Performance décevante contre le Ghana (0-0). Angleterre en manque de créativité offensive collectivement.",
+      "trend": "down"
     }
   ],
   "engagement_notes": [
@@ -6308,11 +7279,6 @@
       "trend": "stable"
     },
     {
-      "team": "Angleterre",
-      "note": "Favorite pour lancer parfaitement sa campagne vs Croatie (17/06) ; statut de prétendante au titre à confirmer.",
-      "trend": "up"
-    },
-    {
       "team": "Portugal",
       "note": "Entrée vs RD Congo (17/06) attendue large ; Ronaldo vise un but dans une 6e CdM différente.",
       "trend": "stable"
@@ -6323,35 +7289,9 @@
       "note": "Déjà qualifiée pour les 8es; turnover probable lors du dernier match de groupe (24/06)."
     },
     {
-      "team": "États-Unis",
-      "trend": "stable",
-      "note": "Déjà qualifiée pour les 8es; rotation probable."
-    },
-    {
-      "team": "Allemagne",
-      "trend": "stable",
-      "note": "Déjà qualifiée pour les 8es; gestion d'effectif attendue."
-    },
-    {
-      "team": "Argentine",
-      "player": "Lionel Messi",
-      "trend": "up",
-      "note": "Argentine-Autriche (22/06, Groupe J): victoire = qualification quasi assurée; enjeu individuel record de buts pour Messi."
-    },
-    {
-      "team": "France",
-      "trend": "up",
-      "note": "France-Irak (22/06, Groupe I): large favorite, victoire qualifie quasi sûrement; Saliba apte."
-    },
-    {
       "team": "Sénégal",
       "trend": "stable",
       "note": "Norvège-Sénégal (22/06, Groupe I): match décisif pour la 2e place après la défaite vs France."
-    },
-    {
-      "team": "Canada",
-      "trend": "up",
-      "note": "Suisse-Canada (24/06, Groupe B): nul ou victoire = 1re place pour le Canada."
     },
     {
       "team": "Suisse",
@@ -6388,6 +7328,56 @@
       "player": "Mohammed Kudus",
       "trend": "down",
       "note": "Angleterre-Ghana (23/06, Groupe L): Kudus incertain (ischio), facteur clé."
+    },
+    {
+      "team": "France",
+      "note": "Match décisif le 26 juin vs Norvège pour la tête du groupe I. Les deux équipes sont qualifiées mais le classement déterminera le tableau dans la phase à élimination directe. Duel Mbappé-Haaland au centre de l'attention mondiale.",
+      "trend": "up"
+    },
+    {
+      "team": "Norvège",
+      "note": "Qualification acquise. Joue pour la 1re place du groupe I contre la France le 26 juin. Défense fragile (buts concédés dans les 2 matchs) pourrait être exposée par l'attaque française.",
+      "trend": "stable"
+    },
+    {
+      "team": "Argentine",
+      "note": "Qualification et 1re place acquises. Dernier match vs Jordan (groupe J) = rotation probable / repos des cadres. Inquiétude sur Romero pour les 1/32e.",
+      "trend": "stable"
+    },
+    {
+      "team": "États-Unis",
+      "note": "Match final groupe D le 26 juin vs Turquie à Los Angeles. Qualification déjà assurée mais la 1re place est en jeu pour optimiser le tableau en phase éliminatoire.",
+      "trend": "up"
+    },
+    {
+      "team": "Turquie",
+      "note": "Match crucial le 26 juin vs USA : doit au moins égaler le résultat du Paraguay pour se qualifier. Arda Güler en course pour être disponible.",
+      "trend": "down"
+    },
+    {
+      "team": "Angleterre",
+      "note": "Dernier match de groupe le 27 juin vs Panama. Malgré la 1re place provisoire, le nul vs Ghana est alarmant. Turnover peu probable car la qualification n'est pas encore mathématiquement garantie si Ghana gagne contre la Croatie.",
+      "trend": "down"
+    },
+    {
+      "team": "Allemagne",
+      "note": "Qualifiés en tête du groupe E. Prochain adversaire potentiel : Ecuador (qui les a battus 2-1). Défense fragilisée après la perte de Schlotterbeck.",
+      "trend": "stable"
+    },
+    {
+      "team": "Canada",
+      "note": "Qualification historique pour les 1/32e. Premier match éliminatoire le 28 juin vs Afrique du Sud. Euphorie nationale mais incertitude sur Davies.",
+      "trend": "up"
+    },
+    {
+      "team": "Équateur",
+      "note": "Qualification obtenue après victoire surprise 2-1 vs Allemagne. Moral au plus haut. Possible affrontement avec l'Allemagne en 1/32e.",
+      "trend": "up"
+    },
+    {
+      "team": "Afrique du Sud",
+      "note": "Qualification inattendue pour les 1/32e (1-0 vs Corée du Sud). Première phase à élimination directe pour la nation arc-en-ciel. Affronte le Canada le 28 juin.",
+      "trend": "up"
     }
   ]
 }

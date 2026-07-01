@@ -1,8 +1,8 @@
 {
   "meta": {
     "tournament": "Coupe du Monde FIFA 2026",
-    "last_updated": "2026-06-26",
-    "current_phase": "Phase de groupes — journée 3 terminée pour les groupes A à F et I/J/K/L (60 matchs joués), journée 3 groupes G et H en attente ce soir 26/06",
+    "last_updated": "2026-07-01",
+    "current_phase": "Huitièmes de finale — 8 matchs joués (R32-1 à R32-8), 8 matchs restants programmés (R32-9 à R32-16)",
     "sources": [
       "FIFA.com",
       "Wikipédia",
@@ -1417,8 +1417,13 @@
       "city": "Seattle",
       "home": "Égypte",
       "away": "Iran",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        1
+      ],
+      "attendance": 66925
     },
     {
       "id": "G6",
@@ -1430,8 +1435,13 @@
       "city": "Vancouver",
       "home": "Nouvelle-Zélande",
       "away": "Belgique",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        5
+      ],
+      "attendance": 52497
     },
     {
       "id": "H1",
@@ -1519,8 +1529,13 @@
       "city": "Houston",
       "home": "Cap-Vert",
       "away": "Arabie Saoudite",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        0
+      ],
+      "attendance": 68278
     },
     {
       "id": "H6",
@@ -1529,11 +1544,16 @@
       "matchday": 1,
       "date": "2026-06-26",
       "venue": "Estadio Akron",
-      "city": "Guadalajara",
+      "city": "Zapopan",
       "home": "Uruguay",
       "away": "Espagne",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        1
+      ],
+      "attendance": 45065
     },
     {
       "id": "I1",
@@ -1619,8 +1639,13 @@
       "city": "Foxborough",
       "home": "Norvège",
       "away": "France",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        4
+      ],
+      "attendance": 64146
     },
     {
       "id": "I6",
@@ -1632,8 +1657,13 @@
       "city": "Toronto",
       "home": "Sénégal",
       "away": "Irak",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        5,
+        0
+      ],
+      "attendance": 43036
     },
     {
       "id": "J1",
@@ -1719,8 +1749,13 @@
       "city": "Kansas City",
       "home": "Algérie",
       "away": "Autriche",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        3,
+        3
+      ],
+      "attendance": 69045
     },
     {
       "id": "J6",
@@ -1732,8 +1767,13 @@
       "city": "Arlington",
       "home": "Jordanie",
       "away": "Argentine",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        1,
+        3
+      ],
+      "attendance": 70649
     },
     {
       "id": "K1",
@@ -1811,27 +1851,41 @@
       "id": "K5",
       "phase": "group",
       "group": "K",
-      "matchday": 1,
+      "matchday": 3,
       "date": "2026-06-27",
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "home": "Colombie",
       "away": "Portugal",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        0
+      ],
+      "et": false,
+      "pens": null,
+      "attendance": 64478
     },
     {
       "id": "K6",
       "phase": "group",
       "group": "K",
-      "matchday": 1,
+      "matchday": 3,
       "date": "2026-06-27",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "home": "RD Congo",
       "away": "Ouzbékistan",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        3,
+        1
+      ],
+      "et": false,
+      "pens": null,
+      "attendance": 68239
     },
     {
       "id": "L1",
@@ -1909,27 +1963,266 @@
       "id": "L5",
       "phase": "group",
       "group": "L",
-      "matchday": 1,
+      "matchday": 3,
       "date": "2026-06-27",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
       "home": "Panama",
       "away": "Angleterre",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        0,
+        2
+      ],
+      "et": false,
+      "pens": null,
+      "attendance": 80663
     },
     {
       "id": "L6",
       "phase": "group",
       "group": "L",
-      "matchday": 1,
+      "matchday": 3,
       "date": "2026-06-27",
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "home": "Croatie",
       "away": "Ghana",
-      "status": "scheduled",
-      "sched_note": "à venir"
+      "status": "played",
+      "sched_note": "à venir",
+      "score": [
+        2,
+        1
+      ],
+      "et": false,
+      "pens": null,
+      "attendance": 68324
+    },
+    {
+      "id": "R32-1",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-28",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "home": "Afrique du Sud",
+      "away": "Canada",
+      "status": "played",
+      "score": [
+        0,
+        1
+      ],
+      "attendance": 69237
+    },
+    {
+      "id": "R32-2",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-29",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "home": "Brésil",
+      "away": "Japon",
+      "status": "played",
+      "score": [
+        2,
+        1
+      ],
+      "attendance": 68777
+    },
+    {
+      "id": "R32-3",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-29",
+      "venue": "Gillette Stadium",
+      "city": "Foxborough",
+      "home": "Allemagne",
+      "away": "Paraguay",
+      "status": "played",
+      "score": [
+        1,
+        1
+      ],
+      "et": true,
+      "pens": [
+        3,
+        4
+      ],
+      "attendance": 63945
+    },
+    {
+      "id": "R32-4",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-29",
+      "venue": "Estadio BBVA",
+      "city": "Guadalupe",
+      "home": "Pays-Bas",
+      "away": "Maroc",
+      "status": "played",
+      "score": [
+        1,
+        1
+      ],
+      "et": true,
+      "pens": [
+        2,
+        3
+      ],
+      "attendance": 51243
+    },
+    {
+      "id": "R32-5",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-30",
+      "venue": "AT&T Stadium",
+      "city": "Arlington",
+      "home": "Côte d'Ivoire",
+      "away": "Norvège",
+      "status": "played",
+      "score": [
+        1,
+        2
+      ],
+      "attendance": 69665
+    },
+    {
+      "id": "R32-6",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-30",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "home": "France",
+      "away": "Suède",
+      "status": "played",
+      "score": [
+        3,
+        0
+      ],
+      "attendance": 80663
+    },
+    {
+      "id": "R32-7",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-06-30",
+      "venue": "Estadio Azteca",
+      "city": "Mexico",
+      "home": "Mexique",
+      "away": "Équateur",
+      "status": "played",
+      "score": [
+        2,
+        0
+      ],
+      "attendance": 80824
+    },
+    {
+      "id": "R32-8",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-01",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "home": "Angleterre",
+      "away": "RD Congo",
+      "status": "played",
+      "score": [
+        2,
+        0
+      ]
+    },
+    {
+      "id": "R32-9",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-01",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "Belgique",
+      "away": "Sénégal",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-10",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-01",
+      "venue": "Levi's Stadium",
+      "city": "Santa Clara",
+      "home": "États-Unis",
+      "away": "Bosnie-Herzégovine",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-11",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-02",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "home": "Espagne",
+      "away": "Autriche",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-12",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-02",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": "Portugal",
+      "away": "Croatie",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-13",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-02",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Suisse",
+      "away": "Algérie",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-14",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-03",
+      "venue": "AT&T Stadium",
+      "city": "Arlington",
+      "home": "Australie",
+      "away": "Égypte",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-15",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-03",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "home": "Argentine",
+      "away": "Cap-Vert",
+      "status": "scheduled"
+    },
+    {
+      "id": "R32-16",
+      "phase": "knockout",
+      "round": "Huitièmes de finale",
+      "date": "2026-07-03",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "home": "Colombie",
+      "away": "Ghana",
+      "status": "scheduled"
     }
   ],
   "events": [
@@ -3919,6 +4212,733 @@
       "player": "Jan Paul van Hecke",
       "minute": "62",
       "type": "goal"
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "player": "Mahmoud Saber",
+      "type": "goal",
+      "minute": "5"
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "player": "Ramin Rezaeian",
+      "type": "goal",
+      "minute": "14"
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "player": "Kanaanizadegan",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "player": "Ali Nemati",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "player": "Mahmoud Saber",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "player": "Yasser Ibrahim",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "player": "Leandro Trossard",
+      "type": "goal",
+      "minute": "28"
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "player": "Leandro Trossard",
+      "type": "goal",
+      "minute": "50"
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "player": "Kevin De Bruyne",
+      "type": "goal",
+      "minute": "66"
+    },
+    {
+      "match": "G6",
+      "team": "Nouvelle-Zélande",
+      "player": "Chris Just",
+      "type": "goal",
+      "minute": "84"
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "player": "Romelu Lukaku",
+      "type": "goal",
+      "minute": "86"
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "player": "Alexis Saelemaekers",
+      "type": "goal",
+      "minute": "90+4"
+    },
+    {
+      "match": "G6",
+      "team": "Nouvelle-Zélande",
+      "player": "Liberato Stamenić",
+      "type": "yellow",
+      "minute": "46"
+    },
+    {
+      "match": "G6",
+      "team": "Nouvelle-Zélande",
+      "player": "Chris Just",
+      "type": "yellow",
+      "minute": "56"
+    },
+    {
+      "match": "H6",
+      "team": "Espagne",
+      "player": "Alex Baena",
+      "type": "goal",
+      "minute": "42"
+    },
+    {
+      "match": "H6",
+      "team": "Espagne",
+      "player": "Alex Baena",
+      "type": "yellow",
+      "minute": "46"
+    },
+    {
+      "match": "H6",
+      "team": "Uruguay",
+      "player": "Agustín Canobbio",
+      "type": "red",
+      "minute": "90+4",
+      "detail": "Faute grossière"
+    },
+    {
+      "match": "H6",
+      "team": "Uruguay",
+      "player": "Nicolás de la Cruz",
+      "type": "yellow",
+      "minute": "90+3"
+    },
+    {
+      "match": "H6",
+      "team": "Uruguay",
+      "player": "Facundo Varela",
+      "type": "yellow",
+      "minute": "58"
+    },
+    {
+      "match": "H6",
+      "team": "Uruguay",
+      "player": "Antonio Sanabria",
+      "type": "yellow",
+      "minute": "54"
+    },
+    {
+      "match": "H5",
+      "team": "Cap-Vert",
+      "player": "Wagner Pina",
+      "type": "yellow",
+      "minute": "8"
+    },
+    {
+      "match": "H5",
+      "team": "Arabie Saoudite",
+      "player": "Saud Abdulhamid",
+      "type": "yellow",
+      "minute": "4"
+    },
+    {
+      "match": "H5",
+      "team": "Arabie Saoudite",
+      "player": "Nasser Al-Dawsari",
+      "type": "yellow",
+      "minute": "67"
+    },
+    {
+      "match": "H5",
+      "team": "Arabie Saoudite",
+      "player": "Firas Al-Buraikan",
+      "type": "yellow",
+      "minute": "90+3"
+    },
+    {
+      "match": "I5",
+      "team": "Norvège",
+      "player": "Thelo Aasgaard",
+      "type": "goal",
+      "minute": "21"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "player": "Ousmane Dembélé",
+      "type": "goal",
+      "minute": "7"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "player": "Ousmane Dembélé",
+      "type": "goal",
+      "minute": "20"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "player": "Ousmane Dembélé",
+      "type": "goal",
+      "minute": "32"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "player": "Georginio Rutter",
+      "type": "goal",
+      "minute": "90+4"
+    },
+    {
+      "match": "I5",
+      "team": "Norvège",
+      "player": "Patrick Berg",
+      "type": "yellow",
+      "minute": "10"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "player": "Aurélien Tchouaméni",
+      "type": "yellow",
+      "minute": "74"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Habib Diarra",
+      "type": "goal",
+      "minute": "4"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Ismaila Sarr",
+      "type": "goal",
+      "minute": "56"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Pape Gueye",
+      "type": "goal",
+      "minute": "59"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Pape Gueye",
+      "type": "goal",
+      "minute": "71"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Iliman Ndiaye",
+      "type": "goal",
+      "minute": "82"
+    },
+    {
+      "match": "I6",
+      "team": "Irak",
+      "player": "Rebin Sulaka",
+      "type": "red",
+      "minute": "13",
+      "detail": "Intervention empêchant une occasion de but manifeste"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Abdoulaye Seck",
+      "type": "yellow",
+      "minute": "18"
+    },
+    {
+      "match": "I6",
+      "team": "Irak",
+      "player": "Merchas Doski",
+      "type": "yellow",
+      "minute": "90"
+    },
+    {
+      "match": "I6",
+      "team": "Irak",
+      "player": "Amir Al-Ammari",
+      "type": "yellow",
+      "minute": "75"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "player": "Pape Gueye",
+      "type": "yellow",
+      "minute": "81"
+    },
+    {
+      "match": "J5",
+      "team": "Algérie",
+      "player": "Rayan Belghali",
+      "type": "goal",
+      "minute": "45"
+    },
+    {
+      "match": "J5",
+      "team": "Autriche",
+      "player": "Marko Arnautović",
+      "type": "goal",
+      "minute": "28"
+    },
+    {
+      "match": "J5",
+      "team": "Autriche",
+      "player": "Marcel Sabitzer",
+      "type": "goal",
+      "minute": "55"
+    },
+    {
+      "match": "J5",
+      "team": "Algérie",
+      "player": "Riyad Mahrez",
+      "type": "goal",
+      "minute": "60"
+    },
+    {
+      "match": "J5",
+      "team": "Algérie",
+      "player": "Riyad Mahrez",
+      "type": "goal",
+      "minute": "90+3"
+    },
+    {
+      "match": "J5",
+      "team": "Autriche",
+      "player": "Sasa Kalajdzic",
+      "type": "goal",
+      "minute": "90+6"
+    },
+    {
+      "match": "J5",
+      "team": "Autriche",
+      "player": "Konrad Laimer",
+      "type": "yellow",
+      "minute": "76"
+    },
+    {
+      "match": "J6",
+      "team": "Argentine",
+      "player": "Giovani Lo Celso",
+      "type": "goal",
+      "minute": "19"
+    },
+    {
+      "match": "J6",
+      "team": "Argentine",
+      "player": "Lautaro Martínez",
+      "type": "pen",
+      "minute": "31"
+    },
+    {
+      "match": "J6",
+      "team": "Jordanie",
+      "player": "Muhannad Al-Taamari",
+      "type": "goal",
+      "minute": "55"
+    },
+    {
+      "match": "J6",
+      "team": "Argentine",
+      "player": "Lionel Messi",
+      "type": "goal",
+      "minute": "80"
+    },
+    {
+      "match": "J6",
+      "team": "Jordanie",
+      "player": "Mohannad Abu Taha",
+      "type": "yellow",
+      "minute": "17"
+    },
+    {
+      "match": "J6",
+      "team": "Jordanie",
+      "player": "Yazan Al-Arab",
+      "type": "yellow",
+      "minute": "64"
+    },
+    {
+      "match": "J6",
+      "team": "Jordanie",
+      "player": "Mohammad Abu Zrayq",
+      "type": "yellow",
+      "minute": "90+4"
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "player": "Stephen Eustáquio",
+      "type": "goal",
+      "minute": "90+2"
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "player": "Nathan Saliba",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "player": "Niko Sigur",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Kaishu Sano",
+      "type": "goal",
+      "minute": "29"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Casemiro",
+      "type": "goal",
+      "minute": "56"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Gabriel Martinelli",
+      "type": "goal",
+      "minute": "90+5"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Danilo",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Casemiro",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Kaishu Sano",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Daichi Kamada",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Junnosuke Suzuki",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "player": "Julio Enciso",
+      "type": "goal",
+      "minute": "42"
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "player": "Kai Havertz",
+      "type": "goal",
+      "minute": "54"
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "player": "Kai Havertz",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "player": "Jamal Musiala",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "player": "Andrés Cubas",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "player": "Matías Galarza",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-4",
+      "team": "Pays-Bas",
+      "player": "Cody Gakpo",
+      "type": "goal",
+      "minute": "72"
+    },
+    {
+      "match": "R32-4",
+      "team": "Maroc",
+      "player": "Issa Diop",
+      "type": "goal",
+      "minute": "90+1"
+    },
+    {
+      "match": "R32-4",
+      "team": "Maroc",
+      "player": "Issa Diop",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-5",
+      "team": "Norvège",
+      "player": "Antonio Nusa",
+      "type": "goal",
+      "minute": "39"
+    },
+    {
+      "match": "R32-5",
+      "team": "Côte d'Ivoire",
+      "player": "Amad Diallo",
+      "type": "goal",
+      "minute": "74"
+    },
+    {
+      "match": "R32-5",
+      "team": "Norvège",
+      "player": "Erling Haaland",
+      "type": "goal",
+      "minute": "86"
+    },
+    {
+      "match": "R32-5",
+      "team": "Norvège",
+      "player": "Antonio Nusa",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-6",
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "type": "goal",
+      "minute": "45"
+    },
+    {
+      "match": "R32-6",
+      "team": "France",
+      "player": "Bradley Barcola",
+      "type": "goal",
+      "minute": "53"
+    },
+    {
+      "match": "R32-6",
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "type": "goal",
+      "minute": "74"
+    },
+    {
+      "match": "R32-7",
+      "team": "Mexique",
+      "player": "Julián Quiñones",
+      "type": "goal",
+      "minute": "22"
+    },
+    {
+      "match": "R32-7",
+      "team": "Mexique",
+      "player": "Raúl Jiménez",
+      "type": "goal",
+      "minute": "31"
+    },
+    {
+      "match": "R32-7",
+      "team": "Équateur",
+      "player": "Alan Franco",
+      "type": "yellow",
+      "minute": ""
+    },
+    {
+      "match": "R32-7",
+      "team": "Équateur",
+      "player": "Piero Hincapié",
+      "type": "red",
+      "minute": "90+5",
+      "detail": "Faute grossière"
+    },
+    {
+      "match": "R32-8",
+      "team": "Angleterre",
+      "player": "Jude Bellingham",
+      "type": "goal",
+      "minute": "62"
+    },
+    {
+      "match": "R32-8",
+      "team": "Angleterre",
+      "player": "Harry Kane",
+      "type": "goal",
+      "minute": "67"
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "player": "Kanaanizadegan",
+      "type": "yellow"
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "player": "Ali Nemati",
+      "type": "yellow"
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "player": "Mahmoud Saber",
+      "type": "yellow"
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "player": "Yasser Ibrahim",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "player": "Nathan Saliba",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "player": "Niko Sigur",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Danilo",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "player": "Casemiro",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Kaishu Sano",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Daichi Kamada",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "player": "Junnosuke Suzuki",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "player": "Kai Havertz",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "player": "Jamal Musiala",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "player": "Andrés Cubas",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "player": "Matías Galarza",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-4",
+      "team": "Maroc",
+      "player": "Issa Diop",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-5",
+      "team": "Norvège",
+      "player": "Antonio Nusa",
+      "type": "yellow"
+    },
+    {
+      "match": "R32-7",
+      "team": "Équateur",
+      "player": "Alan Franco",
+      "type": "yellow"
     }
   ],
   "lineups": [
@@ -6678,6 +7698,807 @@
       ],
       "subs": [],
       "coach": "Ronald Koeman"
+    },
+    {
+      "match": "G5",
+      "team": "Égypte",
+      "formation": "4-2-3-1",
+      "raw": "Shobeir; Hany, Rabia, Abdelmonem, Fatouh; Saber, Lasheen; Ashour, Salah, Trézéguet; Ziko",
+      "players": [
+        "Shobeir",
+        "Hany",
+        "Rabia",
+        "Abdelmonem",
+        "Fatouh",
+        "Saber",
+        "Lasheen",
+        "Ashour",
+        "Salah",
+        "Trézéguet",
+        "Ziko"
+      ],
+      "subs": [
+        "Ibrahim",
+        "Marmoush",
+        "Attia",
+        "Zizo",
+        "Abdelkarim"
+      ],
+      "coach": "Hossam Hassan"
+    },
+    {
+      "match": "G5",
+      "team": "Iran",
+      "formation": "5-3-2",
+      "raw": "Beiranvand; Hardani, Kanaanizadegan, Khalilzadeh, Nemati, Mohammadi; Ghoddos, Ezatolahi, Ghorbani; Rezaeian, Taremi",
+      "players": [
+        "Beiranvand",
+        "Hardani",
+        "Kanaanizadegan",
+        "Khalilzadeh",
+        "Nemati",
+        "Mohammadi",
+        "Ghoddos",
+        "Ezatolahi",
+        "Ghorbani",
+        "Rezaeian",
+        "Taremi"
+      ],
+      "subs": [
+        "Saleh Hardani",
+        "Moghanlou",
+        "Jahanbakhsh"
+      ],
+      "coach": "Amir Ghalenoei"
+    },
+    {
+      "match": "G6",
+      "team": "Nouvelle-Zélande",
+      "formation": "4-2-3-1",
+      "raw": "Crocombe; Payne, Surman, Bindon, Cacace; Bell, Stamenić; Singh, Thomas, Just; Wood",
+      "players": [
+        "Crocombe",
+        "Payne",
+        "Surman",
+        "Bindon",
+        "Cacace",
+        "Bell",
+        "Stamenić",
+        "Singh",
+        "Thomas",
+        "Just",
+        "Wood"
+      ],
+      "subs": [
+        "Boxall",
+        "McCowatt",
+        "de Vries",
+        "Randall"
+      ],
+      "coach": "Darren Bazeley"
+    },
+    {
+      "match": "G6",
+      "team": "Belgique",
+      "formation": "4-2-3-1",
+      "raw": "Courtois; Castagne, Mechele, Theate, De Cuyper; Tielemans, Vanaken; Doku, De Bruyne, Trossard; De Ketelaere",
+      "players": [
+        "Courtois",
+        "Castagne",
+        "Mechele",
+        "Theate",
+        "De Cuyper",
+        "Tielemans",
+        "Vanaken",
+        "Doku",
+        "De Bruyne",
+        "Trossard",
+        "De Ketelaere"
+      ],
+      "subs": [
+        "Fernandez-Pardo",
+        "Saelemaekers",
+        "Onana",
+        "Raskin",
+        "Lukaku"
+      ],
+      "coach": "Rudi Garcia"
+    },
+    {
+      "match": "H5",
+      "team": "Cap-Vert",
+      "formation": "4-2-3-1",
+      "raw": "Vozinha; Wagner Pina, Pico, Diney, João Paulo; Pina, Duarte; Monteiro, Mendes, Livramento; Semedo",
+      "players": [
+        "Vozinha",
+        "Wagner Pina",
+        "Pico",
+        "Diney",
+        "João Paulo",
+        "Pina",
+        "Duarte",
+        "Monteiro",
+        "Mendes",
+        "Livramento",
+        "Semedo"
+      ],
+      "subs": [
+        "da Costa",
+        "Varela",
+        "Duarte",
+        "Rodrigues",
+        "Moreira"
+      ],
+      "coach": "Bubista"
+    },
+    {
+      "match": "H5",
+      "team": "Arabie Saoudite",
+      "formation": "5-3-2",
+      "raw": "Al-Owais; Abdulhamid, Al-Amri, Al-Tambakti, Boushal, Mandash; Al-Khaibari, Al-Dawsari, Al-Buraikan; Kanno, Al-Dawsari",
+      "players": [
+        "Al-Owais",
+        "Abdulhamid",
+        "Al-Amri",
+        "Al-Tambakti",
+        "Boushal",
+        "Mandash",
+        "Al-Khaibari",
+        "Al-Dawsari",
+        "Al-Buraikan",
+        "Kanno",
+        "Al-Dawsari"
+      ],
+      "subs": [
+        "Lajami",
+        "Al-Juwayr",
+        "Abu Al-Shamat",
+        "Al-Hamdan",
+        "Al-Harbi"
+      ],
+      "coach": "Georgios Donis"
+    },
+    {
+      "match": "H6",
+      "team": "Uruguay",
+      "formation": "4-2-3-1",
+      "raw": "Muslera; Varela, Cáceres, Olivera, Sanabria; Ugarte, Bentancur; Valverde, Canobbio, Núñez; Araújo",
+      "players": [
+        "Muslera",
+        "Varela",
+        "Cáceres",
+        "Olivera",
+        "Sanabria",
+        "Ugarte",
+        "Bentancur",
+        "Valverde",
+        "Canobbio",
+        "Núñez",
+        "Araújo"
+      ],
+      "subs": [
+        "Rochet",
+        "Viñas",
+        "de la Cruz",
+        "Rodríguez"
+      ],
+      "coach": "Marcelo Bielsa"
+    },
+    {
+      "match": "H6",
+      "team": "Espagne",
+      "formation": "4-3-3",
+      "raw": "Simón; Llorente, Cubarsí, Laporte, Cucurella; Rodri, Merino, Pedri; Yamal, Oyarzabal, Baena",
+      "players": [
+        "Simón",
+        "Llorente",
+        "Cubarsí",
+        "Laporte",
+        "Cucurella",
+        "Rodri",
+        "Merino",
+        "Pedri",
+        "Yamal",
+        "Oyarzabal",
+        "Baena"
+      ],
+      "subs": [
+        "Olmo",
+        "Fabián Ruiz",
+        "Pino",
+        "Nico Williams",
+        "Torres"
+      ],
+      "coach": "Luis de la Fuente"
+    },
+    {
+      "match": "I5",
+      "team": "Norvège",
+      "formation": "4-3-3",
+      "raw": "Selvik; Aursnes, Falchener, Østigård, Bjørkan; Berg, Thorstvedt, Aasgaard; Bobb, Strand Larsen, Schjelderup",
+      "players": [
+        "Selvik",
+        "Aursnes",
+        "Falchener",
+        "Østigård",
+        "Bjørkan",
+        "Berg",
+        "Thorstvedt",
+        "Aasgaard",
+        "Bobb",
+        "Strand Larsen",
+        "Schjelderup"
+      ],
+      "subs": [
+        "Thorsby",
+        "Holmgren Pedersen",
+        "Langås",
+        "Hauge",
+        "Nusa"
+      ],
+      "coach": "Ståle Solbakken"
+    },
+    {
+      "match": "I5",
+      "team": "France",
+      "formation": "4-2-3-1",
+      "raw": "Maignan; Koundé, Upamecano, Lacroix, Théo Hernandez; Tchouaméni, Koné; Dembélé, Olise, Doué; Mbappé",
+      "players": [
+        "Maignan",
+        "Koundé",
+        "Upamecano",
+        "Lacroix",
+        "Théo Hernandez",
+        "Tchouaméni",
+        "Koné",
+        "Dembélé",
+        "Olise",
+        "Doué",
+        "Mbappé"
+      ],
+      "subs": [
+        "Barcola",
+        "Cherki",
+        "Konaté",
+        "Mateta",
+        "Gusto"
+      ],
+      "coach": "Guy Stéphan"
+    },
+    {
+      "match": "I6",
+      "team": "Sénégal",
+      "formation": "4-2-3-1",
+      "raw": "Mory Diaw; Diatta, Seck, Niakhaté, Jakobs; Gueye, Habib Diarra; Lamine Camara, Ibrahim Mbaye, Sarr; Mané",
+      "players": [
+        "Mory Diaw",
+        "Diatta",
+        "Seck",
+        "Niakhaté",
+        "Jakobs",
+        "Gueye",
+        "Habib Diarra",
+        "Lamine Camara",
+        "Ibrahim Mbaye",
+        "Sarr",
+        "Mané"
+      ],
+      "subs": [
+        "Jackson",
+        "Ndiaye",
+        "Pape Gueye",
+        "Pathé Ciss",
+        "Assane Diao"
+      ],
+      "coach": "Pape Thiaw"
+    },
+    {
+      "match": "I6",
+      "team": "Irak",
+      "formation": "4-3-3",
+      "raw": "Ahmed Basil; Frans Putros, Rebin Sulaka, Akam Hashim, Merchas Doski; Ahmed Qasem, Zidane Iqbal, Amir Al-Ammari; Ibrahim Bayesh, Ali Al-Hamadi, Ali Jasim",
+      "players": [
+        "Ahmed Basil",
+        "Frans Putros",
+        "Rebin Sulaka",
+        "Akam Hashim",
+        "Merchas Doski",
+        "Ahmed Qasem",
+        "Zidane Iqbal",
+        "Amir Al-Ammari",
+        "Ibrahim Bayesh",
+        "Ali Al-Hamadi",
+        "Ali Jasim"
+      ],
+      "subs": [
+        "Jalal Hassan",
+        "Manaf Younis",
+        "Ahmed Maknzi",
+        "Ali Yousif",
+        "Kevin Yakob"
+      ],
+      "coach": "Graham Arnold"
+    },
+    {
+      "match": "J5",
+      "team": "Algérie",
+      "formation": "4-2-3-1",
+      "raw": "Benbot; Belghali, Mandi, Bensebaini, Hadjam; Chaïbi, Bentaleb; Mahrez, Maza, Aouar; Gouiri",
+      "players": [
+        "Benbot",
+        "Belghali",
+        "Mandi",
+        "Bensebaini",
+        "Hadjam",
+        "Chaïbi",
+        "Bentaleb",
+        "Mahrez",
+        "Maza",
+        "Aouar",
+        "Gouiri"
+      ],
+      "subs": [
+        "Belaïd",
+        "Aït-Nouri",
+        "Chergui",
+        "Ghedjemis"
+      ],
+      "coach": "Vladimir Petković"
+    },
+    {
+      "match": "J5",
+      "team": "Autriche",
+      "formation": "4-2-3-1",
+      "raw": "Schlager; Posch, Lienhart, Alaba, Mwene; Seiwald, X. Schlager; Laimer, Schmid, Sabitzer; Arnautović",
+      "players": [
+        "Schlager",
+        "Posch",
+        "Lienhart",
+        "Alaba",
+        "Mwene",
+        "Seiwald",
+        "X. Schlager",
+        "Laimer",
+        "Schmid",
+        "Sabitzer",
+        "Arnautović"
+      ],
+      "subs": [
+        "Gregoritsch",
+        "Grillitsch",
+        "Wanner",
+        "Danso",
+        "Kalajdžić"
+      ],
+      "coach": "Ralf Rangnick"
+    },
+    {
+      "match": "J6",
+      "team": "Jordanie",
+      "formation": "3-4-2-1",
+      "raw": "Abulaila; Nasib, Al-Arab, Abu Dahab; Haddad, Al-Rashdan, Al-Rawabdeh, Abu Taha; Azaizeh, Al-Fakhouri; Olwan",
+      "players": [
+        "Abulaila",
+        "Nasib",
+        "Al-Arab",
+        "Abu Dahab",
+        "Haddad",
+        "Al-Rashdan",
+        "Al-Rawabdeh",
+        "Abu Taha",
+        "Azaizeh",
+        "Al-Fakhouri",
+        "Olwan"
+      ],
+      "subs": [
+        "Al-Mardi",
+        "Al-Taamari",
+        "Jamous",
+        "Obaid",
+        "Abu Zrayq"
+      ],
+      "coach": "Jamal Sellami"
+    },
+    {
+      "match": "J6",
+      "team": "Argentine",
+      "formation": "4-3-3",
+      "raw": "Martínez; Palacios, Otamendi, Senesi, Tagliafico; Paredes, Paz, Lo Celso; Simeone, Martínez, Álvarez",
+      "players": [
+        "Martínez",
+        "Palacios",
+        "Otamendi",
+        "Senesi",
+        "Tagliafico",
+        "Paredes",
+        "Paz",
+        "Lo Celso",
+        "Simeone",
+        "Martínez",
+        "Álvarez"
+      ],
+      "subs": [
+        "Almada",
+        "Messi",
+        "Mac Allister",
+        "Barco",
+        "López"
+      ],
+      "coach": "Lionel Scaloni"
+    },
+    {
+      "match": "R32-1",
+      "team": "Afrique du Sud",
+      "formation": "4-2-3-1",
+      "raw": "Williams; Mudau, Mbokazi, Okon, Modiba; Mokoena, Sithole; Appollis, Mofokeng, Maseko; Makgopa",
+      "players": [
+        "Williams",
+        "Mudau",
+        "Mbokazi",
+        "Okon",
+        "Modiba",
+        "Mokoena",
+        "Sithole",
+        "Appollis",
+        "Mofokeng",
+        "Maseko",
+        "Makgopa"
+      ],
+      "subs": [
+        "Mbatha",
+        "Moremi",
+        "Rayners"
+      ],
+      "coach": "Hugo Broos"
+    },
+    {
+      "match": "R32-1",
+      "team": "Canada",
+      "formation": "4-4-2",
+      "raw": "Crépeau; Laryea, Cornelius, Bombito, Johnston; Eustáquio, Saliba, Millar, Buchanan; Oluwaseyi, David",
+      "players": [
+        "Crépeau",
+        "Laryea",
+        "Cornelius",
+        "Bombito",
+        "Johnston",
+        "Eustáquio",
+        "Saliba",
+        "Millar",
+        "Buchanan",
+        "Oluwaseyi",
+        "David"
+      ],
+      "subs": [
+        "De Fougerolles",
+        "Sigur",
+        "Promise David",
+        "Shaffelburg",
+        "Davies"
+      ],
+      "coach": "Jesse Marsch"
+    },
+    {
+      "match": "R32-2",
+      "team": "Brésil",
+      "formation": "4-3-3",
+      "raw": "Alisson; Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos; Casemiro, Bruno Guimarães, Paquetá; Rayan, Cunha, Vinícius Jr.",
+      "players": [
+        "Alisson",
+        "Danilo",
+        "Marquinhos",
+        "Gabriel Magalhães",
+        "Douglas Santos",
+        "Casemiro",
+        "Bruno Guimarães",
+        "Paquetá",
+        "Rayan",
+        "Cunha",
+        "Vinícius Jr."
+      ],
+      "subs": [
+        "Endrick",
+        "Martinelli",
+        "Fabinho",
+        "Danilo Santos"
+      ],
+      "coach": "Carlo Ancelotti"
+    },
+    {
+      "match": "R32-2",
+      "team": "Japon",
+      "formation": "4-4-2",
+      "raw": "Z. Suzuki; H. Itō, Tomiyasu, Taniguchi, Sugawara; Dōan, Sano, Kamada, Nakamura; Maeda, Ueda",
+      "players": [
+        "Z. Suzuki",
+        "H. Itō",
+        "Tomiyasu",
+        "Taniguchi",
+        "Sugawara",
+        "Dōan",
+        "Sano",
+        "Kamada",
+        "Nakamura",
+        "Maeda",
+        "Ueda"
+      ],
+      "subs": [
+        "J. Suzuki",
+        "Ao Tanaka",
+        "Machino",
+        "Ogawa"
+      ],
+      "coach": "Hajime Moriyasu"
+    },
+    {
+      "match": "R32-3",
+      "team": "Allemagne",
+      "formation": "4-4-2",
+      "raw": "Neuer; Brown, Tah, Rüdiger, Kimmich; Sané, Pavlovic, Nmecha, Wirtz; Undav, Havertz",
+      "players": [
+        "Neuer",
+        "Brown",
+        "Tah",
+        "Rüdiger",
+        "Kimmich",
+        "Sané",
+        "Pavlovic",
+        "Nmecha",
+        "Wirtz",
+        "Undav",
+        "Havertz"
+      ],
+      "subs": [
+        "Goretzka",
+        "Musiala",
+        "Anton",
+        "Woltemade",
+        "Amiri",
+        "Thiaw"
+      ],
+      "coach": "Julian Nagelsmann"
+    },
+    {
+      "match": "R32-3",
+      "team": "Paraguay",
+      "formation": "4-4-2",
+      "raw": "Gill; Cáceres, Gómez, Canale, Alonso; Almirón, Bobadilla, Cubas, Galarza; Ávalos, Enciso",
+      "players": [
+        "Gill",
+        "Cáceres",
+        "Gómez",
+        "Canale",
+        "Alonso",
+        "Almirón",
+        "Bobadilla",
+        "Cubas",
+        "Galarza",
+        "Ávalos",
+        "Enciso"
+      ],
+      "subs": [
+        "Caballero",
+        "Maurício",
+        "Velázquez",
+        "Ojeda",
+        "Sanabria",
+        "Balbuena"
+      ],
+      "coach": "Gustavo Alfaro"
+    },
+    {
+      "match": "R32-4",
+      "team": "Pays-Bas",
+      "formation": "4-2-3-1",
+      "raw": "Verbruggen; Dumfries, Van Hecke, Van Dijk, Aké; Gravenberch, De Jong; Van de Ven, Summerville, Gakpo; Brobbey",
+      "players": [
+        "Verbruggen",
+        "Dumfries",
+        "Van Hecke",
+        "Van Dijk",
+        "Aké",
+        "Gravenberch",
+        "De Jong",
+        "Van de Ven",
+        "Summerville",
+        "Gakpo",
+        "Brobbey"
+      ],
+      "subs": [
+        "Weghorst",
+        "Memphis Depay",
+        "de Roon",
+        "Kluivert",
+        "Koopmeiners",
+        "Timber"
+      ],
+      "coach": "Ronald Koeman"
+    },
+    {
+      "match": "R32-4",
+      "team": "Maroc",
+      "formation": "4-2-3-1",
+      "raw": "Bounou; Hakimi, Diop, Riad, Mazraoui; El Aynaoui, Bouaddi; Díaz, Ounahi, El Khannouss; Saibari",
+      "players": [
+        "Bounou",
+        "Hakimi",
+        "Diop",
+        "Riad",
+        "Mazraoui",
+        "El Aynaoui",
+        "Bouaddi",
+        "Díaz",
+        "Ounahi",
+        "El Khannouss",
+        "Saibari"
+      ],
+      "subs": [
+        "Rahimi",
+        "Talbi",
+        "Salah-Eddine",
+        "El Mourabet",
+        "Amrabat"
+      ],
+      "coach": "Mohamed Ouahbi"
+    },
+    {
+      "match": "R32-5",
+      "team": "Côte d'Ivoire",
+      "formation": "4-1-4-1",
+      "raw": "Fofana; Doué, Kossounou, Agbadou, Konan; Sangaré; Pépé, Kessié, Inao Oulaï, Y. Diomandé; Bonny",
+      "players": [
+        "Fofana",
+        "Doué",
+        "Kossounou",
+        "Agbadou",
+        "Konan",
+        "Sangaré",
+        "Pépé",
+        "Kessié",
+        "Inao Oulaï",
+        "Y. Diomandé",
+        "Bonny"
+      ],
+      "subs": [
+        "Amad Diallo",
+        "Elye Wahi",
+        "Diakité",
+        "Guessand",
+        "Touré"
+      ],
+      "coach": "Emerse Faé"
+    },
+    {
+      "match": "R32-5",
+      "team": "Norvège",
+      "formation": "4-3-3",
+      "raw": "Nyland; Holmgren Pedersen, Ajer, Heggem, Møller Wolfe; Ødegaard, Berge, Berg; Sørloth, Haaland, Nusa",
+      "players": [
+        "Nyland",
+        "Holmgren Pedersen",
+        "Ajer",
+        "Heggem",
+        "Møller Wolfe",
+        "Ødegaard",
+        "Berge",
+        "Berg",
+        "Sørloth",
+        "Haaland",
+        "Nusa"
+      ],
+      "subs": [
+        "Schjelderup",
+        "Oscar Bobb",
+        "Aursnes"
+      ],
+      "coach": "Ståle Solbakken"
+    },
+    {
+      "match": "R32-6",
+      "team": "France",
+      "formation": "4-2-3-1",
+      "raw": "Maignan; Koundé, Upamecano, Saliba, Digne; Tchouaméni, Rabiot; Dembélé, Olise, Barcola; Mbappé",
+      "players": [
+        "Maignan",
+        "Koundé",
+        "Upamecano",
+        "Saliba",
+        "Digne",
+        "Tchouaméni",
+        "Rabiot",
+        "Dembélé",
+        "Olise",
+        "Barcola",
+        "Mbappé"
+      ],
+      "subs": [
+        "Doué",
+        "Gusto",
+        "Théo Hernandez",
+        "Mateta",
+        "Cherki"
+      ],
+      "coach": "Didier Deschamps"
+    },
+    {
+      "match": "R32-6",
+      "team": "Suède",
+      "formation": "4-3-3",
+      "raw": "Zetterström; Svensson, Lagerbielke, Lindelöf, Gudmundsson; Bergvall, Ayari, Stroud; Elanga, Gyökeres, Isak",
+      "players": [
+        "Zetterström",
+        "Svensson",
+        "Lagerbielke",
+        "Lindelöf",
+        "Gudmundsson",
+        "Bergvall",
+        "Ayari",
+        "Stroud",
+        "Elanga",
+        "Gyökeres",
+        "Isak"
+      ],
+      "subs": [
+        "Taha Ali",
+        "Zeneli",
+        "Nygren",
+        "Svanberg",
+        "Gustaf Nilsson"
+      ],
+      "coach": "Graham Potter"
+    },
+    {
+      "match": "R32-7",
+      "team": "Mexique",
+      "formation": "4-3-3",
+      "raw": "Rangel; Sánchez, Montes, Vásquez, Gallardo; Lira, Romo, Mora; Alvarado, Jiménez, Quiñones",
+      "players": [
+        "Rangel",
+        "Sánchez",
+        "Montes",
+        "Vásquez",
+        "Gallardo",
+        "Lira",
+        "Romo",
+        "Mora",
+        "Alvarado",
+        "Jiménez",
+        "Quiñones"
+      ],
+      "subs": [
+        "Brian Gutiérrez",
+        "Obed Vargas",
+        "Santiago Giménez",
+        "Israel Reyes",
+        "Orbelín Pineda"
+      ],
+      "coach": "Javier Aguirre"
+    },
+    {
+      "match": "R32-7",
+      "team": "Équateur",
+      "formation": "4-4-2",
+      "raw": "Galíndez; Franco, Ordóñez, Pacho, Hincapié; Yeboah, Caicedo, Vite, Angulo; Plata, Valencia",
+      "players": [
+        "Galíndez",
+        "Franco",
+        "Ordóñez",
+        "Pacho",
+        "Hincapié",
+        "Yeboah",
+        "Caicedo",
+        "Vite",
+        "Angulo",
+        "Plata",
+        "Valencia"
+      ],
+      "subs": [
+        "Medina",
+        "Preciado",
+        "Kevin Rodríguez",
+        "Kendry Páez"
+      ],
+      "coach": "Sebastián Beccacece"
     }
   ],
   "injuries": [
@@ -6722,10 +8543,10 @@
     {
       "team": "Brésil",
       "player": "Neymar",
-      "status": "doubtful",
-      "severity": "moderate",
-      "type": "calf strain (lésion mollet)",
-      "note": "Touché au mollet, écarté jusqu'à ~3 semaines selon le staff médical; incertain pour la fin de la phase de groupes."
+      "status": "returning",
+      "type": "Contracture mollet",
+      "severity": "minor",
+      "note": "Entrée en jeu en phase de groupes. Avec Paquetá forfait, devrait titulariser contre la Norvège."
     },
     {
       "team": "Maroc",
@@ -6808,9 +8629,9 @@
       "team": "Pays-Bas",
       "player": "Jurriën Timber",
       "status": "out",
-      "type": "Groin strain",
+      "type": "Déchirure inguinale",
       "severity": "moderate",
-      "note": "Déclaré inapte quelques jours avant le début du tournoi."
+      "note": "KNVB : 'pas suffisamment rétabli'. Pays-Bas éliminés aux tirs au but vs Maroc."
     },
     {
       "team": "Pays-Bas",
@@ -6880,9 +8701,9 @@
       "team": "Argentine",
       "player": "Cristian Romero",
       "status": "doubtful",
-      "type": "Right knee (aggravation)",
+      "type": "LLI partiellement déchiré (genou)",
       "severity": "moderate",
-      "note": "Sorti à la 57e contre l'Autriche après aggravation d'un problème au genou droit. Scaloni signale qu'il ne sera pas risqué en dernier match de groupe (vs Jordan). Retour probable en huitièmes si l'inflammation se résout en 3-4 jours selon le joueur lui-même."
+      "note": "Incident mi-avril. Mis au repos lors du match sans enjeu en groupe. En récupération avant les huitièmes."
     },
     {
       "team": "Argentine",
@@ -6927,10 +8748,10 @@
     {
       "team": "Angleterre",
       "player": "Reece James",
-      "status": "returning",
+      "status": "out",
+      "type": "Ischio-jambiers",
       "severity": "minor",
-      "type": "ischio-jambiers",
-      "note": "NOUVEAU : récemment de retour, apte ; léger doute levé."
+      "note": "Absent contre la RD Congo (1er juillet). Djed Spence en remplacement en latéral droit."
     },
     {
       "team": "Croatie",
@@ -7024,9 +8845,9 @@
       "team": "Allemagne",
       "player": "Nico Schlotterbeck",
       "status": "out",
-      "type": "Torn medial ligament (left ankle)",
+      "type": "Ligament latéral interne (cheville)",
       "severity": "severe",
-      "note": "Blessé contre la Côte d'Ivoire en phase de groupes, MRI confirme ligament médial déchiré. Absent plusieurs mois. Remplacé par Rüdiger/Tah en défense centrale."
+      "note": "LLI déchiré ; plusieurs mois de rééducation. Allemagne éliminée par le Paraguay aux tirs au but."
     },
     {
       "team": "France",
@@ -7035,6 +8856,102 @@
       "type": "Back injury",
       "severity": "minor",
       "note": "Deschamps confirme qu'il est apte à jouer. Déclaré disponible pour le tournoi."
+    },
+    {
+      "team": "Brésil",
+      "player": "Lucas Paquetá",
+      "status": "out",
+      "type": "Déchirure grade 2 ischio-jambiers (cuisse gauche)",
+      "severity": "moderate",
+      "note": "Sorti à la mi-temps contre le Japon (huitièmes). IRM confirmée ; minimum 1 mois de récupération. Absent pour la suite du tournoi."
+    },
+    {
+      "team": "Brésil",
+      "player": "Raphinha",
+      "status": "doubtful",
+      "type": "Déchirure biceps fémoral (ischio-jambiers droits)",
+      "severity": "moderate",
+      "note": "Blessé lors de la phase de groupes. Retour à l'entraînement en baskets puis en crampons. Retour au mieux pour le huitième de finale le 5 juillet. Surveillance quotidienne."
+    },
+    {
+      "team": "Angleterre",
+      "player": "Jarell Quansah",
+      "status": "out",
+      "type": "Cheville (entorse vs Panama)",
+      "severity": "minor",
+      "note": "Forfait pour le huitième vs RD Congo."
+    },
+    {
+      "team": "Angleterre",
+      "player": "Declan Rice",
+      "status": "returning",
+      "type": "Dos/nerf ischio-jambiers",
+      "severity": "minor",
+      "note": "Mis au repos vs Panama par précaution. Retour à l'entraînement complet. Apte pour le match du 1er juillet."
+    },
+    {
+      "team": "Espagne",
+      "player": "Nico Williams",
+      "status": "doubtful",
+      "type": "Aine",
+      "severity": "moderate",
+      "note": "Rechute lors du dernier match de groupe vs Uruguay. Pourrait manquer le reste du tournoi."
+    },
+    {
+      "team": "Espagne",
+      "player": "Yeremy Pino",
+      "status": "out",
+      "type": "Entorse acromio-claviculaire (clavicule)",
+      "severity": "moderate",
+      "note": "Blessé lors de la finale de groupe vs Uruguay. Pourrait manquer le reste du tournoi."
+    },
+    {
+      "team": "Égypte",
+      "player": "Mohamed Salah",
+      "status": "doubtful",
+      "type": "Genou",
+      "severity": "minor",
+      "note": "Problème au genou en phase de groupes. Retour à l'entraînement. Incertain pour le huitième vs Mexique."
+    },
+    {
+      "team": "Sénégal",
+      "player": "Edouard Mendy",
+      "status": "out",
+      "type": "Genou",
+      "severity": "moderate",
+      "note": "Blessé en phase de groupes. Mory Diaw devrait titulariser en but vs Belgique (1er juillet)."
+    },
+    {
+      "team": "États-Unis",
+      "player": "Christian Pulisic",
+      "status": "returning",
+      "type": "Contracture mollet gauche",
+      "severity": "minor",
+      "note": "Absent pour la majeure partie de la phase de groupes. Confirmé apte et prêt à titulariser vs Bosnie-Herzégovine."
+    },
+    {
+      "team": "États-Unis",
+      "player": "Auston Trusty",
+      "status": "doubtful",
+      "type": "Cheville",
+      "severity": "minor",
+      "note": "Entorse vs Turquie en fin de match. Retour à l'entraînement. Pochettino : pourrait entrer en jeu vs Bosnie."
+    },
+    {
+      "team": "États-Unis",
+      "player": "Mark McKenzie",
+      "status": "doubtful",
+      "type": "Irritation du pied",
+      "severity": "minor",
+      "note": "Pochettino : 'ce sera difficile' d'être prêt vs Bosnie."
+    },
+    {
+      "team": "États-Unis",
+      "player": "Cristian Roldan",
+      "status": "doubtful",
+      "type": "Contracture musculaire",
+      "severity": "minor",
+      "note": "Difficile d'être prêt pour le huitième selon Pochettino."
     }
   ],
   "form_notes": [
@@ -7064,11 +8981,6 @@
       "trend": "up"
     },
     {
-      "team": "Sénégal",
-      "note": "Défaite 1-3 vs France malgré le but d'Ibrahim Mbaye ; doit se relancer vs Norvège (22/06).",
-      "trend": "down"
-    },
-    {
       "team": "Pays-Bas",
       "trend": "up",
       "note": "5-1 vs Suède malgré une cascade de blessures défensives."
@@ -7089,11 +9001,6 @@
       "note": "Lourde défaite 1-4 vs Suisse; doit l'emporter vs Qatar pour espérer."
     },
     {
-      "team": "Belgique",
-      "trend": "stable",
-      "note": "Nul 1-1 vs Iran, rendement décevant."
-    },
-    {
       "team": "Uruguay",
       "trend": "stable",
       "note": "Nul 2-2 vs Cap-Vert, dynamique en demi-teinte."
@@ -7109,33 +9016,8 @@
       "trend": "up"
     },
     {
-      "team": "Norvège",
-      "note": "Progression nette : victoire 4-1 vs Irak, puis 3-2 vs Sénégal. Déjà qualifiés. Défense poreuse (concédé dans les 2 matchs) mais attaque létale grâce à Haaland.",
-      "trend": "up"
-    },
-    {
       "team": "Allemagne",
       "note": "7-1 vs Curaçao puis 2-1 vs Côte d'Ivoire, mais perd Schlotterbeck sur blessure. Défense fragilisée en vue des huitièmes. Attaque prolifique, défense sous pression.",
-      "trend": "stable"
-    },
-    {
-      "team": "Brésil",
-      "note": "Premiers du groupe C (7 pts), victoire 3-0 vs Écosse. Manque de profondeur en attaque sans Rodrygo et Estêvão.",
-      "trend": "up"
-    },
-    {
-      "team": "États-Unis",
-      "note": "4-1 vs Paraguay, victoire solide. Milieu Tillman-McKennie-Adams dominant dans le pressing. Dernier match de groupe le 26 juin vs Turquie.",
-      "trend": "up"
-    },
-    {
-      "team": "Angleterre",
-      "note": "Victoire 4-2 vs Croatie puis nul 0-0 vs Ghana. Prestation décevante contre le Ghana, très peu de créativité offensive. Risque de chute si Panama surprend.",
-      "trend": "down"
-    },
-    {
-      "team": "Espagne",
-      "note": "Qualifiés, performance solide malgré les absences de Fermín López. Lamine Yamal disponible pour le tournoi.",
       "trend": "stable"
     },
     {
@@ -7144,19 +9026,64 @@
       "trend": "up"
     },
     {
-      "team": "Mexique",
-      "note": "Premiers du groupe A, 2-0 vs Afrique du Sud puis 1-0 vs Corée du Sud. Victoires laborieuses mais sans prendre de buts.",
-      "trend": "stable"
-    },
-    {
-      "team": "Canada",
-      "note": "Qualification historique pour la phase à élimination directe. Victoire écrasante 6-0 vs Qatar après nul vs Bosnie-Herzégovine. Inquiétude sur la forme de Davies.",
-      "trend": "up"
-    },
-    {
       "team": "Suisse",
       "note": "Invaincus en groupe B (7 pts). Victoire 2-1 vs Canada. Réguliers et difficiles à battre.",
       "trend": "stable"
+    },
+    {
+      "team": "Brésil",
+      "note": "Vainqueur du groupe mais touché par une crise de blessures (Paquetá forfait, Raphinha douteux, Estêvão/Rodrygo/Militão absents avant le tournoi). Victoire poussive 2-1 vs Japon en R32. Profondeur de banc sévèrement testée avant le huitième vs Norvège.",
+      "trend": "down"
+    },
+    {
+      "team": "Angleterre",
+      "note": "Vainqueur du groupe L, victoire 2-0 vs Panama. Trois clean sheets en phase de groupes. Bonne solidité défensive mais crise au poste de latéral droit avec James et Quansah absents.",
+      "trend": "stable"
+    },
+    {
+      "team": "Belgique",
+      "note": "Vainqueur du groupe G malgré un jeu décrit comme 'défaillant'. Trossard meilleur buteur belge (2 buts). Groupe en bonne santé.",
+      "trend": "stable"
+    },
+    {
+      "team": "Sénégal",
+      "note": "Qualifié parmi les meilleurs troisièmes après une phase de groupes compétitive. Perd son gardien titulaire Mendy — coup dur. Dangereux offensivement.",
+      "trend": "down"
+    },
+    {
+      "team": "États-Unis",
+      "note": "Vainqueur du groupe D. Pulisic ménagé en phase de groupes ; désormais apte et prêt à jouer vs Bosnie. Avantage du terrain à Santa Clara.",
+      "trend": "up"
+    },
+    {
+      "team": "Espagne",
+      "note": "Perd Williams et Pino en finale de groupe vs Uruguay — double coup dur sur les ailes. Lamine Yamal en forme et en pleine confiance. L'Espagne devra adapter son système.",
+      "trend": "down"
+    },
+    {
+      "team": "Maroc",
+      "note": "Exploit : élimine les Pays-Bas 3-2 aux tirs au but (après 1-1) en R32. Portés par une immense confiance pour le huitième.",
+      "trend": "up"
+    },
+    {
+      "team": "Norvège",
+      "note": "Victoire 2-1 vs Côte d'Ivoire le 30 juin pour se qualifier en huitième. Affrontera le Brésil — défi immense, mais timing parfait vu la crise de blessures brésilienne.",
+      "trend": "up"
+    },
+    {
+      "team": "Paraguay",
+      "note": "Élimine l'Allemagne 4-3 aux tirs au but après 1-1 en R32 (29 juin). L'histoire Cendrillon du tournoi jusqu'à présent.",
+      "trend": "up"
+    },
+    {
+      "team": "Canada",
+      "note": "Victoire 1-0 vs Afrique du Sud en R32 (28 juin). Alphonso Davies de retour en cours de match — élan et dynamique.",
+      "trend": "up"
+    },
+    {
+      "team": "Mexique",
+      "note": "Premier du groupe A. Victoire 2-0 vs Équateur le 1er juillet. Affronte l'Égypte en huitième à Mexico — quasiment à domicile.",
+      "trend": "up"
     }
   ],
   "player_form": [
@@ -7164,12 +9091,6 @@
       "team": "Cap-Vert",
       "player": "Vozinha",
       "note": "Gardien de 40 ans exceptionnel, clean sheet vs Espagne.",
-      "trend": "up"
-    },
-    {
-      "team": "Belgique",
-      "player": "Romelu Lukaku",
-      "note": "Entré en jeu, a provoqué le CSC égalisateur en 22 secondes.",
       "trend": "up"
     },
     {
@@ -7203,42 +9124,6 @@
       "note": "Pièce maîtresse offensive néerlandaise, en grande forme."
     },
     {
-      "team": "Allemagne",
-      "player": "Florian Wirtz",
-      "trend": "up",
-      "note": "Très influent dans l'animation offensive allemande."
-    },
-    {
-      "team": "Allemagne",
-      "player": "Jamal Musiala",
-      "trend": "up",
-      "note": "Performant, créateur clé."
-    },
-    {
-      "team": "Argentine",
-      "player": "Lionel Messi",
-      "note": "5 buts en 2 matchs (hat-trick vs Algérie à 38 ans + doublé vs Autriche). Record historique de buteurs en Coupe du Monde (18 buts, seul au sommet devant Klose). Forme exceptionnelle malgré les inquiétudes physiques pré-tournoi.",
-      "trend": "up"
-    },
-    {
-      "team": "Norvège",
-      "player": "Erling Haaland",
-      "note": "4 buts en 2 matchs (doublé vs Irak, doublé vs Sénégal). Deuxième joueur des 50 dernières années à scorer deux fois lors de ses deux premiers matchs de Mondial. 59 buts en 52 sélections. Duel vs Mbappe le 26 juin très attendu.",
-      "trend": "up"
-    },
-    {
-      "team": "France",
-      "player": "Kylian Mbappé",
-      "note": "4 buts en 2 matchs. 100e sélection fêtée avec un doublé vs Irak. Totalise 16 buts en Coupe du Monde, égalant Klose avant que Messi ne le dépasse. Duel face à Haaland le 26 juin.",
-      "trend": "up"
-    },
-    {
-      "team": "France",
-      "player": "Michael Olise",
-      "note": "Forme Club-Sélection continue (forme à Bayern Munich transposée). 1 passe décisive, 4 occasions créées en phase de groupes.",
-      "trend": "up"
-    },
-    {
       "team": "États-Unis",
       "player": "Folarin Balogun",
       "note": "2 buts contre le Paraguay. Transposition de sa forme en club (19 buts + 4 passes décisives à Monaco). Élément clé de l'attaque américaine.",
@@ -7251,23 +9136,79 @@
       "trend": "up"
     },
     {
-      "team": "Angleterre",
-      "player": "Jude Bellingham",
-      "note": "Performance décevante contre le Ghana (0-0). Angleterre en manque de créativité offensive collectivement.",
-      "trend": "down"
-    }
-  ],
-  "engagement_notes": [
+      "team": "Argentine",
+      "player": "Lionel Messi",
+      "trend": "up",
+      "note": "Meilleur buteur du tournoi avec 6 buts. Forme dominante malgré les inquiétudes pré-tournoi. Garde le meilleur pour le Mondial."
+    },
     {
-      "team": "Espagne",
-      "note": "Pression accrue après le 0-0 d'entrée : doit impérativement battre l'Arabie Saoudite (21/06) pour ne pas se mettre en danger dans le groupe H.",
-      "trend": "down"
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "trend": "up",
+      "note": "Co-meilleur buteur avec 6 buts. Dévastateur ; la France semble inarrêtable quand il est en feu."
+    },
+    {
+      "team": "Norvège",
+      "player": "Erling Haaland",
+      "trend": "up",
+      "note": "5 buts dans le tournoi — propulse la Norvège loin dans les phases éliminatoires pour la première fois depuis des décennies."
+    },
+    {
+      "team": "France",
+      "player": "Ousmane Dembélé",
+      "trend": "up",
+      "note": "4 buts ; association brillante avec Mbappé. L'attaque française tourne à plein régime."
+    },
+    {
+      "team": "Brésil",
+      "player": "Vinícius Júnior",
+      "trend": "up",
+      "note": "4 buts ; principale menace offensive brésilienne. Encore plus décisif avec les blessures de Paquetá et Raphinha."
+    },
+    {
+      "team": "Angleterre",
+      "player": "Michael Olise",
+      "trend": "up",
+      "note": "3 buts et 5 passes décisives — leader du tournoi dans cette catégorie. S'impose comme le joueur le plus créatif de l'Angleterre."
+    },
+    {
+      "team": "Maroc",
+      "player": "Achraf Hakimi",
+      "trend": "up",
+      "note": "Leader du tournoi en occasions créées (15). Force offensive et défensive — clé dans l'exploit marocain contre les Pays-Bas."
+    },
+    {
+      "team": "Allemagne",
+      "player": "Florian Wirtz",
+      "trend": "stable",
+      "note": "3 passes décisives en phase de groupes. Allemagne éliminée en R32 par le Paraguay aux tirs au but."
+    },
+    {
+      "team": "Allemagne",
+      "player": "Jamal Musiala",
+      "trend": "stable",
+      "note": "Leader du tournoi en dribbles réussis (15). N'a pu empêcher l'élimination de l'Allemagne."
     },
     {
       "team": "Belgique",
-      "note": "Enjeu fort : 1 seul point en 2 matchs nuls (avec Égypte), doit se reprendre vs Iran (21/06) dans un groupe G très serré (4 nuls).",
-      "trend": "down"
+      "player": "Leandro Trossard",
+      "trend": "up",
+      "note": "Meilleur buteur belge avec 2 buts et 13 occasions créées. Homme clé pour la Belgique vs Sénégal."
     },
+    {
+      "team": "Angleterre",
+      "player": "Declan Rice",
+      "trend": "stable",
+      "note": "Blessure gérée avec précaution en phase de groupes. Confirmé apte pour le R32 vs Congo. L'Angleterre a besoin de lui à 100 %."
+    },
+    {
+      "team": "Corée du Sud",
+      "player": "Son Heung-min",
+      "trend": "down",
+      "note": "Corée du Sud éliminée en phase de groupes. Son a déclaré être 'indescriptiblement blessé' par cette sortie prématurée."
+    }
+  ],
+  "engagement_notes": [
     {
       "team": "Groupe G",
       "note": "Parité totale : 4 équipes (Belgique, Égypte, Iran, NZ) avec 1 point chacune après J1 ; tout reste à jouer.",
@@ -7284,16 +9225,6 @@
       "trend": "stable"
     },
     {
-      "team": "Mexique",
-      "trend": "stable",
-      "note": "Déjà qualifiée pour les 8es; turnover probable lors du dernier match de groupe (24/06)."
-    },
-    {
-      "team": "Sénégal",
-      "trend": "stable",
-      "note": "Norvège-Sénégal (22/06, Groupe I): match décisif pour la 2e place après la défaite vs France."
-    },
-    {
       "team": "Suisse",
       "trend": "up",
       "note": "Suisse-Canada (24/06): doit gagner pour finir 1re du groupe."
@@ -7302,16 +9233,6 @@
       "team": "Corée du Sud",
       "trend": "stable",
       "note": "Corée-Afrique du Sud (24/06, Groupe A): un nul garantit le top 2 (avantage confrontation directe)."
-    },
-    {
-      "team": "Maroc",
-      "trend": "up",
-      "note": "Maroc-Haïti (24/06, Groupe C): victoire ou nul = qualification top 2."
-    },
-    {
-      "team": "Brésil",
-      "trend": "stable",
-      "note": "Groupe C (24/06): doit faire au moins aussi bien que le Maroc pour garder la 1re place."
     },
     {
       "team": "Écosse",
@@ -7335,19 +9256,9 @@
       "trend": "up"
     },
     {
-      "team": "Norvège",
-      "note": "Qualification acquise. Joue pour la 1re place du groupe I contre la France le 26 juin. Défense fragile (buts concédés dans les 2 matchs) pourrait être exposée par l'attaque française.",
-      "trend": "stable"
-    },
-    {
       "team": "Argentine",
       "note": "Qualification et 1re place acquises. Dernier match vs Jordan (groupe J) = rotation probable / repos des cadres. Inquiétude sur Romero pour les 1/32e.",
       "trend": "stable"
-    },
-    {
-      "team": "États-Unis",
-      "note": "Match final groupe D le 26 juin vs Turquie à Los Angeles. Qualification déjà assurée mais la 1re place est en jeu pour optimiser le tableau en phase éliminatoire.",
-      "trend": "up"
     },
     {
       "team": "Turquie",
@@ -7355,19 +9266,9 @@
       "trend": "down"
     },
     {
-      "team": "Angleterre",
-      "note": "Dernier match de groupe le 27 juin vs Panama. Malgré la 1re place provisoire, le nul vs Ghana est alarmant. Turnover peu probable car la qualification n'est pas encore mathématiquement garantie si Ghana gagne contre la Croatie.",
-      "trend": "down"
-    },
-    {
       "team": "Allemagne",
       "note": "Qualifiés en tête du groupe E. Prochain adversaire potentiel : Ecuador (qui les a battus 2-1). Défense fragilisée après la perte de Schlotterbeck.",
       "trend": "stable"
-    },
-    {
-      "team": "Canada",
-      "note": "Qualification historique pour les 1/32e. Premier match éliminatoire le 28 juin vs Afrique du Sud. Euphorie nationale mais incertitude sur Davies.",
-      "trend": "up"
     },
     {
       "team": "Équateur",
@@ -7377,6 +9278,61 @@
     {
       "team": "Afrique du Sud",
       "note": "Qualification inattendue pour les 1/32e (1-0 vs Corée du Sud). Première phase à élimination directe pour la nation arc-en-ciel. Affronte le Canada le 28 juin.",
+      "trend": "up"
+    },
+    {
+      "team": "Angleterre",
+      "note": "Doit gagner le R32 vs RD Congo (1er juillet, Atlanta). Crise au poste de latéral droit (James + Quansah absents). Tuchel doit trancher sur le rôle de Rice. Victoire attendue mais fragilité défensive préoccupante.",
+      "trend": "stable"
+    },
+    {
+      "team": "Belgique",
+      "note": "R32 vs Sénégal (1er juillet, Seattle). Malgré leur victoire en groupe G, les Belges ont manqué de convction. Sénégal sans Mendy — avantage à exploiter tôt. De Bruyne doit dicter. Une défaite serait un gros upset.",
+      "trend": "stable"
+    },
+    {
+      "team": "Sénégal",
+      "note": "Affronte la Belgique sans Mendy (genou). Progression en huitième serait un exploit dans ces circonstances.",
+      "trend": "down"
+    },
+    {
+      "team": "États-Unis",
+      "note": "Avantage du public à Santa Clara vs Bosnie-Herzégovine. Pulisic pleinement apte pour la première fois du tournoi. La nation attend une grande campagne ; une élimination au R32 serait une immense déception.",
+      "trend": "up"
+    },
+    {
+      "team": "Brésil",
+      "note": "Affronte la Norvège en huitième. Paquetá forfait, Raphinha douteux — Neymar pourrait reprendre sa place dans le XI. Le Brésil reste favori sur le papier mais leur profondeur est sévèrement testée.",
+      "trend": "down"
+    },
+    {
+      "team": "Norvège",
+      "note": "Affronte le Brésil en huitième — véritable opportunité de tuer le géant. Le Brésil est blessé. Haaland en feu (5 buts). Si la Norvège reste dans le match, une séance aux tirs au but leur conviendrait. Enjeu historique pour le football norvégien.",
+      "trend": "up"
+    },
+    {
+      "team": "Maroc",
+      "note": "A éliminé les Pays-Bas en R32 (3-2 aux tirs au but). L'une des grandes histoires du tournoi. Hakimi créateur infatigable. Confiance au maximum pour le huitième.",
+      "trend": "up"
+    },
+    {
+      "team": "Paraguay",
+      "note": "A éliminé l'Allemagne 4-3 aux tirs au but après 1-1 en R32. Conte de fées du tournoi. Affrontera un adversaire coriace en huitième mais le momentum est de leur côté.",
+      "trend": "up"
+    },
+    {
+      "team": "Mexique",
+      "note": "Victoire 2-0 vs Équateur le 1er juillet. Affronte l'Égypte en huitième à Mexico — quasiment à domicile. Salah douteux pour l'Égypte — avantage conséquent pour le Mexique.",
+      "trend": "up"
+    },
+    {
+      "team": "Espagne",
+      "note": "Double crise sur les ailes (Williams + Pino blessés en finale de groupe). Lamine Yamal apte et en forme. Ajustement tactique nécessaire. Toujours l'un des favoris mais vulnérable sur les côtés.",
+      "trend": "down"
+    },
+    {
+      "team": "Canada",
+      "note": "Victoire en R32 (1-0 vs Afrique du Sud). Davies en retour de blessure. Pour le Canada, chaque victoire en phase éliminatoire est historique. Vague d'enthousiasme national.",
       "trend": "up"
     }
   ]

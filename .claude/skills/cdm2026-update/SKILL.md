@@ -59,7 +59,7 @@ export const meta = {
   name: 'cdm2026-update',
   description: 'Collecte delta multi-sources CDM 2026 (faits nouveaux uniquement)',
   phases: [
-    { title: 'Collecte', detail: '4 agents disjoints, delta-only, 2-3 sources autoritaires' },
+    { title: 'Collecte', detail: '2 agents WebSearch-only, delta-only' },
     { title: 'Fusion', detail: 'Assemblage JS des fragments en un delta unique' },
   ],
 }
@@ -74,9 +74,12 @@ const CONTEXT = `CONTEXTE CDM 2026 (USA/Canada/Mexique).
 Phase actuelle : ${currentPhase}.
 Dernière mise à jour : ${since}.
 Matchs DÉJÀ enregistrés (NE PAS recollecter, ils sont figés) : ${frozen}.
-Sources autoritaires à privilégier : site officiel FIFA (fifa.com/worldcup) et Wikipédia ;
-recoupe les scores avec BBC Sport ou ESPN en cas de doute. Ne renvoie QUE des FAITS NOUVEAUX
-(matchs joués depuis la dernière MAJ et non déjà enregistrés). Renvoie un objet, pas de prose.`
+IMPORTANT : utilise UNIQUEMENT WebSearch (jamais WebFetch). Les snippets des résultats
+de recherche suffisent pour extraire les faits. Si un score est ambigu, lance une
+2e WebSearch plus ciblée. Ne tente PAS de fetcher les pages complètes.
+Sources à privilégier dans les queries : FIFA, BBC Sport, ESPN, SofaScore.
+Ne renvoie QUE des FAITS NOUVEAUX (matchs joués depuis la dernière MAJ et non déjà
+enregistrés dans played_match_ids). Renvoie un objet structuré, pas de prose.`
 
 // ─── Schemas (sortie compacte validée) ──────────────────────────────────────
 const MATCH = {
@@ -106,16 +109,6 @@ const EVENT = {
   },
   required: ['match', 'team', 'player', 'type'],
 }
-const LINEUP = {
-  type: 'object',
-  properties: {
-    match: { type: 'string' }, team: { type: 'string' }, formation: { type: 'string' },
-    raw: { type: 'string', description: 'XI titulaire : GK; def; mid; att séparés par ;' },
-    players: { type: 'array', items: { type: 'string' } },
-    subs: { type: 'array', items: { type: 'string' } }, coach: { type: 'string' },
-  },
-  required: ['match', 'team', 'formation'],
-}
 const INJURY = {
   type: 'object',
   properties: {
@@ -135,37 +128,34 @@ const NOTE = {
   required: ['team', 'note'],
 }
 
-// ─── PHASE 1 : COLLECTE DELTA (4 agents disjoints, en parallèle) ─────────────
+// ─── PHASE 1 : COLLECTE DELTA (2 agents WebSearch-only, en parallèle) ────────
 phase('Collecte')
 
-const collectors = [
-  // 1) Résultats + planning (sources autoritaires, recoupées)
+const [factuel, qualitatif] = await parallel([
+  // Agent 1 — Résultats & événements (scores, buts, cartons)
   () => agent(
-    `${CONTEXT}\n\nTâche : liste les MATCHS JOUÉS depuis la dernière MAJ et non déjà enregistrés
-(scores exacts, date, stade, ville, affluence ; prolongation/tab si knockout). Inclus aussi les
-mises à jour de planning (matchs désormais programmés avec date/lieu). Mets à jour meta.current_phase
-et meta.last_updated (date ISO du jour de collecte).`,
-    { label: 'results', phase: 'Collecte',
+    `${CONTEXT}\n\nTâche A — Faits de match :
+1. Lance des WebSearch ciblées (ex : "FIFA World Cup 2026 results ${since}", "CDM 2026 scores today") pour trouver les matchs joués depuis la dernière MAJ et non dans played_match_ids.
+2. Pour chaque nouveau match joué : score exact, date, stade, ville, affluence, prolongation/pénos si knockout.
+3. Pour chaque nouveau match joué : tous les événements (buts avec buteur+équipe+minute, cartons jaunes/rouges avec joueur+équipe+minute, buts contre son camp avec equipe qui marque).
+4. Mets à jour meta.current_phase et meta.last_updated (date ISO du jour).
+Si aucun nouveau match : retourne matches:[] et events:[].`,
+    { label: 'results-events', phase: 'Collecte',
       schema: { type: 'object', properties: {
         matches: { type: 'array', items: MATCH },
+        events: { type: 'array', items: EVENT },
         meta: { type: 'object', properties: { current_phase: { type: 'string' }, last_updated: { type: 'string' } } },
-      }, required: ['matches'] } }
+      }, required: ['matches', 'events'] } }
   ),
-  // 2) Buteurs + cartons des nouveaux matchs
+  // Agent 2 — Qualitatif (blessures, forme, enjeux)
   () => agent(
-    `${CONTEXT}\n\nTâche : pour CHAQUE nouveau match joué uniquement, liste les événements :
-buts (type goal/pen, ou own_goal avec benefits = équipe qui marque), cartons jaunes et rouges.
-Donne le buteur/joueur, son équipe (nom complet français), la minute, et le motif pour les rouges.`,
-    { label: 'scorers-cards', phase: 'Collecte',
-      schema: { type: 'object', properties: { events: { type: 'array', items: EVENT } }, required: ['events'] } }
-  ),
-  // 3) Blessures, retours, forme & engagement (qualitatif)
-  () => agent(
-    `${CONTEXT}\n\nTâche : collecte l'actualité d'avant prochains matchs :
-- blessures NOUVELLES ou MODIFIÉES (status out/doubtful/returning ; resolved si un joueur revient de blessure) ;
-- forme des équipes (form_notes : note courte + tendance up/down/stable) et joueurs en forme/méforme (player_form) ;
-- engagement/enjeu (engagement_notes : qualification acquise ? turnover probable ? ce que l'équipe doit faire ?).
-Ne renvoie que ce qui a changé ou est pertinent pour le pronostic.`,
+    `${CONTEXT}\n\nTâche B — Actualité avant prochains matchs :
+1. Lance des WebSearch (ex : "World Cup 2026 injury news", "CDM 2026 blessures", "FIFA 2026 team news") pour l'actualité récente.
+2. Blessures NOUVELLES ou MODIFIÉES seulement (status out/doubtful/returning/resolved).
+3. Forme des équipes qui jouent prochainement (form_notes : tendance up/down/stable + raison courte).
+4. Joueurs en forme ou méforme notable (player_form).
+5. Engagement/enjeux (qualification acquise ? turnover probable ? stakes ?).
+Ne renvoie que ce qui a changé depuis ${since} ou est directement pertinent pour le pronostic.`,
     { label: 'injuries-form', phase: 'Collecte',
       schema: { type: 'object', properties: {
         injuries: { type: 'array', items: INJURY },
@@ -174,35 +164,24 @@ Ne renvoie que ce qui a changé ou est pertinent pour le pronostic.`,
         engagement_notes: { type: 'array', items: NOTE },
       } } }
   ),
-  // 4) Compositions des nouveaux matchs
-  () => agent(
-    `${CONTEXT}\n\nTâche : pour CHAQUE nouveau match joué uniquement, donne la composition de DÉPART
-des deux équipes : formation (ex 4-3-3), XI titulaire dans raw (GK; défenseurs; milieux; attaquants
-séparés par des points-virgules), liste players à plat, remplaçants entrés (subs) et le coach.`,
-    { label: 'lineups', phase: 'Collecte',
-      schema: { type: 'object', properties: { lineups: { type: 'array', items: LINEUP } }, required: ['lineups'] } }
-  ),
-]
-
-const [res, evs, inj, lus] = await parallel(collectors)
+])
 
 // ─── PHASE 2 : FUSION (JS pur, 0 agent) ──────────────────────────────────────
 phase('Fusion')
 
 const delta = {
-  meta: (res && res.meta) || {},
-  matches: (res && res.matches) || [],
-  events: (evs && evs.events) || [],
-  lineups: (lus && lus.lineups) || [],
-  injuries: (inj && inj.injuries) || [],
-  form_notes: (inj && inj.form_notes) || [],
-  player_form: (inj && inj.player_form) || [],
-  engagement_notes: (inj && inj.engagement_notes) || [],
+  meta: (factuel && factuel.meta) || {},
+  matches: (factuel && factuel.matches) || [],
+  events: (factuel && factuel.events) || [],
+  lineups: [],
+  injuries: (qualitatif && qualitatif.injuries) || [],
+  form_notes: (qualitatif && qualitatif.form_notes) || [],
+  player_form: (qualitatif && qualitatif.player_form) || [],
+  engagement_notes: (qualitatif && qualitatif.engagement_notes) || [],
 }
 
 const newMatches = delta.matches.filter(m => m.status === 'played').length
-log(`Delta prêt : ${newMatches} nouveau(x) match(s) joué(s), ${delta.events.length} événement(s), ` +
-    `${delta.lineups.length} compo(s), ${delta.injuries.length} blessure(s).`)
+log(`Delta prêt : ${newMatches} nouveau(x) match(s) joué(s), ${delta.events.length} événement(s), ${delta.injuries.length} blessure(s).`)
 
 return delta
 ```

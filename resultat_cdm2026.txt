@@ -1,8 +1,8 @@
 ===========================================================================
 COUPE DU MONDE FIFA 2026 — BASE DE DONNÉES RÉSULTATS
-Dernière mise à jour : 2026-07-01
-Phase actuelle : Huitièmes de finale — 8 matchs joués (R32-1 à R32-8), 8 matchs restants programmés (R32-9 à R32-16)
-Matchs enregistrés (joués) : 80
+Dernière mise à jour : 2026-07-13
+Phase actuelle : knockout
+Matchs enregistrés (joués) : 88
 Sources consultées : FIFA.com, Wikipédia, BBC Sport, ESPN
 ===========================================================================
 
@@ -210,7 +210,7 @@ Match 4 : Nouvelle-Zélande 1 - 3 Égypte (2026-06-21, BC Place, Vancouver)
   Affluence : 52 497
 Match 5 : Égypte 1 - 1 Iran (2026-06-26, Lumen Field, Seattle)
   Buteurs : Mahmoud Saber (5', EGY), Ramin Rezaeian (14', IRN)
-  Cartons jaunes : Kanaanizadegan (IRN), Ali Nemati (IRN), Mahmoud Saber (EGY), Yasser Ibrahim (EGY), Kanaanizadegan (IRN), Ali Nemati (IRN), Mahmoud Saber (EGY), Yasser Ibrahim (EGY)
+  Cartons jaunes : Kanaanizadegan (IRN), Ali Nemati (IRN), Mahmoud Saber (EGY), Yasser Ibrahim (EGY)
   Cartons rouges : aucun
   Affluence : 66 925
 Match 6 : Nouvelle-Zélande 1 - 5 Belgique (2026-06-26, BC Place, Vancouver)
@@ -365,8 +365,82 @@ Match 6 : Croatie 2 - 1 Ghana (2026-06-27, Lincoln Financial Field, Philadelphia
   Affluence : 68 324
 Classement Groupe L : 1. Angleterre (7pt, +4), 2. Croatie (6pt, 0), 3. Ghana (4pt, 0), 4. Panama (0pt, -4)
 
+[PHASE ÉLIMINATOIRE - SEIZIÈMES DE FINALE (32es)]
+Afrique du Sud 0 - 1 Canada (2026-06-28, SoFi Stadium, Inglewood)
+  Buteurs : Stephen Eustáquio (90'+2, CAN)
+  Cartons jaunes : Nathan Saliba (CAN), Niko Sigur (CAN)
+  Cartons rouges : aucun
+  Affluence : 69 237
+Brésil 2 - 1 Japon (2026-06-29, NRG Stadium, Houston)
+  Buteurs : Kaishu Sano (29', JPN), Casemiro (56', BRA), Gabriel Martinelli (90'+5, BRA)
+  Cartons jaunes : Danilo (BRA), Casemiro (BRA), Kaishu Sano (JPN), Daichi Kamada (JPN), Junnosuke Suzuki (JPN)
+  Cartons rouges : aucun
+  Affluence : 68 777
+Allemagne 1 - 1 Paraguay (2026-06-29, Gillette Stadium, Foxborough) [a.p.] [Tab 3-4]
+  Buteurs : Julio Enciso (42', PAR), Kai Havertz (54', GER)
+  Cartons jaunes : Kai Havertz (GER), Jamal Musiala (GER), Andrés Cubas (PAR), Matías Galarza (PAR)
+  Cartons rouges : aucun
+  Affluence : 63 945
+Pays-Bas 1 - 1 Maroc (2026-06-29, Estadio BBVA, Guadalupe) [a.p.] [Tab 2-3]
+  Buteurs : Cody Gakpo (72', NED), Issa Diop (90'+1, MAR)
+  Cartons jaunes : Issa Diop (MAR)
+  Cartons rouges : aucun
+  Affluence : 51 243
+Côte d'Ivoire 1 - 2 Norvège (2026-06-30, AT&T Stadium, Arlington)
+  Buteurs : Antonio Nusa (39', NOR), Amad Diallo (74', CIV), Erling Haaland (86', NOR)
+  Cartons jaunes : Antonio Nusa (NOR)
+  Cartons rouges : aucun
+  Affluence : 69 665
+France 3 - 0 Suède (2026-06-30, MetLife Stadium, East Rutherford)
+  Buteurs : Kylian Mbappé (45', FRA), Bradley Barcola (53', FRA), Kylian Mbappé (74', FRA)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+  Affluence : 80 663
+Mexique 2 - 0 Équateur (2026-06-30, Estadio Azteca, Mexico)
+  Buteurs : Julián Quiñones (22', MEX), Raúl Jiménez (31', MEX)
+  Cartons jaunes : Alan Franco (ECU)
+  Cartons rouges : Piero Hincapié (90'+5, ECU, Faute grossière)
+  Affluence : 80 824
+Angleterre 2 - 0 RD Congo (2026-07-01, Mercedes-Benz Stadium, Atlanta)
+  Buteurs : Jude Bellingham (62', ENG), Harry Kane (67', ENG)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+Belgique 3 - 2 Sénégal (2026-07-01, Lumen Field, Seattle) [a.p.]
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+États-Unis 2 - 0 Bosnie-Herzégovine (2026-07-01, Levi's Stadium, Santa Clara)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+Argentine 3 - 2 Cap-Vert (2026-07-03, Hard Rock Stadium, Miami Gardens) [a.p.]
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+
 [PHASE ÉLIMINATOIRE - HUITIÈMES DE FINALE]
-Aucun match joué (début prévu le 2026-06-28)
+Espagne 3 - 0 Autriche (2026-07-02, SoFi Stadium, Los Angeles)
+  Buteurs : Mikel Oyarzabal (36', ESP), Pedro Porro (66', ESP), Mikel Oyarzabal (89', ESP)
+  Cartons jaunes : Stefan Posch (83', AUT)
+  Cartons rouges : aucun
+  Affluence : 70 492
+Portugal 2 - 1 Croatie (2026-07-02, BMO Field, Toronto)
+  Buteurs : Ivan Perisic (53', CRO), Cristiano Ronaldo (68', POR, pen.), Gonçalo Ramos (94', POR)
+  Cartons jaunes : Rúben Dias (17', POR), Luka Modric (59', CRO), Ivan Perisic (90'+2, CRO)
+  Cartons rouges : aucun
+  Affluence : 43 036
+Suisse 2 - 0 Algérie (2026-07-02, BC Place, Vancouver)
+  Buteurs : Breel Embolo (10', SUI), Dan Ndoye (46', SUI)
+  Cartons jaunes : Fares Chaibi (36', ALG), Hicham Boudaoui (72', ALG)
+  Cartons rouges : aucun
+  Affluence : 54 500
+Australie 1 - 1 Égypte (2026-07-03, AT&amp;T Stadium, Dallas) [a.p.] [Tab 2-4]
+  Buteurs : Emam Ashour (13', EGY), Mohamed Hany (55', AUS, c.s.c.)
+  Cartons jaunes : aucun
+  Cartons rouges : aucun
+  Affluence : 70 244
+Colombie 1 - 0 Ghana (2026-07-03, GEHA Field at Arrowhead Stadium, Kansas City)
+  Buteurs : Jhon Arias (14', COL)
+  Cartons jaunes : Jhon Arias (24', COL), Caleb Yirenkyi (57', GHA)
+  Cartons rouges : aucun
+  Affluence : 67 000
 
 [PHASE ÉLIMINATOIRE - QUARTS DE FINALE]
 Aucun match joué (début prévu le 2026-07-09)
@@ -383,156 +457,161 @@ Champion du Monde 2026 : N/D
 1. Kylian Mbappé (France) — 6 buts
 1. Lionel Messi (Argentine) — 6 buts
 3. Erling Haaland (Norvège) — 5 buts
+4. Mikel Oyarzabal (Espagne) — 4 buts
 4. Ousmane Dembélé (France) — 4 buts
-5. Brian Brobbey (Pays-Bas) — 3 buts
-5. Cody Gakpo (Pays-Bas) — 3 buts
-5. Deniz Undav (Allemagne) — 3 buts
-5. Harry Kane (Angleterre) — 3 buts
-5. Jonathan David (Canada) — 3 buts
-5. Julián Quiñones (Mexique) — 3 buts
-5. Kai Havertz (Allemagne) — 3 buts
-5. Matheus Cunha (Brésil) — 3 buts
-5. Vinícius Júnior (Brésil) — 3 buts
-14. Amad Diallo (Côte d'Ivoire) — 2 buts
-14. Anthony Elanga (Suède) — 2 buts
-14. Ayase Ueda (Japon) — 2 buts
-14. Bradley Barcola (France) — 2 buts
-14. Cristiano Ronaldo (Portugal) — 2 buts
-14. Crysencio Summerville (Pays-Bas) — 2 buts
-14. Cyle Larin (Canada) — 2 buts
-14. Daichi Kamada (Japon) — 2 buts
-14. Daniel Muñoz (Colombie) — 2 buts
-14. Elijah Just (Nouvelle-Zélande) — 2 buts
-14. Felix Manzambi (Suisse) — 2 buts
-14. Folarin Balogun (États-Unis) — 2 buts
-14. Ismael Saibari (Maroc) — 2 buts
-14. Ismaïla Sarr (Sénégal) — 2 buts
-14. Jude Bellingham (Angleterre) — 2 buts
-14. Leandro Trossard (Belgique) — 2 buts
-14. Marko Arnautović (Autriche) — 2 buts
-14. Mikel Oyarzabal (Espagne) — 2 buts
-14. Pape Gueye (Sénégal) — 2 buts
-14. Ramin Rezaeian (Iran) — 2 buts
-14. Raúl Jiménez (Mexique) — 2 buts
-14. Riyad Mahrez (Algérie) — 2 buts
-14. Yasin Ayari (Suède) — 2 buts
-37. Abbosbek Fayzullaev (Ouzbékistan) — 1 but
-37. Abdulelah Al-Amri (Arabie Saoudite) — 1 but
-37. Achraf Hakimi (Maroc) — 1 but
-37. Agustín Canobbio (Uruguay) — 1 but
-37. Al-Rashdan (Jordanie) — 1 but
-37. Alex Baena (Espagne) — 1 but
-37. Alex Freeman (États-Unis) — 1 but
-37. Alexander Isak (Suède) — 1 but
-37. Alexis Saelemaekers (Belgique) — 1 but
-37. Ali Olwan (Jordanie) — 1 but
-37. Amine Gouiri (Algérie) — 1 but
-37. Ante Budimir (Croatie) — 1 but
-37. Antonio Nusa (Norvège) — 1 but
-37. Arda Güler (Turquie) — 1 but
-37. Auston Trusty (États-Unis) — 1 but
-37. Aymen Hussein (Irak) — 1 but
-37. Benbouali (Algérie) — 1 but
-37. Boualem Khoukhi (Qatar) — 1 but
-37. Breel Embolo (Suisse) — 1 but
-37. Caleb Yirenkyi (Ghana) — 1 but
-37. Casemiro (Brésil) — 1 but
-37. Chris Just (Nouvelle-Zélande) — 1 but
-37. Connor Metcalfe (Australie) — 1 but
-37. Daizen Maeda (Japon) — 1 but
-37. Emam Ashour (Égypte) — 1 but
-37. Ermin Mahmić (Bosnie-Herzégovine) — 1 but
-37. Felix Nmecha (Allemagne) — 1 but
-37. Finn Surman (Nouvelle-Zélande) — 1 but
-37. Franck Kessié (Côte d'Ivoire) — 1 but
-37. Gabriel Martinelli (Brésil) — 1 but
-37. Georginio Rutter (France) — 1 but
-37. Gessime Yassine (Maroc) — 1 but
-37. Gio Reyna (États-Unis) — 1 but
-37. Giovani Lo Celso (Argentine) — 1 but
-37. Gonzalo Plata (Équateur) — 1 but
-37. Granit Xhaka (Suisse) — 1 but
-37. Habib Diarra (Sénégal) — 1 but
-37. Hassan Al-Haydos (Qatar) — 1 but
-37. Hazem Mastouri (Tunisie) — 1 but
-37. Holmgren Pedersen (Norvège) — 1 but
-37. Hwang In-beom (Corée du Sud) — 1 but
-37. Hélio Varela (Cap-Vert) — 1 but
-37. Ibrahim Mbaye (Sénégal) — 1 but
-37. Iliman Ndiaye (Sénégal) — 1 but
-37. Ismaila Sarr (Sénégal) — 1 but
-37. Ismaël Saïbari (Maroc) — 1 but
-37. Issa Diop (Maroc) — 1 but
-37. Jamal Musiala (Allemagne) — 1 but
-37. Jaminton Campaz (Colombie) — 1 but
-37. Jan Paul van Hecke (Pays-Bas) — 1 but
-37. Johan Manzambi (Suisse) — 1 but
-37. John McGinn (Écosse) — 1 but
-37. Jovo Lukić (Bosnie-Herzégovine) — 1 but
-37. João Neves (Portugal) — 1 but
-37. Julio Enciso (Paraguay) — 1 but
-37. Junya Itō (Japon) — 1 but
-37. Kaishu Sano (Japon) — 1 but
-37. Keito Nakamura (Japon) — 1 but
-37. Kerim Alajbegović (Bosnie-Herzégovine) — 1 but
-37. Kevin De Bruyne (Belgique) — 1 but
-37. Kevin Pina (Cap-Vert) — 1 but
-37. Ladislav Krejčí (Tchéquie) — 1 but
-37. Lamine Yamal (Espagne) — 1 but
-37. Lautaro Martínez (Argentine) — 1 but
-37. Leo Østigård (Norvège) — 1 but
-37. Leroy Sané (Allemagne) — 1 but
-37. Livano Comenencia (Curaçao) — 1 but
-37. Luis Díaz (Colombie) — 1 but
-37. Luis Romo (Mexique) — 1 but
-37. Mahmić (Bosnie-Herzégovine) — 1 but
-37. Mahmoud Saber (Égypte) — 1 but
-37. Marcel Sabitzer (Autriche) — 1 but
-37. Marcus Rashford (Angleterre) — 1 but
-37. Martin Baturina (Croatie) — 1 but
-37. Mateo Chávez (Mexique) — 1 but
-37. Mattias Svanberg (Suède) — 1 but
-37. Matías Galarza (Paraguay) — 1 but
-37. Maurício (Paraguay) — 1 but
-37. Maxi Araújo (Uruguay) — 1 but
-37. Maximiliano Araújo (Uruguay) — 1 but
-37. Michal Sadílek (Tchéquie) — 1 but
-37. Mohamed Salah (Égypte) — 1 but
-37. Mohammad Mohebbi (Iran) — 1 but
-37. Mostafa Ziko (Égypte) — 1 but
-37. Muhannad Al-Taamari (Jordanie) — 1 but
-37. Nathaniel Brown (Allemagne) — 1 but
-37. Nestory Irankunda (Australie) — 1 but
-37. Nico Schlotterbeck (Allemagne) — 1 but
-37. Nicolas Pépé (Côte d'Ivoire) — 1 but
-37. Nilson Angulo (Équateur) — 1 but
-37. Nuno Mendes (Portugal) — 1 but
-37. Oh Hyeon-gyu (Corée du Sud) — 1 but
-37. Omar Rekik (Tunisie) — 1 but
-37. Orkun Kökçü (Turquie) — 1 but
-37. Petar Musa (Croatie) — 1 but
-37. Promise David (Canada) — 1 but
-37. Rafael Leão (Portugal) — 1 but
-37. Rayan Belghali (Algérie) — 1 but
-37. Romano Schmid (Autriche) — 1 but
-37. Romelu Lukaku (Belgique) — 1 but
-37. Ruben Vargas (Suisse) — 1 but
-37. Rubén Vargas (Suisse) — 1 but
-37. Saliba (Canada) — 1 but
-37. Sasa Kalajdzic (Autriche) — 1 but
-37. Sebastian Berhalter (États-Unis) — 1 but
-37. Soufiane Rahimi (Maroc) — 1 but
-37. Stephen Eustáquio (Canada) — 1 but
-37. Teboho Mokoena (Afrique du Sud) — 1 but
-37. Thapelo Maseko (Afrique du Sud) — 1 but
-37. Thelo Aasgaard (Norvège) — 1 but
-37. Trézéguet (Égypte) — 1 but
-37. Viktor Gyökeres (Suède) — 1 but
-37. Vinícius Jr (Brésil) — 1 but
-37. Virgil van Dijk (Pays-Bas) — 1 but
-37. Wilson Isidor (Haïti) — 1 but
-37. Yoane Wissa (RD Congo) — 1 but
-37. Álvaro Fidalgo (Mexique) — 1 but
+6. Brian Brobbey (Pays-Bas) — 3 buts
+6. Cody Gakpo (Pays-Bas) — 3 buts
+6. Cristiano Ronaldo (Portugal) — 3 buts
+6. Deniz Undav (Allemagne) — 3 buts
+6. Harry Kane (Angleterre) — 3 buts
+6. Jonathan David (Canada) — 3 buts
+6. Julián Quiñones (Mexique) — 3 buts
+6. Kai Havertz (Allemagne) — 3 buts
+6. Matheus Cunha (Brésil) — 3 buts
+6. Vinícius Júnior (Brésil) — 3 buts
+16. Amad Diallo (Côte d'Ivoire) — 2 buts
+16. Anthony Elanga (Suède) — 2 buts
+16. Ayase Ueda (Japon) — 2 buts
+16. Bradley Barcola (France) — 2 buts
+16. Breel Embolo (Suisse) — 2 buts
+16. Crysencio Summerville (Pays-Bas) — 2 buts
+16. Cyle Larin (Canada) — 2 buts
+16. Daichi Kamada (Japon) — 2 buts
+16. Daniel Muñoz (Colombie) — 2 buts
+16. Elijah Just (Nouvelle-Zélande) — 2 buts
+16. Emam Ashour (Égypte) — 2 buts
+16. Felix Manzambi (Suisse) — 2 buts
+16. Folarin Balogun (États-Unis) — 2 buts
+16. Ismael Saibari (Maroc) — 2 buts
+16. Ismaïla Sarr (Sénégal) — 2 buts
+16. Jude Bellingham (Angleterre) — 2 buts
+16. Leandro Trossard (Belgique) — 2 buts
+16. Marko Arnautović (Autriche) — 2 buts
+16. Pape Gueye (Sénégal) — 2 buts
+16. Ramin Rezaeian (Iran) — 2 buts
+16. Raúl Jiménez (Mexique) — 2 buts
+16. Riyad Mahrez (Algérie) — 2 buts
+16. Yasin Ayari (Suède) — 2 buts
+39. Abbosbek Fayzullaev (Ouzbékistan) — 1 but
+39. Abdulelah Al-Amri (Arabie Saoudite) — 1 but
+39. Achraf Hakimi (Maroc) — 1 but
+39. Agustín Canobbio (Uruguay) — 1 but
+39. Al-Rashdan (Jordanie) — 1 but
+39. Alex Baena (Espagne) — 1 but
+39. Alex Freeman (États-Unis) — 1 but
+39. Alexander Isak (Suède) — 1 but
+39. Alexis Saelemaekers (Belgique) — 1 but
+39. Ali Olwan (Jordanie) — 1 but
+39. Amine Gouiri (Algérie) — 1 but
+39. Ante Budimir (Croatie) — 1 but
+39. Antonio Nusa (Norvège) — 1 but
+39. Arda Güler (Turquie) — 1 but
+39. Auston Trusty (États-Unis) — 1 but
+39. Aymen Hussein (Irak) — 1 but
+39. Benbouali (Algérie) — 1 but
+39. Boualem Khoukhi (Qatar) — 1 but
+39. Caleb Yirenkyi (Ghana) — 1 but
+39. Casemiro (Brésil) — 1 but
+39. Chris Just (Nouvelle-Zélande) — 1 but
+39. Connor Metcalfe (Australie) — 1 but
+39. Daizen Maeda (Japon) — 1 but
+39. Dan Ndoye (Suisse) — 1 but
+39. Ermin Mahmić (Bosnie-Herzégovine) — 1 but
+39. Felix Nmecha (Allemagne) — 1 but
+39. Finn Surman (Nouvelle-Zélande) — 1 but
+39. Franck Kessié (Côte d'Ivoire) — 1 but
+39. Gabriel Martinelli (Brésil) — 1 but
+39. Georginio Rutter (France) — 1 but
+39. Gessime Yassine (Maroc) — 1 but
+39. Gio Reyna (États-Unis) — 1 but
+39. Giovani Lo Celso (Argentine) — 1 but
+39. Gonzalo Plata (Équateur) — 1 but
+39. Gonçalo Ramos (Portugal) — 1 but
+39. Granit Xhaka (Suisse) — 1 but
+39. Habib Diarra (Sénégal) — 1 but
+39. Hassan Al-Haydos (Qatar) — 1 but
+39. Hazem Mastouri (Tunisie) — 1 but
+39. Holmgren Pedersen (Norvège) — 1 but
+39. Hwang In-beom (Corée du Sud) — 1 but
+39. Hélio Varela (Cap-Vert) — 1 but
+39. Ibrahim Mbaye (Sénégal) — 1 but
+39. Iliman Ndiaye (Sénégal) — 1 but
+39. Ismaila Sarr (Sénégal) — 1 but
+39. Ismaël Saïbari (Maroc) — 1 but
+39. Issa Diop (Maroc) — 1 but
+39. Ivan Perisic (Croatie) — 1 but
+39. Jamal Musiala (Allemagne) — 1 but
+39. Jaminton Campaz (Colombie) — 1 but
+39. Jan Paul van Hecke (Pays-Bas) — 1 but
+39. Jhon Arias (Colombie) — 1 but
+39. Johan Manzambi (Suisse) — 1 but
+39. John McGinn (Écosse) — 1 but
+39. Jovo Lukić (Bosnie-Herzégovine) — 1 but
+39. João Neves (Portugal) — 1 but
+39. Julio Enciso (Paraguay) — 1 but
+39. Junya Itō (Japon) — 1 but
+39. Kaishu Sano (Japon) — 1 but
+39. Keito Nakamura (Japon) — 1 but
+39. Kerim Alajbegović (Bosnie-Herzégovine) — 1 but
+39. Kevin De Bruyne (Belgique) — 1 but
+39. Kevin Pina (Cap-Vert) — 1 but
+39. Ladislav Krejčí (Tchéquie) — 1 but
+39. Lamine Yamal (Espagne) — 1 but
+39. Lautaro Martínez (Argentine) — 1 but
+39. Leo Østigård (Norvège) — 1 but
+39. Leroy Sané (Allemagne) — 1 but
+39. Livano Comenencia (Curaçao) — 1 but
+39. Luis Díaz (Colombie) — 1 but
+39. Luis Romo (Mexique) — 1 but
+39. Mahmić (Bosnie-Herzégovine) — 1 but
+39. Mahmoud Saber (Égypte) — 1 but
+39. Marcel Sabitzer (Autriche) — 1 but
+39. Marcus Rashford (Angleterre) — 1 but
+39. Martin Baturina (Croatie) — 1 but
+39. Mateo Chávez (Mexique) — 1 but
+39. Mattias Svanberg (Suède) — 1 but
+39. Matías Galarza (Paraguay) — 1 but
+39. Maurício (Paraguay) — 1 but
+39. Maxi Araújo (Uruguay) — 1 but
+39. Maximiliano Araújo (Uruguay) — 1 but
+39. Michal Sadílek (Tchéquie) — 1 but
+39. Mohamed Salah (Égypte) — 1 but
+39. Mohammad Mohebbi (Iran) — 1 but
+39. Mostafa Ziko (Égypte) — 1 but
+39. Muhannad Al-Taamari (Jordanie) — 1 but
+39. Nathaniel Brown (Allemagne) — 1 but
+39. Nestory Irankunda (Australie) — 1 but
+39. Nico Schlotterbeck (Allemagne) — 1 but
+39. Nicolas Pépé (Côte d'Ivoire) — 1 but
+39. Nilson Angulo (Équateur) — 1 but
+39. Nuno Mendes (Portugal) — 1 but
+39. Oh Hyeon-gyu (Corée du Sud) — 1 but
+39. Omar Rekik (Tunisie) — 1 but
+39. Orkun Kökçü (Turquie) — 1 but
+39. Pedro Porro (Espagne) — 1 but
+39. Petar Musa (Croatie) — 1 but
+39. Promise David (Canada) — 1 but
+39. Rafael Leão (Portugal) — 1 but
+39. Rayan Belghali (Algérie) — 1 but
+39. Romano Schmid (Autriche) — 1 but
+39. Romelu Lukaku (Belgique) — 1 but
+39. Ruben Vargas (Suisse) — 1 but
+39. Rubén Vargas (Suisse) — 1 but
+39. Saliba (Canada) — 1 but
+39. Sasa Kalajdzic (Autriche) — 1 but
+39. Sebastian Berhalter (États-Unis) — 1 but
+39. Soufiane Rahimi (Maroc) — 1 but
+39. Stephen Eustáquio (Canada) — 1 but
+39. Teboho Mokoena (Afrique du Sud) — 1 but
+39. Thapelo Maseko (Afrique du Sud) — 1 but
+39. Thelo Aasgaard (Norvège) — 1 but
+39. Trézéguet (Égypte) — 1 but
+39. Viktor Gyökeres (Suède) — 1 but
+39. Vinícius Jr (Brésil) — 1 but
+39. Virgil van Dijk (Pays-Bas) — 1 but
+39. Wilson Isidor (Haïti) — 1 but
+39. Yoane Wissa (RD Congo) — 1 but
+39. Álvaro Fidalgo (Mexique) — 1 but
 - Damián Bobadilla c.s.c. (Paraguay, contre son camp) — 1 but
 - Mohamed Hany c.s.c. (Égypte, contre son camp) — 1 but
 - Aymen Hussein c.s.c. (Irak, contre son camp) — 1 but
@@ -544,6 +623,7 @@ Champion du Monde 2026 : N/D
 - Sultan Al-Brake c.s.c. (Bosnie-Herzégovine, contre son camp) — 1 but
 - Yassine Bounou c.s.c. (Haïti, contre son camp) — 1 but
 - Ellyes Skhiri c.s.c. (Tunisie, contre son camp) — 1 but
+- Mohamed Hany c.s.c. (Australie, contre son camp) — 1 but
 
 [STATISTIQUES PAR ÉQUIPE]
 
@@ -618,7 +698,7 @@ Joueurs clés : Ronwen Williams (GK), Lyle Foster (ATT)
 === CANADA ===
 Matchs joués : 4 | Bilan : 2V-1N-1D | Buts : 9 pour, 3 contre
 Buts : Cyle Larin (2), Jonathan David (3), Saliba (1), Promise David (1), Stephen Eustáquio (1), Manai c.s.c. (1, par Canada) | Total équipe : 9
-Cartons jaunes : Alistair Johnston (1, vs Bosnie-Herzégovine), Cornelius (1, vs Qatar), Nathan Saliba (2, vs Afrique du Sud), Niko Sigur (2, vs Afrique du Sud) | Total : 6
+Cartons jaunes : Alistair Johnston (1, vs Bosnie-Herzégovine), Cornelius (1, vs Qatar), Nathan Saliba (1, vs Afrique du Sud), Niko Sigur (1, vs Afrique du Sud) | Total : 4
 Cartons rouges : aucun | Total : 0
 Blessures : Marcelo Flores (rupture LCA, sévérité:severe, statut:out), Alphonso Davies (Hamstring / prior ACL (2025), sévérité:minor, statut:doubtful, Évaluation jour par jour. Participation aux matchs à élimination directe incertaine.) | Joueurs indisponibles : 1
 Compositions alignées :
@@ -634,7 +714,7 @@ Composition la plus fréquente : 4-4-2
 Joueurs clés : Jonathan David (ATT), Alphonso Davies (DEF/MIL)
 
 === BOSNIE-HERZÉGOVINE ===
-Matchs joués : 3 | Bilan : 1V-1N-1D | Buts : 5 pour, 6 contre
+Matchs joués : 4 | Bilan : 1V-1N-2D | Buts : 5 pour, 8 contre
 Buts : Jovo Lukić (1), Mahmić (1), Kerim Alajbegović (1), Ermin Mahmić (1), Sultan Al-Brake c.s.c. (1, par Bosnie-Herzégovine) | Total équipe : 5
 Cartons jaunes : Nikola Katić (1, vs Canada), Dedić (1, vs Suisse), Edin Džeko (1, vs Suisse) | Total : 3
 Cartons rouges : Muharemović (vs Suisse, 80', deuxième carton jaune / faute) | Total : 1
@@ -666,8 +746,8 @@ Composition la plus fréquente : 4-3-3
 Joueurs clés : Akram Afif (ATT), Almoez Ali (ATT) — remplaçant
 
 === SUISSE ===
-Matchs joués : 3 | Bilan : 2V-1N-0D | Buts : 7 pour, 3 contre
-Buts : Breel Embolo (1), Felix Manzambi (2), Rubén Vargas (1), Granit Xhaka (1), Ruben Vargas (1), Johan Manzambi (1) | Total équipe : 7
+Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 9 pour, 3 contre
+Buts : Breel Embolo (2), Felix Manzambi (2), Rubén Vargas (1), Granit Xhaka (1), Ruben Vargas (1), Johan Manzambi (1), Dan Ndoye (1) | Total équipe : 9
 Cartons jaunes : Denis Zakaria (1, vs Qatar), Nico Elvedi (1, vs Bosnie-Herzégovine) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
@@ -698,9 +778,9 @@ Joueurs clés : Scott McTominay (MIL), Andy Robertson (DEF), John McGinn (MIL/AT
 === MAROC ===
 Matchs joués : 4 | Bilan : 2V-2N-0D | Buts : 7 pour, 4 contre
 Buts : Ismael Saibari (2), Achraf Hakimi (1), Ismaël Saïbari (1), Soufiane Rahimi (1), Gessime Yassine (1), Issa Diop (1) | Total équipe : 7
-Cartons jaunes : Issa Diop (3, vs Écosse) | Total : 3
+Cartons jaunes : Issa Diop (2, vs Écosse) | Total : 2
 Cartons rouges : aucun | Total : 0
-Blessures : Abde Ezzalzouli (blessure au genou, sévérité:moderate, statut:doubtful), Achraf Hakimi (ischio, sévérité:minor, statut:returning, Récupération attendue, en course pour le tournoi.) | Joueurs indisponibles : 0
+Blessures : Abde Ezzalzouli (blessure au genou, sévérité:moderate, statut:doubtful), Achraf Hakimi (ischio, sévérité:minor, statut:returning, Récupération attendue, en course pour le tournoi.), Ismaël Saibari (blessure à la jambe, sévérité:moderate, statut:doubtful, Sorti à la 22e minute du huitième de finale contre les Pays-Bas.), Chadi Riad (blessure non précisée, sévérité:moderate, statut:doubtful, S'est entraîné à part avant le quart de finale, statut flou pour le match contre la France.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs Brésil (2026-06-13) : 4-2-3-1 — Y. Bounou; N. Mazraoui, C. Riad, I. Diop, A. Hakimi; N. El Aynaoui, A. Bouaddi; Brahim Díaz, A. Ounahi, B. El Khannouss; I. Saibari
   Remplaçants disponibles : C. Talbi (65'), S. El Mourabet (65'), S. Rahimi (89'), A. Salah-Eddine (80') | Coach: Mohamed Ouahbi
@@ -714,9 +794,9 @@ Joueurs clés : Achraf Hakimi (DEF/MIL), Ismael Saibari (MIL/ATT)
 === BRÉSIL ===
 Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 9 pour, 2 contre
 Buts : Vinícius Jr (1), Matheus Cunha (3), Vinícius Júnior (3), Casemiro (1), Gabriel Martinelli (1) | Total équipe : 9
-Cartons jaunes : Casemiro (3, vs Maroc), Douglas Santos (1, vs Haïti), Danilo (3, vs Écosse) | Total : 7
+Cartons jaunes : Casemiro (2, vs Maroc), Douglas Santos (1, vs Haïti), Danilo (2, vs Écosse) | Total : 5
 Cartons rouges : aucun | Total : 0
-Blessures : Rodrygo (Torn ACL and meniscus, sévérité:severe, statut:out, LCA et ménisque déchirés en mars (Real Madrid). Absent jusqu'en 2027.), Estêvão (Torn hamstring, sévérité:severe, statut:out, Blessé en avril, non convoqué dans les 26.), Éder Militão (Torn hamstring (surgical), sévérité:severe, statut:out, Opéré, forfait total pour le tournoi.), Wesley (blessure à l'aine, sévérité:severe, statut:out), Neymar (Contracture mollet, sévérité:minor, statut:returning, Entrée en jeu en phase de groupes. Avec Paquetá forfait, devrait titulariser contre la Norvège.), Lucas Paquetá (Déchirure grade 2 ischio-jambiers (cuisse gauche), sévérité:moderate, statut:out, Sorti à la mi-temps contre le Japon (huitièmes). IRM confirmée ; minimum 1 mois de récupération. Absent pour la suite du tournoi.), Raphinha (Déchirure biceps fémoral (ischio-jambiers droits), sévérité:moderate, statut:doubtful, Blessé lors de la phase de groupes. Retour à l'entraînement en baskets puis en crampons. Retour au mieux pour le huitième de finale le 5 juillet. Surveillance quotidienne.) | Joueurs indisponibles : 5
+Blessures : Rodrygo (rupture ligament croisé + ménisque, sévérité:severe, statut:out, Forfait pour le reste de la saison 2026, absent du Mondial.), Estêvão (Torn hamstring, sévérité:severe, statut:out, Blessé en avril, non convoqué dans les 26.), Éder Militão (Torn hamstring (surgical), sévérité:severe, statut:out, Opéré, forfait total pour le tournoi.), Wesley (blessure à l'aine, sévérité:severe, statut:out), Neymar (mollet, sévérité:moderate, statut:returning, Cleared pour jouer 90 minutes mais utilisé prudemment par Ancelotti comme joker offensif.), Lucas Paquetá (Déchirure grade 2 ischio-jambiers (cuisse gauche), sévérité:moderate, statut:out, Sorti à la mi-temps contre le Japon (huitièmes). IRM confirmée ; minimum 1 mois de récupération. Absent pour la suite du tournoi.), Raphinha (Déchirure biceps fémoral (ischio-jambiers droits), sévérité:moderate, statut:doubtful, Blessé lors de la phase de groupes. Retour à l'entraînement en baskets puis en crampons. Retour au mieux pour le huitième de finale le 5 juillet. Surveillance quotidienne.) | Joueurs indisponibles : 5
 Compositions alignées :
   Match 1 vs Maroc (2026-06-13) : 4-2-3-1 — Alisson; R. Ibañez, Marquinhos, Gabriel, D. Santos; Casemiro, B. Guimarães; Raphinha, L. Paquetá, Vinícius Jr.; I. Thiago
   Remplaçants disponibles : M. Cunha (61'), Danilo (45'), Fabinho (45'), D. dos Santos (80'), L. Rosa (62') | Coach: Carlo Ancelotti
@@ -742,7 +822,7 @@ Composition la plus fréquente : 4-3-3
 Joueurs clés : Wilson Isidor (ATT), Jean-Ricner Bellegarde (MIL)
 
 === ÉTATS-UNIS ===
-Matchs joués : 3 | Bilan : 2V-1N-0D | Buts : 8 pour, 3 contre
+Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 10 pour, 3 contre
 Buts : Folarin Balogun (2), Gio Reyna (1), Alex Freeman (1), Auston Trusty (1), Sebastian Berhalter (1), Damián Bobadilla c.s.c. (1, par Paraguay), Cameron Burgess c.s.c. (1, par Australie) | Total équipe : 8
 Cartons jaunes : Tyler Adams (1, vs Paraguay), Antonee Robinson (1, vs Australie), Folarin Balogun (1, vs Australie), Chris Richards (1, vs Australie) | Total : 4
 Cartons rouges : aucun | Total : 0
@@ -756,7 +836,7 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Christian Pulisic (ATT/MIL), Folarin Balogun (ATT), Weston McKennie (MIL)
 
 === AUSTRALIE ===
-Matchs joués : 3 | Bilan : 1V-1N-1D | Buts : 2 pour, 2 contre
+Matchs joués : 4 | Bilan : 1V-2N-1D | Buts : 3 pour, 3 contre
 Buts : Nestory Irankunda (1), Connor Metcalfe (1) | Total équipe : 2
 Cartons jaunes : Jordan Bos (1, vs États-Unis), Alessandro Circati (1, vs États-Unis), Harry Souttar (1, vs États-Unis), Jacob Italiano (1, vs États-Unis) | Total : 4
 Cartons rouges : aucun | Total : 0
@@ -786,7 +866,7 @@ Joueurs clés : Arda Güler (MIL/ATT), Hakan Çalhanoğlu (MIL)
 === PARAGUAY ===
 Matchs joués : 4 | Bilan : 1V-2N-1D | Buts : 3 pour, 5 contre
 Buts : Maurício (1), Matías Galarza (1), Julio Enciso (1) | Total équipe : 3
-Cartons jaunes : Alex Arce (1, vs États-Unis), Junior Alonso (1, vs États-Unis), Matías Galarza (3, vs Turquie), Júnior Alonso (1, vs Turquie), Andrés Cubas (2, vs Allemagne) | Total : 8
+Cartons jaunes : Alex Arce (1, vs États-Unis), Junior Alonso (1, vs États-Unis), Matías Galarza (2, vs Turquie), Júnior Alonso (1, vs Turquie), Andrés Cubas (1, vs Allemagne) | Total : 6
 Cartons rouges : Miguel Almirón (vs Turquie, 45'+3, expulsion directe pour avoir couvert sa bouche lors d'une confrontation avec un adversaire (nouvelle règle)) | Total : 1
 Blessures : Julio Enciso (blessure à la cuisse, sévérité:minor, statut:doubtful) | Joueurs indisponibles : 0
 Compositions alignées :
@@ -802,7 +882,7 @@ Joueurs clés : Miguel Almirón (MIL/ATT), Gustavo Gómez (DEF)
 === ALLEMAGNE ===
 Matchs joués : 4 | Bilan : 2V-1N-1D | Buts : 11 pour, 5 contre
 Buts : Felix Nmecha (1), Nico Schlotterbeck (1), Kai Havertz (3), Jamal Musiala (1), Nathaniel Brown (1), Deniz Undav (3), Leroy Sané (1) | Total équipe : 11
-Cartons jaunes : Kai Havertz (2, vs Paraguay), Jamal Musiala (2, vs Paraguay) | Total : 4
+Cartons jaunes : Kai Havertz (1, vs Paraguay), Jamal Musiala (1, vs Paraguay) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : Serge Gnabry (Torn adductor, sévérité:severe, statut:out, Forfait avant le tournoi.), Lennart Karl (rupture muscle cuisse, sévérité:severe, statut:out), Marc-André ter Stegen (Torn thigh muscle, sévérité:severe, statut:out, Forfait avant le tournoi.), Nico Schlotterbeck (Ligament latéral interne (cheville), sévérité:severe, statut:out, LLI déchiré ; plusieurs mois de rééducation. Allemagne éliminée par le Paraguay aux tirs au but.) | Joueurs indisponibles : 4
 Compositions alignées :
@@ -836,7 +916,7 @@ Joueurs clés : Amad Diallo (ATT), Franck Kessié (MIL)
 === ÉQUATEUR ===
 Matchs joués : 4 | Bilan : 1V-1N-2D | Buts : 2 pour, 4 contre
 Buts : Nilson Angulo (1), Gonzalo Plata (1) | Total équipe : 2
-Cartons jaunes : Jordy Alcívar (1, vs Curaçao), Jackson Porozo (1, vs Curaçao), Alan Franco (2, vs Mexique) | Total : 4
+Cartons jaunes : Jordy Alcívar (1, vs Curaçao), Jackson Porozo (1, vs Curaçao), Alan Franco (1, vs Mexique) | Total : 3
 Cartons rouges : Piero Hincapié (vs Mexique, 90'+5, Faute grossière) | Total : 1
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -886,7 +966,7 @@ Joueurs clés : Alexander Isak (ATT), Viktor Gyökeres (ATT), Yasin Ayari (MIL)
 === JAPON ===
 Matchs joués : 4 | Bilan : 1V-2N-1D | Buts : 8 pour, 5 contre
 Buts : Keito Nakamura (1), Daichi Kamada (2), Ayase Ueda (2), Junya Itō (1), Daizen Maeda (1), Kaishu Sano (1) | Total équipe : 8
-Cartons jaunes : Kaishu Sano (2, vs Brésil), Daichi Kamada (2, vs Brésil), Junnosuke Suzuki (2, vs Brésil) | Total : 6
+Cartons jaunes : Kaishu Sano (1, vs Brésil), Daichi Kamada (1, vs Brésil), Junnosuke Suzuki (1, vs Brésil) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : Kaoru Mitoma (Torn hamstring, sévérité:severe, statut:out, Forfait avant le tournoi.), Takumi Minamino (Torn ACL, sévérité:severe, statut:out, LCA déchiré en décembre, non convoqué.), Wataru Endo (ligaments cheville, sévérité:moderate, statut:returning, De retour sur le terrain, en réathlétisation.) | Joueurs indisponibles : 2
 Compositions alignées :
@@ -906,7 +986,7 @@ Matchs joués : 4 | Bilan : 2V-2N-0D | Buts : 11 pour, 5 contre
 Buts : Virgil van Dijk (1), Crysencio Summerville (2), Brian Brobbey (3), Cody Gakpo (3), Jan Paul van Hecke (1), Ellyes Skhiri c.s.c. (1, par Tunisie) | Total équipe : 11
 Cartons jaunes : Crysencio Summerville (1, vs Japon) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Jurriën Timber (Déchirure inguinale, sévérité:moderate, statut:out, KNVB : 'pas suffisamment rétabli'. Pays-Bas éliminés aux tirs au but vs Maroc.), Xavi Simons (Torn ACL, sévérité:severe, statut:out, LCA déchiré en avril en Premier League (Tottenham vs Wolverhampton), forfait total.), Jerdy Schouten (Torn ACL, sévérité:severe, statut:out, Forfait avant le tournoi.), Matthijs de Ligt (Back issue (surgical), sévérité:severe, statut:out, Opéré du dos, retour attendu début de saison prochaine.) | Joueurs indisponibles : 4
+Blessures : Jurriën Timber (Déchirure inguinale, sévérité:moderate, statut:out, KNVB : 'pas suffisamment rétabli'. Pays-Bas éliminés aux tirs au but vs Maroc.), Xavi Simons (Torn ACL, sévérité:severe, statut:out, LCA déchiré en avril en Premier League (Tottenham vs Wolverhampton), forfait total.), Jerdy Schouten (Torn ACL, sévérité:severe, statut:out, Forfait avant le tournoi.), Matthijs de Ligt (Back issue (surgical), sévérité:severe, statut:out, Opéré du dos, retour attendu début de saison prochaine.), Jurrien Timber (blessure non précisée (tracker ESPN), sévérité:moderate, statut:out, Absent pour les Pays-Bas selon le tracker de blessures ESPN.) | Joueurs indisponibles : 5
 Compositions alignées :
   Match 1 vs Japon (2026-06-14) : 4-2-3-1 — B. Verbruggen; D. Dumfries, J.P. van Hecke, V. van Dijk, M. van de Ven; F. de Jong, R. Gravenberch; C. Summerville, T. Reijnders, C. Gakpo; D. Malen
   Remplaçants disponibles :  | Coach: Ronald Koeman
@@ -936,7 +1016,7 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Hannibal Mejbri (MIL), Ellyes Skhiri (MIL)
 
 === BELGIQUE ===
-Matchs joués : 3 | Bilan : 1V-2N-0D | Buts : 6 pour, 2 contre
+Matchs joués : 4 | Bilan : 2V-2N-0D | Buts : 9 pour, 4 contre
 Buts : Leandro Trossard (2), Kevin De Bruyne (1), Romelu Lukaku (1), Alexis Saelemaekers (1), Mohamed Hany c.s.c. (1, par Égypte) | Total équipe : 6
 Cartons jaunes : Timothy Castagne (1, vs ?), Maxim De Cuyper (1, vs ?), Romelu Lukaku (1, vs Iran) | Total : 3
 Cartons rouges : Nathan Ngoy (vs Iran, 66', expulsion directe) | Total : 1
@@ -954,11 +1034,11 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Kevin De Bruyne (MIL), Romelu Lukaku (ATT), Thibaut Courtois (GK)
 
 === ÉGYPTE ===
-Matchs joués : 3 | Bilan : 1V-2N-0D | Buts : 5 pour, 3 contre
-Buts : Emam Ashour (1), Mostafa Ziko (1), Mohamed Salah (1), Trézéguet (1), Mahmoud Saber (1) | Total équipe : 5
-Cartons jaunes : Marwan Attia (1, vs ?), Ahmed Fatouh (1, vs ?), Mohanad Lasheen (1, vs Nouvelle-Zélande), Mahmoud Saber (2, vs Iran), Yasser Ibrahim (2, vs Iran) | Total : 7
+Matchs joués : 4 | Bilan : 1V-3N-0D | Buts : 6 pour, 4 contre
+Buts : Emam Ashour (2), Mostafa Ziko (1), Mohamed Salah (1), Trézéguet (1), Mahmoud Saber (1), Mohamed Hany c.s.c. (1, par Australie) | Total équipe : 7
+Cartons jaunes : Marwan Attia (1, vs ?), Ahmed Fatouh (1, vs ?), Mohanad Lasheen (1, vs Nouvelle-Zélande), Mahmoud Saber (1, vs Iran), Yasser Ibrahim (1, vs Iran) | Total : 5
 Cartons rouges : aucun | Total : 0
-Blessures : Mohamed Salah (Genou, sévérité:minor, statut:doubtful, Problème au genou en phase de groupes. Retour à l'entraînement. Incertain pour le huitième vs Mexique.) | Joueurs indisponibles : 0
+Blessures : Mohamed Salah (ischio-jambiers, sévérité:minor, statut:returning, Blessure contractée en fin de phase de groupes, incertain pour le huitième contre l'Australie.) | Joueurs indisponibles : 0
 Compositions alignées :
   Match 1 vs ? (?) : 4-3-3 — Mohamed Shobeir; Ahmed Hany, Ahmed Ibrahim, Hamdy Fathy, Mohamed Fatouh; Emam Ashour, Mohamed Attia, Marwan Lasheen; Mohamed Salah (c), Omar Marmoush, Zizo (Ziko)
   Remplaçants disponibles :  | Coach: Hossam Hassan
@@ -974,7 +1054,7 @@ Joueurs clés : Mohamed Salah (ATT), Omar Marmoush (ATT)
 === IRAN ===
 Matchs joués : 3 | Bilan : 0V-3N-0D | Buts : 3 pour, 3 contre
 Buts : Ramin Rezaeian (2), Mohammad Mohebbi (1) | Total équipe : 3
-Cartons jaunes : Ehsan Hajsafi (1, vs ?), Saeid Ezatolahi (1, vs Belgique), Kanaanizadegan (2, vs Égypte), Ali Nemati (2, vs Égypte) | Total : 6
+Cartons jaunes : Ehsan Hajsafi (1, vs ?), Saeid Ezatolahi (1, vs Belgique), Kanaanizadegan (1, vs Égypte), Ali Nemati (1, vs Égypte) | Total : 4
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1008,11 +1088,11 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Chris Wood (ATT), Liberato Cacace (DEF)
 
 === ESPAGNE ===
-Matchs joués : 3 | Bilan : 2V-1N-0D | Buts : 5 pour, 0 contre
-Buts : Lamine Yamal (1), Mikel Oyarzabal (2), Alex Baena (1), Hassan Al-Tambakti c.s.c. (1, par Arabie Saoudite) | Total équipe : 5
+Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 8 pour, 0 contre
+Buts : Lamine Yamal (1), Mikel Oyarzabal (4), Alex Baena (1), Pedro Porro (1), Hassan Al-Tambakti c.s.c. (1, par Arabie Saoudite) | Total équipe : 8
 Cartons jaunes : Pedri (1, vs ?), Alex Baena (1, vs Uruguay) | Total : 2
 Cartons rouges : aucun | Total : 0
-Blessures : Fermín López (Metatarsal fracture (surgical), sévérité:moderate, statut:out, Opéré d'une fracture du métatarse, forfait.), Mikel Merino (fracture de fatigue (pied), sévérité:moderate, statut:doubtful, Incertain.), Nico Williams (Aine, sévérité:moderate, statut:doubtful, Rechute lors du dernier match de groupe vs Uruguay. Pourrait manquer le reste du tournoi.), Yeremy Pino (Entorse acromio-claviculaire (clavicule), sévérité:moderate, statut:out, Blessé lors de la finale de groupe vs Uruguay. Pourrait manquer le reste du tournoi.) | Joueurs indisponibles : 2
+Blessures : Fermín López (Metatarsal fracture (surgical), sévérité:moderate, statut:out, Opéré d'une fracture du métatarse, forfait.), Mikel Merino (fracture de fatigue (pied), sévérité:moderate, statut:doubtful, Incertain.), Nico Williams (muscle adducteur droit, sévérité:moderate, statut:doubtful, Blessure contractée en phase de groupes, pas de délai de retour communiqué.), Yeremy Pino (entorse acromio-claviculaire, sévérité:moderate, statut:doubtful, Fracture évitée mais retour incertain, reste avec le groupe.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs ? (?) : 4-3-3 — Unai Simón; Marcos Llorente, Pau Cubarsí, Aymeric Laporte, Marc Cucurella; Fabián Ruiz, Rodri, Pedri; Ferran Torres, Mikel Oyarzabal, Gavi
   Remplaçants disponibles : Mikel Merino, Lamine Yamal, Dani Olmo, Nico Williams | Coach: Luis de la Fuente
@@ -1062,7 +1142,7 @@ Composition la plus fréquente : 5-3-2
 Joueurs clés : Salem Al-Dawsari (ATT), Nasser Al-Dawsari (MIL/ATT)
 
 === CAP-VERT ===
-Matchs joués : 3 | Bilan : 0V-3N-0D | Buts : 2 pour, 2 contre
+Matchs joués : 4 | Bilan : 0V-3N-1D | Buts : 4 pour, 5 contre
 Buts : Kevin Pina (1), Hélio Varela (1) | Total équipe : 2
 Cartons jaunes : Sidny Lopes Cabral (2, vs ?), Diney (1, vs Uruguay), Wagner Pina (1, vs Arabie Saoudite) | Total : 4
 Cartons rouges : aucun | Total : 0
@@ -1084,7 +1164,7 @@ Matchs joués : 4 | Bilan : 4V-0N-0D | Buts : 13 pour, 2 contre
 Buts : Kylian Mbappé (6), Bradley Barcola (2), Ousmane Dembélé (4), Georginio Rutter (1) | Total équipe : 13
 Cartons jaunes : Aurélien Tchouaméni (1, vs Norvège) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Hugo Ekitiké (Torn Achilles tendon, sévérité:severe, statut:out, Tendon d'Achille déchiré en Ligue des champions (CL Liverpool-PSG, avril). Forfait total.), William Saliba (Back injury, sévérité:minor, statut:returning, Deschamps confirme qu'il est apte à jouer. Déclaré disponible pour le tournoi.) | Joueurs indisponibles : 1
+Blessures : Hugo Ekitiké (Torn Achilles tendon, sévérité:severe, statut:out, Tendon d'Achille déchiré en Ligue des champions (CL Liverpool-PSG, avril). Forfait total.), William Saliba (Back injury, sévérité:minor, statut:returning, Deschamps confirme qu'il est apte à jouer. Déclaré disponible pour le tournoi.), Kylian Mbappé (Ankle injury, sévérité:minor, statut:returning, Minor ankle knock from Morocco quarter-final (July 9). Iced on bench, played it down. Expected available for semi-final vs Spain.), Aurélien Tchouaméni (Groin/adductor strain, sévérité:moderate, statut:doubtful, Injured July 3 before Paraguay match, out for last two matches. Improving with individual recovery program, uncertain for Spain semi-final.) | Joueurs indisponibles : 1
 Compositions alignées :
   Match 1 vs ? (?) : 4-2-3-1 — Mike Maignan; Jules Koundé, William Saliba, Dayot Upamecano, Théo Hernández; Aurélien Tchouaméni, Adrien Rabiot; Michael Olise, Désiré Doué, Ousmane Dembélé; Kylian Mbappé (c)
   Remplaçants disponibles : Bradley Barcola | Coach: Didier Deschamps
@@ -1100,7 +1180,7 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Kylian Mbappé (ATT), Antoine Griezmann (ATT/MIL)
 
 === SÉNÉGAL ===
-Matchs joués : 3 | Bilan : 1V-0N-2D | Buts : 8 pour, 6 contre
+Matchs joués : 4 | Bilan : 1V-0N-3D | Buts : 10 pour, 9 contre
 Buts : Ibrahim Mbaye (1), Ismaïla Sarr (2), Habib Diarra (1), Ismaila Sarr (1), Pape Gueye (2), Iliman Ndiaye (1) | Total équipe : 8
 Cartons jaunes : Abdoulaye Seck (1, vs Irak), Pape Gueye (1, vs Irak) | Total : 2
 Cartons rouges : aucun | Total : 0
@@ -1120,7 +1200,7 @@ Joueurs clés : Sadio Mané (ATT), Gana Gueye (MIL)
 === NORVÈGE ===
 Matchs joués : 4 | Bilan : 3V-0N-1D | Buts : 10 pour, 8 contre
 Buts : Erling Haaland (5), Leo Østigård (1), Holmgren Pedersen (1), Thelo Aasgaard (1), Antonio Nusa (1), Aymen Hussein c.s.c. (1, par Irak) | Total équipe : 10
-Cartons jaunes : Patrick Berg (1, vs France), Antonio Nusa (2, vs Côte d'Ivoire) | Total : 3
+Cartons jaunes : Patrick Berg (1, vs France), Antonio Nusa (1, vs Côte d'Ivoire) | Total : 2
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1156,7 +1236,7 @@ Composition la plus fréquente : 4-4-2
 Joueurs clés : N/D
 
 === ARGENTINE ===
-Matchs joués : 3 | Bilan : 3V-0N-0D | Buts : 8 pour, 1 contre
+Matchs joués : 4 | Bilan : 4V-0N-0D | Buts : 11 pour, 3 contre
 Buts : Lionel Messi (6), Giovani Lo Celso (1), Lautaro Martínez (1) | Total équipe : 8
 Cartons jaunes : Leandro Paredes (1, vs Autriche) | Total : 1
 Cartons rouges : aucun | Total : 0
@@ -1174,9 +1254,9 @@ Composition la plus fréquente : 4-4-2
 Joueurs clés : Lionel Messi (ATT), Julián Álvarez (ATT), Enzo Fernández (MIL)
 
 === ALGÉRIE ===
-Matchs joués : 3 | Bilan : 1V-1N-1D | Buts : 5 pour, 7 contre
+Matchs joués : 4 | Bilan : 1V-1N-2D | Buts : 5 pour, 9 contre
 Buts : Benbouali (1), Amine Gouiri (1), Rayan Belghali (1), Riyad Mahrez (2) | Total équipe : 5
-Cartons jaunes : Ramiz Zerrouki (1, vs Jordanie) | Total : 1
+Cartons jaunes : Ramiz Zerrouki (1, vs Jordanie), Fares Chaibi (1, vs Suisse), Hicham Boudaoui (1, vs Suisse) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : Luca Zidane (fracture mâchoire/menton, sévérité:moderate, statut:returning, NOUVEAU : 'plus impressionnant que grave', attendu disponible.) | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1192,9 +1272,9 @@ Composition la plus fréquente : 4-3-3
 Joueurs clés : N/D
 
 === AUTRICHE ===
-Matchs joués : 3 | Bilan : 1V-1N-1D | Buts : 6 pour, 6 contre
+Matchs joués : 4 | Bilan : 1V-1N-2D | Buts : 6 pour, 9 contre
 Buts : Romano Schmid (1), Marko Arnautović (2), Marcel Sabitzer (1), Sasa Kalajdzic (1), Yazan Al-Arab c.s.c. (1, par Jordanie) | Total équipe : 6
-Cartons jaunes : Marcel Sabitzer (1, vs ?), Konrad Laimer (1, vs Algérie) | Total : 2
+Cartons jaunes : Marcel Sabitzer (1, vs ?), Konrad Laimer (1, vs Algérie), Stefan Posch (1, vs Espagne) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1228,9 +1308,9 @@ Composition la plus fréquente : 3-4-2-1
 Joueurs clés : N/D
 
 === PORTUGAL ===
-Matchs joués : 3 | Bilan : 1V-2N-0D | Buts : 6 pour, 1 contre
-Buts : João Neves (1), Cristiano Ronaldo (2), Nuno Mendes (1), Rafael Leão (1), A. Nematov c.s.c. (1, par Portugal) | Total équipe : 6
-Cartons jaunes : Bernardo Silva (1, vs RD Congo), Nélson Semedo (1, vs RD Congo), Tomás Araújo (1, vs RD Congo) | Total : 3
+Matchs joués : 4 | Bilan : 2V-2N-0D | Buts : 8 pour, 2 contre
+Buts : João Neves (1), Cristiano Ronaldo (3), Nuno Mendes (1), Rafael Leão (1), Gonçalo Ramos (1), A. Nematov c.s.c. (1, par Portugal) | Total équipe : 8
+Cartons jaunes : Bernardo Silva (1, vs RD Congo), Nélson Semedo (1, vs RD Congo), Tomás Araújo (1, vs RD Congo), Rúben Dias (1, vs Croatie) | Total : 4
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1240,9 +1320,9 @@ Composition la plus fréquente : 4-3-3
 Joueurs clés : Cristiano Ronaldo (ATT), Bruno Fernandes (MIL)
 
 === COLOMBIE ===
-Matchs joués : 3 | Bilan : 2V-1N-0D | Buts : 4 pour, 1 contre
-Buts : Daniel Muñoz (2), Luis Díaz (1), Jaminton Campaz (1) | Total équipe : 4
-Cartons jaunes : Johan Mojica (1, vs Ouzbékistan), J. Lerma (1, vs RD Congo) | Total : 2
+Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 5 pour, 1 contre
+Buts : Daniel Muñoz (2), Luis Díaz (1), Jaminton Campaz (1), Jhon Arias (1) | Total équipe : 5
+Cartons jaunes : Johan Mojica (1, vs Ouzbékistan), J. Lerma (1, vs RD Congo), Jhon Arias (1, vs Ghana) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : aucune signalée | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1280,7 +1360,7 @@ Matchs joués : 4 | Bilan : 3V-1N-0D | Buts : 8 pour, 2 contre
 Buts : Harry Kane (3), Jude Bellingham (2), Marcus Rashford (1) | Total équipe : 6
 Cartons jaunes : Declan Rice (1, vs Ghana) | Total : 1
 Cartons rouges : aucun | Total : 0
-Blessures : Tino Livramento (blessure à la cuisse (fin de saison), sévérité:severe, statut:out, NOUVEAU : indisponible avant Angleterre-Croatie (17/06).), Bukayo Saka (problème au tendon d'Achille, sévérité:minor, statut:doubtful, charge de travail surveillée), Reece James (Ischio-jambiers, sévérité:minor, statut:out, Absent contre la RD Congo (1er juillet). Djed Spence en remplacement en latéral droit.), Jarell Quansah (Cheville (entorse vs Panama), sévérité:minor, statut:out, Forfait pour le huitième vs RD Congo.), Declan Rice (Dos/nerf ischio-jambiers, sévérité:minor, statut:returning, Mis au repos vs Panama par précaution. Retour à l'entraînement complet. Apte pour le match du 1er juillet.) | Joueurs indisponibles : 3
+Blessures : Tino Livramento (blessure à la cuisse (fin de saison), sévérité:severe, statut:out, NOUVEAU : indisponible avant Angleterre-Croatie (17/06).), Bukayo Saka (problème au tendon d'Achille, sévérité:minor, statut:doubtful, charge de travail surveillée), Reece James (ischio-jambiers, sévérité:moderate, statut:returning, A manqué le huitième contre la RD Congo mais scan rassurant, en course pour un retour en quarts.), Jarell Quansah (Cheville (entorse vs Panama), sévérité:minor, statut:out, Forfait pour le huitième vs RD Congo.), Declan Rice (dos / douleur nerveuse (ischio-jambier), sévérité:minor, statut:returning, A repris l'entraînement collectif, progression favorable.) | Joueurs indisponibles : 2
 Compositions alignées :
   Match 1 vs Croatie (2026-06-17) : 4-2-3-1 — Jordan Pickford; Reece James, John Stones, Ezri Konsa, Nico O'Reilly; Declan Rice, Elliot Anderson; Noni Madueke, Jude Bellingham, Anthony Gordon; Harry Kane
   Remplaçants disponibles : Morgan Rogers, Bukayo Saka, Marcus Rashford, Djed Spence, Marc Guéhi | Coach: Thomas Tuchel
@@ -1290,9 +1370,9 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Jude Bellingham (MIL/ATT), Harry Kane (ATT), Bukayo Saka (ATT) — doubtful
 
 === CROATIE ===
-Matchs joués : 3 | Bilan : 2V-0N-1D | Buts : 5 pour, 5 contre
-Buts : Martin Baturina (1), Petar Musa (1), Ante Budimir (1) | Total équipe : 3
-Cartons jaunes : Petar Sučić (1, vs Panama) | Total : 1
+Matchs joués : 4 | Bilan : 2V-0N-2D | Buts : 6 pour, 7 contre
+Buts : Martin Baturina (1), Petar Musa (1), Ante Budimir (1), Ivan Perisic (1) | Total équipe : 4
+Cartons jaunes : Petar Sučić (1, vs Panama), Luka Modric (1, vs Portugal), Ivan Perisic (1, vs Portugal) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : Luka Modrić (Complex cheekbone fracture, sévérité:minor, statut:returning, Fracture de la pommette, retour attendu pour le tournoi.) | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1304,9 +1384,9 @@ Composition la plus fréquente : 4-2-3-1
 Joueurs clés : Luka Modrić (MIL), Ivan Perišić (MIL/ATT)
 
 === GHANA ===
-Matchs joués : 3 | Bilan : 1V-1N-1D | Buts : 2 pour, 2 contre
+Matchs joués : 4 | Bilan : 1V-1N-2D | Buts : 2 pour, 3 contre
 Buts : Caleb Yirenkyi (1) | Total équipe : 1
-Cartons jaunes : Caleb Yirenkyi (1, vs Panama), Iñaki Williams (1, vs Angleterre) | Total : 2
+Cartons jaunes : Caleb Yirenkyi (2, vs Panama), Iñaki Williams (1, vs Angleterre) | Total : 3
 Cartons rouges : aucun | Total : 0
 Blessures : Mohammed Kudus (Hamstring, sévérité:moderate, statut:doubtful, Rechute musculaire, grosse incertitude pour la suite du tournoi.) | Joueurs indisponibles : 0
 Compositions alignées :
@@ -1343,23 +1423,27 @@ Joueurs clés : N/D
 — Bosnie-Herzégovine ↓ : Lourde défaite 1-4 vs Suisse; doit l'emporter vs Qatar pour espérer.
 — Uruguay → : Nul 2-2 vs Cap-Vert, dynamique en demi-teinte.
 — Argentine ↑ : Deux victoires parfaites en phase de groupes : 3-0 vs Algérie, 2-0 vs Autriche. Déjà qualifiés et premiers du groupe J. Défense solide malgré l'inquiétude Romero.
-— France ↑ : Deux victoires convaincantes : 4-1 vs Irak, 3-2 vs Sénégal. Match décisif contre la Norvège le 26 juin pour le leadership du groupe I. Défense impressionnante (0,10 xG concédé à Sénégal).
 — Allemagne → : 7-1 vs Curaçao puis 2-1 vs Côte d'Ivoire, mais perd Schlotterbeck sur blessure. Défense fragilisée en vue des huitièmes. Attaque prolifique, défense sous pression.
 — Colombie ↑ : Premiers du groupe K (6 pts en 2 matchs). Daniel Muñoz buteur lors des 2 matchs. Progression constante.
 — Suisse → : Invaincus en groupe B (7 pts). Victoire 2-1 vs Canada. Réguliers et difficiles à battre.
-— Brésil ↓ : Vainqueur du groupe mais touché par une crise de blessures (Paquetá forfait, Raphinha douteux, Estêvão/Rodrygo/Militão absents avant le tournoi). Victoire poussive 2-1 vs Japon en R32. Profondeur de banc sévèrement testée avant le huitième vs Norvège.
-— Angleterre → : Vainqueur du groupe L, victoire 2-0 vs Panama. Trois clean sheets en phase de groupes. Bonne solidité défensive mais crise au poste de latéral droit avec James et Quansah absents.
 — Belgique → : Vainqueur du groupe G malgré un jeu décrit comme 'défaillant'. Trossard meilleur buteur belge (2 buts). Groupe en bonne santé.
 — Sénégal ↓ : Qualifié parmi les meilleurs troisièmes après une phase de groupes compétitive. Perd son gardien titulaire Mendy — coup dur. Dangereux offensivement.
 — États-Unis ↑ : Vainqueur du groupe D. Pulisic ménagé en phase de groupes ; désormais apte et prêt à jouer vs Bosnie. Avantage du terrain à Santa Clara.
-— Espagne ↓ : Perd Williams et Pino en finale de groupe vs Uruguay — double coup dur sur les ailes. Lamine Yamal en forme et en pleine confiance. L'Espagne devra adapter son système.
 — Maroc ↑ : Exploit : élimine les Pays-Bas 3-2 aux tirs au but (après 1-1) en R32. Portés par une immense confiance pour le huitième.
 — Norvège ↑ : Victoire 2-1 vs Côte d'Ivoire le 30 juin pour se qualifier en huitième. Affrontera le Brésil — défi immense, mais timing parfait vu la crise de blessures brésilienne.
 — Paraguay ↑ : Élimine l'Allemagne 4-3 aux tirs au but après 1-1 en R32 (29 juin). L'histoire Cendrillon du tournoi jusqu'à présent.
 — Canada ↑ : Victoire 1-0 vs Afrique du Sud en R32 (28 juin). Alphonso Davies de retour en cours de match — élan et dynamique.
 — Mexique ↑ : Premier du groupe A. Victoire 2-0 vs Équateur le 1er juillet. Affronte l'Égypte en huitième à Mexico — quasiment à domicile.
+— Angleterre ↑ : A repris l'entraînement collectif après un problème lombaire/nerf sciatique, progresse favorablement vers un retour.
+— Angleterre ↑ : Scan rassurant sur sa blessure aux ischio-jambiers, en course pour être disponible en quarts après avoir manqué le huitième contre la RD Congo.
+— Brésil ↑ : Remis de sa blessure au mollet et physiquement apte à jouer 90 minutes selon Ancelotti, mais utilisé avec parcimonie comme arme offensive en fin de match.
+— Espagne ↓ : Blessure musculaire à l'adducteur droit ; pas de calendrier de retour donné, incertain pour les prochains tours.
+— Espagne ↓ : Entorse acromio-claviculaire (fracture évitée) ; reste avec le groupe mais retour incertain.
+— France ↑ : Six-game winning streak. Scored 16 goals in knockout rounds. Dominant attacking form with Mbappé leading the charge.
+— Spain → : Unbeaten in six matches with exceptional defensive record (1 goal conceded in six games, longest streak in World Cup history). Defensive strength compensates for lower conversion rate.
+— England ↑ : Late heroics vs Norway in extra time (Bellingham 2-1 victory). Defensively solid but dealing with injury crisis. Showed character in knockout stages.
+— Argentina → : Defending champions winning through extra time. Experiencing some defensive vulnerability (conceded in last games) but Messi's exceptional form carries the team.
   · Vozinha (Cap-Vert) : Gardien de 40 ans exceptionnel, clean sheet vs Espagne.
-  · Emam Ashour (Égypte) : Buteur et menace offensive directe vs Belgique.
   · Elijah Just (Nouvelle-Zélande) : Doublé (7',54') vs Iran.
   · Mikel Oyarzabal (Espagne) : Doublé vs Arabie saoudite.
   · Lamine Yamal (Espagne) : 1er but en CDM vs Arabie saoudite, cameo de retour réussi.
@@ -1367,10 +1451,7 @@ Joueurs clés : N/D
   · Folarin Balogun (États-Unis) : 2 buts contre le Paraguay. Transposition de sa forme en club (19 buts + 4 passes décisives à Monaco). Élément clé de l'attaque américaine.
   · Daniel Muñoz (Colombie) : Buteur lors des 2 premiers matchs de groupe. Latéral droit offensif en grande forme.
   · Lionel Messi (Argentine) : Meilleur buteur du tournoi avec 6 buts. Forme dominante malgré les inquiétudes pré-tournoi. Garde le meilleur pour le Mondial.
-  · Kylian Mbappé (France) : Co-meilleur buteur avec 6 buts. Dévastateur ; la France semble inarrêtable quand il est en feu.
   · Erling Haaland (Norvège) : 5 buts dans le tournoi — propulse la Norvège loin dans les phases éliminatoires pour la première fois depuis des décennies.
-  · Ousmane Dembélé (France) : 4 buts ; association brillante avec Mbappé. L'attaque française tourne à plein régime.
-  · Vinícius Júnior (Brésil) : 4 buts ; principale menace offensive brésilienne. Encore plus décisif avec les blessures de Paquetá et Raphinha.
   · Michael Olise (Angleterre) : 3 buts et 5 passes décisives — leader du tournoi dans cette catégorie. S'impose comme le joueur le plus créatif de l'Angleterre.
   · Achraf Hakimi (Maroc) : Leader du tournoi en occasions créées (15). Force offensive et défensive — clé dans l'exploit marocain contre les Pays-Bas.
   · Florian Wirtz (Allemagne) : 3 passes décisives en phase de groupes. Allemagne éliminée en R32 par le Paraguay aux tirs au but.
@@ -1378,6 +1459,13 @@ Joueurs clés : N/D
   · Leandro Trossard (Belgique) : Meilleur buteur belge avec 2 buts et 13 occasions créées. Homme clé pour la Belgique vs Sénégal.
   · Declan Rice (Angleterre) : Blessure gérée avec précaution en phase de groupes. Confirmé apte pour le R32 vs Congo. L'Angleterre a besoin de lui à 100 %.
   · Son Heung-min (Corée du Sud) : Corée du Sud éliminée en phase de groupes. Son a déclaré être 'indescriptiblement blessé' par cette sortie prématurée.
+  · Mohamed Salah (Égypte) : Incertain pour le huitième de finale contre l'Australie malgré une blessure aux ischio-jambiers contractée en fin de phase de groupes.
+  · Neymar (Brésil) : A retrouvé du temps de jeu en fin de match après sa blessure au mollet ; rôle de super-sub plutôt que titulaire indiscutable.
+  · Kylian Mbappé (France) : 8 goals in tournament (co-leader Golden Boot with Messi). 39% conversion rate, clinical finishing in knockout rounds. Minor ankle concern but remain among tournament's standout players.
+  · Lamine Yamal (Spain) : Young emerging star, key playmaker for Spain's attacking setup. Renewing club rivalry with Mbappé at international level.
+  · Jude Bellingham (England) : Scored decisive extra-time goals vs Norway including the 2-1 winner. First England player since Diego Maradona (1986) to debut in World Cup with such immediate impact.
+  · Lionel Messi (Argentina) : 8 goals, co-leader Golden Boot. Historic form at age 39 with 9 goal contributions. Central to Argentina's tournament progression. 20 goals in 20 World Cup games lifetime.
+  · Harry Kane (England) : 6 goals in tournament, key match-winner for England alongside Bellingham.
 
 [ENGAGEMENT ET ENJEUX]
 — Groupe A : leader Mexique (9pt). Restant : 0 journée(s).
@@ -1400,23 +1488,27 @@ Joueurs clés : N/D
   · Écosse : Groupe C: victoire impérative pour une qualif automatique; sinon dépendant des meilleurs 3es.
   · Bosnie-Herzégovine : Bosnie-Qatar (24/06): le vainqueur se qualifie probablement; un nul élimine sans doute les deux.
   · Ghana : Angleterre-Ghana (23/06, Groupe L): Kudus incertain (ischio), facteur clé.
-  · France : Match décisif le 26 juin vs Norvège pour la tête du groupe I. Les deux équipes sont qualifiées mais le classement déterminera le tableau dans la phase à élimination directe. Duel Mbappé-Haaland au centre de l'attention mondiale.
   · Argentine : Qualification et 1re place acquises. Dernier match vs Jordan (groupe J) = rotation probable / repos des cadres. Inquiétude sur Romero pour les 1/32e.
   · Turquie : Match crucial le 26 juin vs USA : doit au moins égaler le résultat du Paraguay pour se qualifier. Arda Güler en course pour être disponible.
   · Allemagne : Qualifiés en tête du groupe E. Prochain adversaire potentiel : Ecuador (qui les a battus 2-1). Défense fragilisée après la perte de Schlotterbeck.
   · Équateur : Qualification obtenue après victoire surprise 2-1 vs Allemagne. Moral au plus haut. Possible affrontement avec l'Allemagne en 1/32e.
   · Afrique du Sud : Qualification inattendue pour les 1/32e (1-0 vs Corée du Sud). Première phase à élimination directe pour la nation arc-en-ciel. Affronte le Canada le 28 juin.
-  · Angleterre : Doit gagner le R32 vs RD Congo (1er juillet, Atlanta). Crise au poste de latéral droit (James + Quansah absents). Tuchel doit trancher sur le rôle de Rice. Victoire attendue mais fragilité défensive préoccupante.
   · Belgique : R32 vs Sénégal (1er juillet, Seattle). Malgré leur victoire en groupe G, les Belges ont manqué de convction. Sénégal sans Mendy — avantage à exploiter tôt. De Bruyne doit dicter. Une défaite serait un gros upset.
   · Sénégal : Affronte la Belgique sans Mendy (genou). Progression en huitième serait un exploit dans ces circonstances.
   · États-Unis : Avantage du public à Santa Clara vs Bosnie-Herzégovine. Pulisic pleinement apte pour la première fois du tournoi. La nation attend une grande campagne ; une élimination au R32 serait une immense déception.
-  · Brésil : Affronte la Norvège en huitième. Paquetá forfait, Raphinha douteux — Neymar pourrait reprendre sa place dans le XI. Le Brésil reste favori sur le papier mais leur profondeur est sévèrement testée.
   · Norvège : Affronte le Brésil en huitième — véritable opportunité de tuer le géant. Le Brésil est blessé. Haaland en feu (5 buts). Si la Norvège reste dans le match, une séance aux tirs au but leur conviendrait. Enjeu historique pour le football norvégien.
-  · Maroc : A éliminé les Pays-Bas en R32 (3-2 aux tirs au but). L'une des grandes histoires du tournoi. Hakimi créateur infatigable. Confiance au maximum pour le huitième.
   · Paraguay : A éliminé l'Allemagne 4-3 aux tirs au but après 1-1 en R32. Conte de fées du tournoi. Affrontera un adversaire coriace en huitième mais le momentum est de leur côté.
   · Mexique : Victoire 2-0 vs Équateur le 1er juillet. Affronte l'Égypte en huitième à Mexico — quasiment à domicile. Salah douteux pour l'Égypte — avantage conséquent pour le Mexique.
-  · Espagne : Double crise sur les ailes (Williams + Pino blessés en finale de groupe). Lamine Yamal apte et en forme. Ajustement tactique nécessaire. Toujours l'un des favoris mais vulnérable sur les côtés.
   · Canada : Victoire en R32 (1-0 vs Afrique du Sud). Davies en retour de blessure. Pour le Canada, chaque victoire en phase éliminatoire est historique. Vague d'enthousiasme national.
+  · Maroc : Qualifié pour les quarts (victoire aux tirs au but face aux Pays-Bas) mais effectif décimé par les blessures avant d'affronter la France.
+  · Angleterre : Qualifiée pour les quarts après avoir battu la RD Congo ; retours progressifs de Rice et James renforcent le groupe.
+  · Brésil : Ancelotti gère prudemment le retour de Neymar, l'utilisant en joker plutôt qu'en titulaire pour les phases à élimination directe.
+  · Espagne : Champions d'Europe en titre, qualifiés en tête de groupe malgré la double blessure de leurs ailiers Nico Williams et Yeremy Pino.
+  · Égypte : Salah incertain mais dans le groupe pour le huitième contre l'Australie.
+  · France : Championship contenders with strongest offensive form. Mbappé's ankle injury is potential tournament-decisive factor. Facing Spain after losing Euro 2024 semi-final and 2025 Nations League match (5-4) to them.
+  · Spain : Record-breaking defensive performance carrying them forward. Direct rematch with France after two recent defeats. Opta supercomputer gives France 42.1% win probability vs Spain's 31.8%.
+  · England : Historic semi-final vs Argentina (first World Cup meeting since 2002). Bellingham's emergence as match-winner offsets defensive injury concerns. Analyzed as 56-58% probability to reach final.
+  · Argentina : Defending champions relying on Messi's historic form at age 39. Experience factor crucial in tight semi-final against high-quality opposition. Analysts expect low-scoring contest (Under 2.5 goals favored).
 
 [SUSPENSIONS ET DISPONIBILITÉS À VENIR]
 — Suspendus au prochain match :
@@ -1434,13 +1526,14 @@ Joueurs clés : N/D
   · Piero Hincapié (Équateur) — rouge direct (90+5', Faute grossière)
   · Casemiro (Brésil) — 2 cartons jaunes cumulés
   · Sidny Lopes Cabral (Cap-Vert) — 2 cartons jaunes cumulés
+  · Caleb Yirenkyi (Ghana) — 2 cartons jaunes cumulés
   · Issa Diop (Maroc) — 2 cartons jaunes cumulés
   · Matías Galarza (Paraguay) — 2 cartons jaunes cumulés
   · Leandro Bacuna (Curaçao) — 2 cartons jaunes cumulés
   · Gervane Kastaneer (Curaçao) — 2 cartons jaunes cumulés
   · Danilo (Brésil) — 2 cartons jaunes cumulés
-— Retours attendus : Neymar (Brésil), Chris Richards (États-Unis), Luka Modrić (Croatie), Luca Zidane (Algérie), Wataru Endo (Japon), Achraf Hakimi (Maroc), Arda Güler (Turquie), Lionel Messi (Argentine), William Saliba (France), Declan Rice (Angleterre), Christian Pulisic (États-Unis)
-— Incertains (doubtful) : Abde Ezzalzouli (Maroc), Julio Enciso (Paraguay), José María Giménez (Uruguay), Cristian Romero (Argentine), Nahuel Molina (Argentine), Bukayo Saka (Angleterre), Mohammed Kudus (Ghana), Mikel Merino (Espagne), Aiden O'Neill (Australie), Patrick Yazbek (Australie), Kalidou Koulibaly (Sénégal), Alphonso Davies (Canada), José Giménez (Uruguay), Raphinha (Brésil), Nico Williams (Espagne), Mohamed Salah (Égypte), Auston Trusty (États-Unis), Mark McKenzie (États-Unis), Cristian Roldan (États-Unis)
+— Retours attendus : Neymar (Brésil), Chris Richards (États-Unis), Reece James (Angleterre), Luka Modrić (Croatie), Luca Zidane (Algérie), Wataru Endo (Japon), Achraf Hakimi (Maroc), Arda Güler (Turquie), Lionel Messi (Argentine), William Saliba (France), Declan Rice (Angleterre), Mohamed Salah (Égypte), Christian Pulisic (États-Unis), Kylian Mbappé (France), Reece James (England)
+— Incertains (doubtful) : Abde Ezzalzouli (Maroc), Julio Enciso (Paraguay), José María Giménez (Uruguay), Cristian Romero (Argentine), Nahuel Molina (Argentine), Bukayo Saka (Angleterre), Mohammed Kudus (Ghana), Mikel Merino (Espagne), Aiden O'Neill (Australie), Patrick Yazbek (Australie), Kalidou Koulibaly (Sénégal), Alphonso Davies (Canada), José Giménez (Uruguay), Raphinha (Brésil), Nico Williams (Espagne), Yeremy Pino (Espagne), Auston Trusty (États-Unis), Mark McKenzie (États-Unis), Cristian Roldan (États-Unis), Ismaël Saibari (Maroc), Chadi Riad (Maroc), Aurélien Tchouaméni (France), Marc Guehi (England), Declan Rice (England), Gonzalo Medina (Argentina)
 — À 1 carton jaune (risque de suspension par cumul) :
   · Brian Gutiérrez (Mexique)
   · Lee Gi-hyuk (Corée du Sud)
@@ -1472,7 +1565,6 @@ Joueurs clés : N/D
   · Tomás Araújo (Portugal)
   · Johan Mojica (Colombie)
   · Abdukodir Khusanov (Ouzbékistan)
-  · Caleb Yirenkyi (Ghana)
   · César Blackman (Panama)
   · Carlos Harvey (Panama)
   · Teboho Mokoena (Afrique du Sud)
@@ -1528,6 +1620,10 @@ Joueurs clés : N/D
   · Ryan Christie (Écosse)
   · J. Casimir (Haïti)
   · Nicolas Pépé (Côte d'Ivoire)
+  · Kanaanizadegan (Iran)
+  · Ali Nemati (Iran)
+  · Mahmoud Saber (Égypte)
+  · Yasser Ibrahim (Égypte)
   · Liberato Stamenić (Nouvelle-Zélande)
   · Chris Just (Nouvelle-Zélande)
   · Alex Baena (Espagne)
@@ -1548,19 +1644,36 @@ Joueurs clés : N/D
   · Mohannad Abu Taha (Jordanie)
   · Yazan Al-Arab (Jordanie)
   · Mohammad Abu Zrayq (Jordanie)
+  · Nathan Saliba (Canada)
+  · Niko Sigur (Canada)
+  · Kaishu Sano (Japon)
+  · Daichi Kamada (Japon)
+  · Junnosuke Suzuki (Japon)
+  · Kai Havertz (Allemagne)
+  · Jamal Musiala (Allemagne)
+  · Andrés Cubas (Paraguay)
+  · Antonio Nusa (Norvège)
+  · Alan Franco (Équateur)
+  · Stefan Posch (Autriche)
+  · Rúben Dias (Portugal)
+  · Luka Modric (Croatie)
+  · Ivan Perisic (Croatie)
+  · Fares Chaibi (Algérie)
+  · Hicham Boudaoui (Algérie)
+  · Jhon Arias (Colombie)
 
 [ANALYSE PRONOSTIC]
-Données valides au : 2026-07-01
+Données valides au : 2026-07-13
 
 — Équipes avec 100% de victoires : Mexique (Gr.A), France (Gr.I), Argentine (Gr.J)
 — Équipes en forme (au moins 1 victoire) : Mexique, Afrique du Sud, Corée du Sud, Suisse, Canada, Bosnie-Herzégovine, Brésil, Maroc, Écosse, États-Unis, Australie, Paraguay, Allemagne, Côte d'Ivoire, Équateur, Pays-Bas, Japon, Suède, Belgique, Égypte, Espagne, France, Norvège, Sénégal, Argentine, Autriche, Algérie, Colombie, Portugal, RD Congo, Angleterre, Croatie, Ghana
 — Solidité défensive (clean sheets) : Mexique, Espagne
 — Forces offensives (≥3 buts/match) : Allemagne (10 buts), Pays-Bas (10 buts), France (10 buts)
 
-— Statistiques globales tournoi (80 matchs terminés) :
-  Total buts : 232 | Moyenne : 2.90/match
-  Cartons jaunes : 152 | Cartons rouges : 12
-  Affluence totale : 3 808 702 | Moyenne : 64 554
+— Statistiques globales tournoi (88 matchs terminés) :
+  Total buts : 255 | Moyenne : 2.90/match
+  Cartons jaunes : 142 | Cartons rouges : 12
+  Affluence totale : 4 113 974 | Moyenne : 64 280
 
 — Règles disciplinaires :
   2 cartons jaunes (matchs séparés) = 1 match de suspension
@@ -1568,5 +1681,5 @@ Données valides au : 2026-07-01
   Réinitialisation des avertissements : après la phase de groupes et après les quarts
 
 ===========================================================================
-FIN DU FICHIER — 80 matchs enregistrés | 48 équipes documentées | Dernière MAJ : 2026-07-01
+FIN DU FICHIER — 88 matchs enregistrés | 48 équipes documentées | Dernière MAJ : 2026-07-13
 ===========================================================================

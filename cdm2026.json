@@ -1,8 +1,8 @@
 {
   "meta": {
     "tournament": "Coupe du Monde FIFA 2026",
-    "last_updated": "2026-07-01",
-    "current_phase": "Huitièmes de finale — 8 matchs joués (R32-1 à R32-8), 8 matchs restants programmés (R32-9 à R32-16)",
+    "last_updated": "2026-07-13",
+    "current_phase": "knockout",
     "sources": [
       "FIFA.com",
       "Wikipédia",
@@ -2002,7 +2002,7 @@
     {
       "id": "R32-1",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-28",
       "venue": "SoFi Stadium",
       "city": "Inglewood",
@@ -2018,7 +2018,7 @@
     {
       "id": "R32-2",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-29",
       "venue": "NRG Stadium",
       "city": "Houston",
@@ -2034,7 +2034,7 @@
     {
       "id": "R32-3",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-29",
       "venue": "Gillette Stadium",
       "city": "Foxborough",
@@ -2055,7 +2055,7 @@
     {
       "id": "R32-4",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-29",
       "venue": "Estadio BBVA",
       "city": "Guadalupe",
@@ -2076,7 +2076,7 @@
     {
       "id": "R32-5",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-30",
       "venue": "AT&T Stadium",
       "city": "Arlington",
@@ -2092,7 +2092,7 @@
     {
       "id": "R32-6",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-30",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
@@ -2108,7 +2108,7 @@
     {
       "id": "R32-7",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-06-30",
       "venue": "Estadio Azteca",
       "city": "Mexico",
@@ -2124,7 +2124,7 @@
     {
       "id": "R32-8",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-07-01",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -2139,24 +2139,33 @@
     {
       "id": "R32-9",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-07-01",
       "venue": "Lumen Field",
       "city": "Seattle",
       "home": "Belgique",
       "away": "Sénégal",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        3,
+        2
+      ],
+      "et": true
     },
     {
       "id": "R32-10",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-07-01",
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
       "home": "États-Unis",
       "away": "Bosnie-Herzégovine",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        2,
+        0
+      ]
     },
     {
       "id": "R32-11",
@@ -2164,10 +2173,15 @@
       "round": "Huitièmes de finale",
       "date": "2026-07-02",
       "venue": "SoFi Stadium",
-      "city": "Inglewood",
+      "city": "Los Angeles",
       "home": "Espagne",
       "away": "Autriche",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        3,
+        0
+      ],
+      "attendance": 70492
     },
     {
       "id": "R32-12",
@@ -2178,7 +2192,12 @@
       "city": "Toronto",
       "home": "Portugal",
       "away": "Croatie",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        2,
+        1
+      ],
+      "attendance": 43036
     },
     {
       "id": "R32-13",
@@ -2189,40 +2208,65 @@
       "city": "Vancouver",
       "home": "Suisse",
       "away": "Algérie",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        2,
+        0
+      ],
+      "attendance": 54500
     },
     {
       "id": "R32-14",
       "phase": "knockout",
       "round": "Huitièmes de finale",
       "date": "2026-07-03",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
+      "venue": "AT&amp;T Stadium",
+      "city": "Dallas",
       "home": "Australie",
       "away": "Égypte",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        1,
+        1
+      ],
+      "et": true,
+      "pens": [
+        2,
+        4
+      ],
+      "attendance": 70244
     },
     {
       "id": "R32-15",
       "phase": "knockout",
-      "round": "Huitièmes de finale",
+      "round": "Seizièmes de finale",
       "date": "2026-07-03",
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
       "home": "Argentine",
       "away": "Cap-Vert",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        3,
+        2
+      ],
+      "et": true
     },
     {
       "id": "R32-16",
       "phase": "knockout",
       "round": "Huitièmes de finale",
       "date": "2026-07-03",
-      "venue": "Arrowhead Stadium",
+      "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City",
       "home": "Colombie",
       "away": "Ghana",
-      "status": "scheduled"
+      "status": "played",
+      "score": [
+        1,
+        0
+      ],
+      "attendance": 67000
     }
   ],
   "events": [
@@ -4833,112 +4877,138 @@
       "minute": "67"
     },
     {
-      "match": "G5",
-      "team": "Iran",
-      "player": "Kanaanizadegan",
-      "type": "yellow"
+      "match": "R32-11",
+      "team": "Espagne",
+      "player": "Mikel Oyarzabal",
+      "type": "goal",
+      "minute": "36"
     },
     {
-      "match": "G5",
-      "team": "Iran",
-      "player": "Ali Nemati",
-      "type": "yellow"
+      "match": "R32-11",
+      "team": "Espagne",
+      "player": "Pedro Porro",
+      "type": "goal",
+      "minute": "66"
     },
     {
-      "match": "G5",
+      "match": "R32-11",
+      "team": "Espagne",
+      "player": "Mikel Oyarzabal",
+      "type": "goal",
+      "minute": "89"
+    },
+    {
+      "match": "R32-11",
+      "team": "Autriche",
+      "player": "Stefan Posch",
+      "type": "yellow",
+      "minute": "83"
+    },
+    {
+      "match": "R32-12",
+      "team": "Croatie",
+      "player": "Ivan Perisic",
+      "type": "goal",
+      "minute": "53"
+    },
+    {
+      "match": "R32-12",
+      "team": "Portugal",
+      "player": "Cristiano Ronaldo",
+      "type": "pen",
+      "minute": "68"
+    },
+    {
+      "match": "R32-12",
+      "team": "Portugal",
+      "player": "Gonçalo Ramos",
+      "type": "goal",
+      "minute": "94"
+    },
+    {
+      "match": "R32-12",
+      "team": "Portugal",
+      "player": "Rúben Dias",
+      "type": "yellow",
+      "minute": "17"
+    },
+    {
+      "match": "R32-12",
+      "team": "Croatie",
+      "player": "Luka Modric",
+      "type": "yellow",
+      "minute": "59"
+    },
+    {
+      "match": "R32-12",
+      "team": "Croatie",
+      "player": "Ivan Perisic",
+      "type": "yellow",
+      "minute": "90+2"
+    },
+    {
+      "match": "R32-13",
+      "team": "Suisse",
+      "player": "Breel Embolo",
+      "type": "goal",
+      "minute": "10"
+    },
+    {
+      "match": "R32-13",
+      "team": "Suisse",
+      "player": "Dan Ndoye",
+      "type": "goal",
+      "minute": "46"
+    },
+    {
+      "match": "R32-13",
+      "team": "Algérie",
+      "player": "Fares Chaibi",
+      "type": "yellow",
+      "minute": "36"
+    },
+    {
+      "match": "R32-13",
+      "team": "Algérie",
+      "player": "Hicham Boudaoui",
+      "type": "yellow",
+      "minute": "72"
+    },
+    {
+      "match": "R32-14",
       "team": "Égypte",
-      "player": "Mahmoud Saber",
-      "type": "yellow"
+      "player": "Emam Ashour",
+      "type": "goal",
+      "minute": "13"
     },
     {
-      "match": "G5",
-      "team": "Égypte",
-      "player": "Yasser Ibrahim",
-      "type": "yellow"
+      "match": "R32-14",
+      "team": "Australie",
+      "player": "Mohamed Hany",
+      "type": "own_goal",
+      "minute": "55",
+      "benefits": "Égypte"
     },
     {
-      "match": "R32-1",
-      "team": "Canada",
-      "player": "Nathan Saliba",
-      "type": "yellow"
+      "match": "R32-16",
+      "team": "Colombie",
+      "player": "Jhon Arias",
+      "type": "goal",
+      "minute": "14"
     },
     {
-      "match": "R32-1",
-      "team": "Canada",
-      "player": "Niko Sigur",
-      "type": "yellow"
+      "match": "R32-16",
+      "team": "Colombie",
+      "player": "Jhon Arias",
+      "type": "yellow",
+      "minute": "24"
     },
     {
-      "match": "R32-2",
-      "team": "Brésil",
-      "player": "Danilo",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-2",
-      "team": "Brésil",
-      "player": "Casemiro",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-2",
-      "team": "Japon",
-      "player": "Kaishu Sano",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-2",
-      "team": "Japon",
-      "player": "Daichi Kamada",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-2",
-      "team": "Japon",
-      "player": "Junnosuke Suzuki",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-3",
-      "team": "Allemagne",
-      "player": "Kai Havertz",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-3",
-      "team": "Allemagne",
-      "player": "Jamal Musiala",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-3",
-      "team": "Paraguay",
-      "player": "Andrés Cubas",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-3",
-      "team": "Paraguay",
-      "player": "Matías Galarza",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-4",
-      "team": "Maroc",
-      "player": "Issa Diop",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-5",
-      "team": "Norvège",
-      "player": "Antonio Nusa",
-      "type": "yellow"
-    },
-    {
-      "match": "R32-7",
-      "team": "Équateur",
-      "player": "Alan Franco",
-      "type": "yellow"
+      "match": "R32-16",
+      "team": "Ghana",
+      "player": "Caleb Yirenkyi",
+      "type": "yellow",
+      "minute": "57"
     }
   ],
   "lineups": [
@@ -8513,9 +8583,9 @@
       "team": "Brésil",
       "player": "Rodrygo",
       "status": "out",
-      "type": "Torn ACL and meniscus",
       "severity": "severe",
-      "note": "LCA et ménisque déchirés en mars (Real Madrid). Absent jusqu'en 2027."
+      "type": "rupture ligament croisé + ménisque",
+      "note": "Forfait pour le reste de la saison 2026, absent du Mondial."
     },
     {
       "team": "Brésil",
@@ -8544,9 +8614,9 @@
       "team": "Brésil",
       "player": "Neymar",
       "status": "returning",
-      "type": "Contracture mollet",
-      "severity": "minor",
-      "note": "Entrée en jeu en phase de groupes. Avec Paquetá forfait, devrait titulariser contre la Norvège."
+      "severity": "moderate",
+      "type": "mollet",
+      "note": "Cleared pour jouer 90 minutes mais utilisé prudemment par Ancelotti comme joker offensif."
     },
     {
       "team": "Maroc",
@@ -8748,10 +8818,10 @@
     {
       "team": "Angleterre",
       "player": "Reece James",
-      "status": "out",
-      "type": "Ischio-jambiers",
-      "severity": "minor",
-      "note": "Absent contre la RD Congo (1er juillet). Djed Spence en remplacement en latéral droit."
+      "status": "returning",
+      "severity": "moderate",
+      "type": "ischio-jambiers",
+      "note": "A manqué le huitième contre la RD Congo mais scan rassurant, en course pour un retour en quarts."
     },
     {
       "team": "Croatie",
@@ -8885,33 +8955,33 @@
       "team": "Angleterre",
       "player": "Declan Rice",
       "status": "returning",
-      "type": "Dos/nerf ischio-jambiers",
       "severity": "minor",
-      "note": "Mis au repos vs Panama par précaution. Retour à l'entraînement complet. Apte pour le match du 1er juillet."
+      "type": "dos / douleur nerveuse (ischio-jambier)",
+      "note": "A repris l'entraînement collectif, progression favorable."
     },
     {
       "team": "Espagne",
       "player": "Nico Williams",
       "status": "doubtful",
-      "type": "Aine",
       "severity": "moderate",
-      "note": "Rechute lors du dernier match de groupe vs Uruguay. Pourrait manquer le reste du tournoi."
+      "type": "muscle adducteur droit",
+      "note": "Blessure contractée en phase de groupes, pas de délai de retour communiqué."
     },
     {
       "team": "Espagne",
       "player": "Yeremy Pino",
-      "status": "out",
-      "type": "Entorse acromio-claviculaire (clavicule)",
+      "status": "doubtful",
       "severity": "moderate",
-      "note": "Blessé lors de la finale de groupe vs Uruguay. Pourrait manquer le reste du tournoi."
+      "type": "entorse acromio-claviculaire",
+      "note": "Fracture évitée mais retour incertain, reste avec le groupe."
     },
     {
       "team": "Égypte",
       "player": "Mohamed Salah",
-      "status": "doubtful",
-      "type": "Genou",
+      "status": "returning",
       "severity": "minor",
-      "note": "Problème au genou en phase de groupes. Retour à l'entraînement. Incertain pour le huitième vs Mexique."
+      "type": "ischio-jambiers",
+      "note": "Blessure contractée en fin de phase de groupes, incertain pour le huitième contre l'Australie."
     },
     {
       "team": "Sénégal",
@@ -8952,6 +9022,86 @@
       "type": "Contracture musculaire",
       "severity": "minor",
       "note": "Difficile d'être prêt pour le huitième selon Pochettino."
+    },
+    {
+      "team": "Maroc",
+      "player": "Ismaël Saibari",
+      "status": "doubtful",
+      "severity": "moderate",
+      "type": "blessure à la jambe",
+      "note": "Sorti à la 22e minute du huitième de finale contre les Pays-Bas."
+    },
+    {
+      "team": "Maroc",
+      "player": "Chadi Riad",
+      "status": "doubtful",
+      "severity": "moderate",
+      "type": "blessure non précisée",
+      "note": "S'est entraîné à part avant le quart de finale, statut flou pour le match contre la France."
+    },
+    {
+      "team": "Pays-Bas",
+      "player": "Jurrien Timber",
+      "status": "out",
+      "severity": "moderate",
+      "type": "blessure non précisée (tracker ESPN)",
+      "note": "Absent pour les Pays-Bas selon le tracker de blessures ESPN."
+    },
+    {
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "type": "Ankle injury",
+      "severity": "minor",
+      "status": "returning",
+      "note": "Minor ankle knock from Morocco quarter-final (July 9). Iced on bench, played it down. Expected available for semi-final vs Spain."
+    },
+    {
+      "team": "France",
+      "player": "Aurélien Tchouaméni",
+      "type": "Groin/adductor strain",
+      "severity": "moderate",
+      "status": "doubtful",
+      "note": "Injured July 3 before Paraguay match, out for last two matches. Improving with individual recovery program, uncertain for Spain semi-final."
+    },
+    {
+      "team": "England",
+      "player": "Marc Guehi",
+      "type": "Hamstring strain",
+      "severity": "moderate",
+      "status": "doubtful",
+      "note": "Sustained against Mexico in round-of-16, may miss Argentina semi-final."
+    },
+    {
+      "team": "England",
+      "player": "Reece James",
+      "type": "Hamstring soreness",
+      "severity": "minor",
+      "status": "returning",
+      "note": "Hamstring soreness after Ghana match but played full 90 minutes vs Mexico. Closing in on return for Argentina semi-final."
+    },
+    {
+      "team": "England",
+      "player": "Declan Rice",
+      "type": "Illness",
+      "severity": "minor",
+      "status": "doubtful",
+      "note": "Struck down with illness, uncertainty for semi-final participation."
+    },
+    {
+      "team": "England",
+      "player": "Jordan Henderson",
+      "type": "Arm fracture",
+      "severity": "severe",
+      "status": "out",
+      "note": "Broke arm during post-match celebrations after Mexico victory (fell from advertising hoarding). Tournament ended."
+    },
+    {
+      "team": "Argentina",
+      "player": "Gonzalo Medina",
+      "type": "Calf strain",
+      "severity": "moderate",
+      "status": "doubtful",
+      "note": "Calf problem in last-32 match vs Cape Verde, missed last-16 vs Egypt, continues to be assessed."
     }
   ],
   "form_notes": [
@@ -9011,11 +9161,6 @@
       "trend": "up"
     },
     {
-      "team": "France",
-      "note": "Deux victoires convaincantes : 4-1 vs Irak, 3-2 vs Sénégal. Match décisif contre la Norvège le 26 juin pour le leadership du groupe I. Défense impressionnante (0,10 xG concédé à Sénégal).",
-      "trend": "up"
-    },
-    {
       "team": "Allemagne",
       "note": "7-1 vs Curaçao puis 2-1 vs Côte d'Ivoire, mais perd Schlotterbeck sur blessure. Défense fragilisée en vue des huitièmes. Attaque prolifique, défense sous pression.",
       "trend": "stable"
@@ -9028,16 +9173,6 @@
     {
       "team": "Suisse",
       "note": "Invaincus en groupe B (7 pts). Victoire 2-1 vs Canada. Réguliers et difficiles à battre.",
-      "trend": "stable"
-    },
-    {
-      "team": "Brésil",
-      "note": "Vainqueur du groupe mais touché par une crise de blessures (Paquetá forfait, Raphinha douteux, Estêvão/Rodrygo/Militão absents avant le tournoi). Victoire poussive 2-1 vs Japon en R32. Profondeur de banc sévèrement testée avant le huitième vs Norvège.",
-      "trend": "down"
-    },
-    {
-      "team": "Angleterre",
-      "note": "Vainqueur du groupe L, victoire 2-0 vs Panama. Trois clean sheets en phase de groupes. Bonne solidité défensive mais crise au poste de latéral droit avec James et Quansah absents.",
       "trend": "stable"
     },
     {
@@ -9054,11 +9189,6 @@
       "team": "États-Unis",
       "note": "Vainqueur du groupe D. Pulisic ménagé en phase de groupes ; désormais apte et prêt à jouer vs Bosnie. Avantage du terrain à Santa Clara.",
       "trend": "up"
-    },
-    {
-      "team": "Espagne",
-      "note": "Perd Williams et Pino en finale de groupe vs Uruguay — double coup dur sur les ailes. Lamine Yamal en forme et en pleine confiance. L'Espagne devra adapter son système.",
-      "trend": "down"
     },
     {
       "team": "Maroc",
@@ -9084,6 +9214,56 @@
       "team": "Mexique",
       "note": "Premier du groupe A. Victoire 2-0 vs Équateur le 1er juillet. Affronte l'Égypte en huitième à Mexico — quasiment à domicile.",
       "trend": "up"
+    },
+    {
+      "team": "Angleterre",
+      "player": "Declan Rice",
+      "note": "A repris l'entraînement collectif après un problème lombaire/nerf sciatique, progresse favorablement vers un retour.",
+      "trend": "up"
+    },
+    {
+      "team": "Angleterre",
+      "player": "Reece James",
+      "note": "Scan rassurant sur sa blessure aux ischio-jambiers, en course pour être disponible en quarts après avoir manqué le huitième contre la RD Congo.",
+      "trend": "up"
+    },
+    {
+      "team": "Brésil",
+      "player": "Neymar",
+      "note": "Remis de sa blessure au mollet et physiquement apte à jouer 90 minutes selon Ancelotti, mais utilisé avec parcimonie comme arme offensive en fin de match.",
+      "trend": "up"
+    },
+    {
+      "team": "Espagne",
+      "player": "Nico Williams",
+      "note": "Blessure musculaire à l'adducteur droit ; pas de calendrier de retour donné, incertain pour les prochains tours.",
+      "trend": "down"
+    },
+    {
+      "team": "Espagne",
+      "player": "Yeremy Pino",
+      "note": "Entorse acromio-claviculaire (fracture évitée) ; reste avec le groupe mais retour incertain.",
+      "trend": "down"
+    },
+    {
+      "team": "France",
+      "note": "Six-game winning streak. Scored 16 goals in knockout rounds. Dominant attacking form with Mbappé leading the charge.",
+      "trend": "up"
+    },
+    {
+      "team": "Spain",
+      "note": "Unbeaten in six matches with exceptional defensive record (1 goal conceded in six games, longest streak in World Cup history). Defensive strength compensates for lower conversion rate.",
+      "trend": "stable"
+    },
+    {
+      "team": "England",
+      "note": "Late heroics vs Norway in extra time (Bellingham 2-1 victory). Defensively solid but dealing with injury crisis. Showed character in knockout stages.",
+      "trend": "up"
+    },
+    {
+      "team": "Argentina",
+      "note": "Defending champions winning through extra time. Experiencing some defensive vulnerability (conceded in last games) but Messi's exceptional form carries the team.",
+      "trend": "stable"
     }
   ],
   "player_form": [
@@ -9091,12 +9271,6 @@
       "team": "Cap-Vert",
       "player": "Vozinha",
       "note": "Gardien de 40 ans exceptionnel, clean sheet vs Espagne.",
-      "trend": "up"
-    },
-    {
-      "team": "Égypte",
-      "player": "Emam Ashour",
-      "note": "Buteur et menace offensive directe vs Belgique.",
       "trend": "up"
     },
     {
@@ -9142,28 +9316,10 @@
       "note": "Meilleur buteur du tournoi avec 6 buts. Forme dominante malgré les inquiétudes pré-tournoi. Garde le meilleur pour le Mondial."
     },
     {
-      "team": "France",
-      "player": "Kylian Mbappé",
-      "trend": "up",
-      "note": "Co-meilleur buteur avec 6 buts. Dévastateur ; la France semble inarrêtable quand il est en feu."
-    },
-    {
       "team": "Norvège",
       "player": "Erling Haaland",
       "trend": "up",
       "note": "5 buts dans le tournoi — propulse la Norvège loin dans les phases éliminatoires pour la première fois depuis des décennies."
-    },
-    {
-      "team": "France",
-      "player": "Ousmane Dembélé",
-      "trend": "up",
-      "note": "4 buts ; association brillante avec Mbappé. L'attaque française tourne à plein régime."
-    },
-    {
-      "team": "Brésil",
-      "player": "Vinícius Júnior",
-      "trend": "up",
-      "note": "4 buts ; principale menace offensive brésilienne. Encore plus décisif avec les blessures de Paquetá et Raphinha."
     },
     {
       "team": "Angleterre",
@@ -9206,6 +9362,48 @@
       "player": "Son Heung-min",
       "trend": "down",
       "note": "Corée du Sud éliminée en phase de groupes. Son a déclaré être 'indescriptiblement blessé' par cette sortie prématurée."
+    },
+    {
+      "team": "Égypte",
+      "player": "Mohamed Salah",
+      "note": "Incertain pour le huitième de finale contre l'Australie malgré une blessure aux ischio-jambiers contractée en fin de phase de groupes.",
+      "trend": "stable"
+    },
+    {
+      "team": "Brésil",
+      "player": "Neymar",
+      "note": "A retrouvé du temps de jeu en fin de match après sa blessure au mollet ; rôle de super-sub plutôt que titulaire indiscutable.",
+      "trend": "up"
+    },
+    {
+      "team": "France",
+      "player": "Kylian Mbappé",
+      "note": "8 goals in tournament (co-leader Golden Boot with Messi). 39% conversion rate, clinical finishing in knockout rounds. Minor ankle concern but remain among tournament's standout players.",
+      "trend": "up"
+    },
+    {
+      "team": "Spain",
+      "player": "Lamine Yamal",
+      "note": "Young emerging star, key playmaker for Spain's attacking setup. Renewing club rivalry with Mbappé at international level.",
+      "trend": "up"
+    },
+    {
+      "team": "England",
+      "player": "Jude Bellingham",
+      "note": "Scored decisive extra-time goals vs Norway including the 2-1 winner. First England player since Diego Maradona (1986) to debut in World Cup with such immediate impact.",
+      "trend": "up"
+    },
+    {
+      "team": "Argentina",
+      "player": "Lionel Messi",
+      "note": "8 goals, co-leader Golden Boot. Historic form at age 39 with 9 goal contributions. Central to Argentina's tournament progression. 20 goals in 20 World Cup games lifetime.",
+      "trend": "up"
+    },
+    {
+      "team": "England",
+      "player": "Harry Kane",
+      "note": "6 goals in tournament, key match-winner for England alongside Bellingham.",
+      "trend": "stable"
     }
   ],
   "engagement_notes": [
@@ -9251,11 +9449,6 @@
       "note": "Angleterre-Ghana (23/06, Groupe L): Kudus incertain (ischio), facteur clé."
     },
     {
-      "team": "France",
-      "note": "Match décisif le 26 juin vs Norvège pour la tête du groupe I. Les deux équipes sont qualifiées mais le classement déterminera le tableau dans la phase à élimination directe. Duel Mbappé-Haaland au centre de l'attention mondiale.",
-      "trend": "up"
-    },
-    {
       "team": "Argentine",
       "note": "Qualification et 1re place acquises. Dernier match vs Jordan (groupe J) = rotation probable / repos des cadres. Inquiétude sur Romero pour les 1/32e.",
       "trend": "stable"
@@ -9281,11 +9474,6 @@
       "trend": "up"
     },
     {
-      "team": "Angleterre",
-      "note": "Doit gagner le R32 vs RD Congo (1er juillet, Atlanta). Crise au poste de latéral droit (James + Quansah absents). Tuchel doit trancher sur le rôle de Rice. Victoire attendue mais fragilité défensive préoccupante.",
-      "trend": "stable"
-    },
-    {
       "team": "Belgique",
       "note": "R32 vs Sénégal (1er juillet, Seattle). Malgré leur victoire en groupe G, les Belges ont manqué de convction. Sénégal sans Mendy — avantage à exploiter tôt. De Bruyne doit dicter. Une défaite serait un gros upset.",
       "trend": "stable"
@@ -9301,18 +9489,8 @@
       "trend": "up"
     },
     {
-      "team": "Brésil",
-      "note": "Affronte la Norvège en huitième. Paquetá forfait, Raphinha douteux — Neymar pourrait reprendre sa place dans le XI. Le Brésil reste favori sur le papier mais leur profondeur est sévèrement testée.",
-      "trend": "down"
-    },
-    {
       "team": "Norvège",
       "note": "Affronte le Brésil en huitième — véritable opportunité de tuer le géant. Le Brésil est blessé. Haaland en feu (5 buts). Si la Norvège reste dans le match, une séance aux tirs au but leur conviendrait. Enjeu historique pour le football norvégien.",
-      "trend": "up"
-    },
-    {
-      "team": "Maroc",
-      "note": "A éliminé les Pays-Bas en R32 (3-2 aux tirs au but). L'une des grandes histoires du tournoi. Hakimi créateur infatigable. Confiance au maximum pour le huitième.",
       "trend": "up"
     },
     {
@@ -9326,14 +9504,55 @@
       "trend": "up"
     },
     {
-      "team": "Espagne",
-      "note": "Double crise sur les ailes (Williams + Pino blessés en finale de groupe). Lamine Yamal apte et en forme. Ajustement tactique nécessaire. Toujours l'un des favoris mais vulnérable sur les côtés.",
-      "trend": "down"
-    },
-    {
       "team": "Canada",
       "note": "Victoire en R32 (1-0 vs Afrique du Sud). Davies en retour de blessure. Pour le Canada, chaque victoire en phase éliminatoire est historique. Vague d'enthousiasme national.",
       "trend": "up"
+    },
+    {
+      "team": "Maroc",
+      "note": "Qualifié pour les quarts (victoire aux tirs au but face aux Pays-Bas) mais effectif décimé par les blessures avant d'affronter la France.",
+      "trend": "down"
+    },
+    {
+      "team": "Angleterre",
+      "note": "Qualifiée pour les quarts après avoir battu la RD Congo ; retours progressifs de Rice et James renforcent le groupe.",
+      "trend": "up"
+    },
+    {
+      "team": "Brésil",
+      "note": "Ancelotti gère prudemment le retour de Neymar, l'utilisant en joker plutôt qu'en titulaire pour les phases à élimination directe.",
+      "trend": "stable"
+    },
+    {
+      "team": "Espagne",
+      "note": "Champions d'Europe en titre, qualifiés en tête de groupe malgré la double blessure de leurs ailiers Nico Williams et Yeremy Pino.",
+      "trend": "down"
+    },
+    {
+      "team": "Égypte",
+      "note": "Salah incertain mais dans le groupe pour le huitième contre l'Australie.",
+      "trend": "stable"
+    },
+    {
+      "team": "France",
+      "note": "Championship contenders with strongest offensive form. Mbappé's ankle injury is potential tournament-decisive factor. Facing Spain after losing Euro 2024 semi-final and 2025 Nations League match (5-4) to them.",
+      "trend": "up"
+    },
+    {
+      "team": "Spain",
+      "note": "Record-breaking defensive performance carrying them forward. Direct rematch with France after two recent defeats. Opta supercomputer gives France 42.1% win probability vs Spain's 31.8%.",
+      "trend": "stable"
+    },
+    {
+      "team": "England",
+      "note": "Historic semi-final vs Argentina (first World Cup meeting since 2002). Bellingham's emergence as match-winner offsets defensive injury concerns. Analyzed as 56-58% probability to reach final.",
+      "trend": "up"
+    },
+    {
+      "team": "Argentina",
+      "player": "Lionel Messi",
+      "note": "Defending champions relying on Messi's historic form at age 39. Experience factor crucial in tight semi-final against high-quality opposition. Analysts expect low-scoring contest (Under 2.5 goals favored).",
+      "trend": "stable"
     }
   ]
 }

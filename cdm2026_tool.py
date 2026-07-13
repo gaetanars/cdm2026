@@ -206,7 +206,7 @@ def global_stats(data):
 # ─────────────────────────── RENDU TXT ──────────────────────────
 
 GROUPS = list("ABCDEFGHIJKL")
-KNOCKOUT_ORDER = ["Huitièmes", "Quarts", "Demi-finales", "Finale"]
+KNOCKOUT_ORDER = ["Seizièmes", "Huitièmes", "Quarts", "Demi-finales", "Finale"]
 
 def render(data):
     L = []
@@ -238,12 +238,13 @@ def render(data):
 
     # ── Phases éliminatoires ──
     for label, key, datehint in [
-        ("HUITIÈMES DE FINALE", "Huitièmes", "début prévu le 2026-06-28"),
+        ("SEIZIÈMES DE FINALE (32es)", "Seizièmes", "28 juin – 3 juillet 2026"),
+        ("HUITIÈMES DE FINALE", "Huitièmes", "à venir après les seizièmes"),
         ("QUARTS DE FINALE", "Quarts", "début prévu le 2026-07-09"),
         ("DEMI-FINALES", "Demi-finales", "2026-07-14 et 2026-07-15"),
     ]:
         w("[PHASE ÉLIMINATOIRE - {}]".format(label))
-        kos = [m for m in data["matches"] if m.get("phase") == "knockout" and m.get("round") == key]
+        kos = [m for m in data["matches"] if m.get("phase") == "knockout" and (m.get("round") or "").startswith(key)]
         if not kos:
             w("Aucun match joué ({})".format(datehint))
         else:
@@ -651,11 +652,12 @@ def cmd_merge(delta_path):
             by_id[mid] = m
             stats["matches_added"] += 1
 
-    # events (dedup par match/player/minute/type)
-    seen = {(e.get("match"), e.get("player"), str(e.get("minute")), e.get("type"))
-            for e in data["events"]}
+    # events (dedup par match/player/minute/type ; minute vide/absente traitée pareil)
+    def mkey(e):
+        return (e.get("match"), e.get("player"), str(e.get("minute") or ""), e.get("type"))
+    seen = {mkey(e) for e in data["events"]}
     for e in delta.get("events", []):
-        key = (e.get("match"), e.get("player"), str(e.get("minute")), e.get("type"))
+        key = mkey(e)
         if key in seen:
             continue
         data["events"].append(e)
